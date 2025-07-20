@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thinking/zettels/1-a1-d-compass-of-thoughts-can-generate-ideas-or-connections/","noteIcon":"","created":"2025-04-22T14:50","updated":"2025-05-30T18:08"}
+{"dg-publish":true,"permalink":"/thinking/zettels/1-a1-d-compass-of-thoughts-can-generate-ideas-or-connections/","noteIcon":"","created":"2025-04-22T14:50","updated":"2025-05-30T18:11"}
 ---
 
 

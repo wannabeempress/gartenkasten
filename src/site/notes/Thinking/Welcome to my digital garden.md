@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thinking/welcome-to-my-digital-garden/","tags":["gardenEntry"],"noteIcon":"","created":"2025-05-30T14:25","updated":"2025-07-20T18:56"}
+{"dg-publish":true,"permalink":"/thinking/welcome-to-my-digital-garden/","tags":["gardenEntry"],"noteIcon":"","created":"2025-05-30T14:25","updated":"2025-07-20T20:05"}
 ---
 
 
@@ -30,15 +30,13 @@ _By the way,_ I think [[pink links\|pink links]] mean the note is _unpublished_ 
 
 ## Meander  from these planted thoughts
 
-[[Thinking/Welcome to my digital garden\|✿]] [[Thinking/Tracts/Why I Chose This Path\|✿]] 
+[[Thinking/Welcome to my digital garden\|✿]] [[Thinking/Tracts/Why I Chose This Path\|✿]] [[Thinking/Zettels/(1A1A1B2) Cultivating A Garden Is Continual Effort\|✿]] [[Thinking/Zettels/(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time\|✿]] [[Thinking/Zettels/(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time\|✿]]
 
 **Legend**: ✿ Thought Note| ☙ Has Visual | 𔒝 Source Note 
 
 | File                                                                                                                                                                                                             |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Thinking/Zettels/(1A1A1B2) Cultivating A Garden Is Continual Effort\|(1A1A1B2) Cultivating A Garden Is Continual Effort]]                                                                                   |
 | [[Thinking/Zettels/(1A1A1B1A) Interstitial Journalling Can Be Used To Proactively Plan For Upcoming Activities\|(1A1A1B1A) Interstitial Journalling Can Be Used To Proactively Plan For Upcoming Activities]] |
-| [[Thinking/Zettels/(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time\|(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time]]                                     |
 | [[Thinking/Zettels/(1A1A1B1B1) Operating In Clock Time Vs Event Time\|(1A1A1B1B1) Operating In Clock Time Vs Event Time]]                                                                                     |
 | [[Thinking/Zettels/(5A) Making Something Observable Benefits The Thing\|(5A) Making Something Observable Benefits The Thing]]                                                                                 |
 | [[Thinking/Zettels/(5B) I Will Make My Own Learning Observable And Public\|(5B) I Will Make My Own Learning Observable And Public]]                                                                           |
@@ -70,6 +68,8 @@ _By the way,_ I think [[pink links\|pink links]] mean the note is _unpublished_ 
 
 ### Recently planted ideas 
 
+- [[Thinking/Zettels/(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time\|(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time]]: 8:08 PM - July 20, 2025
+- [[Thinking/Zettels/(1A1A1B2) Cultivating A Garden Is Continual Effort\|(1A1A1B2) Cultivating A Garden Is Continual Effort]]: 8:07 PM - July 20, 2025
 - [[Thinking/Zettels/(9) Referencing practices in coaching vary in density\|(9) Referencing practices in coaching vary in density]]: 12:23 PM - July 18, 2025
 - [[Thinking/Zettels/(3B13) How I learned coaching\|(3B13) How I learned coaching]]: 12:23 PM - July 18, 2025
 - [[Thinking/Zettels/(1A1D1) The act of zettelkasten is associative in thinking\|(1A1D1) The act of zettelkasten is associative in thinking]]: 9:56 AM - July 14, 2025
@@ -89,11 +89,9 @@ _By the way,_ I think [[pink links\|pink links]] mean the note is _unpublished_ 
 - [[Thinking/Zettels/(5B) I Will Make My Own Learning Observable And Public\|(5B) I Will Make My Own Learning Observable And Public]]: 3:14 PM - May 30, 2025
 - [[Thinking/Zettels/(5A) Making Something Observable Benefits The Thing\|(5A) Making Something Observable Benefits The Thing]]: 3:13 PM - May 30, 2025
 - [[Thinking/Zettels/(5) Learning In Public Allows You To Grow Faster\|(5) Learning In Public Allows You To Grow Faster]]: 3:10 PM - May 30, 2025
-- [[Thinking/Zettels/(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time\|(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time]]: 11:45 AM - May 11, 2025
 - [[Thinking/Zettels/(1A1A1B1A) Interstitial Journalling Can Be Used To Proactively Plan For Upcoming Activities\|(1A1A1B1A) Interstitial Journalling Can Be Used To Proactively Plan For Upcoming Activities]]: 11:20 AM - April 29, 2025
 - [[Thinking/Zettels/(1A1A1B1B1) Operating In Clock Time Vs Event Time\|(1A1A1B1B1) Operating In Clock Time Vs Event Time]]: 11:20 AM - April 29, 2025
 - [[Thinking/Zettels/(1A1A1B1) My Daily Actions And Thoughts Cultivate My Garden Of Identity\|(1A1A1B1) My Daily Actions And Thoughts Cultivate My Garden Of Identity]]: 10:20 AM - April 29, 2025
-- [[Thinking/Zettels/(1A1A1B2) Cultivating A Garden Is Continual Effort\|(1A1A1B2) Cultivating A Garden Is Continual Effort]]: 3:22 PM - April 27, 2025
 
 { .block-language-dataview}
 

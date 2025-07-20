@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sense-sational-spellbook/","noteIcon":"","created":"2025-07-08T13:11","updated":"2025-07-10T17:47"}
+{"dg-publish":true,"permalink":"/sense-sational-spellbook/","noteIcon":"","created":"2025-07-08T13:11","updated":"2025-07-10T17:51"}
 ---
 
 
@@ -8,7 +8,7 @@
 ## Properties 
 
 - date:: [[2025-09-10\|2025-09-10]]
-- time_spent:: 09:30
+- time_spent:: 09:30-17:50 = 8 hours 20 minutes??? But minus many frequent breaks... so take off 2 hours...?
 - format:: PDF
 - url:: [Link or file path]
 - theme:: Make Life Magical, Not Just Practical
@@ -83,6 +83,14 @@ I want to tear my hair out hahahahahaha. Not literally. Kind of. Idk.
 
 I'll come back tomorrow and reflect properly. This was a very frustrating day. But I love the outcome!!! AND I FINISHED A THING YAY.
 
+I'm back! 
+
+I'm a lot happier about this now. I think last night I was just tired. Anyway, I've been thinking of making a lead magnet 🧲 of some kind since at least 2023. I had so many ideas. I would start... I would try again... nothing materialised. 
+
+I tend to overthink things. 
+
+Is this guidebook perfect? No. But it is _done_. And I actually used it yesterday because I was ignoring my sense of within-ness (I'm using that in place of interoception)! And then I honoured my body by eating. So yay. It already helped someone. That person was me... but still. I'm a person! 
+
 ### 🗂️ Project Modularity 
 > What did I re-use from other projects? Link to them (the more you reuse the better! Think like a programmer)
 
@@ -90,6 +98,12 @@ I admit I haven't reused anything yet, but I feel like I can reuse things from _
 
 ### 🧠→✨ Synthesis / Lesson
 > What did I learn during the shipment?
+
+Okay, some lessons... 
+
+- starting from a template is helpful
+- PDF compression is janky business - need to figure that out 
+- a clear vision is helpful. Initially I had a vague idea about what to do, but I used the layout of the Canva template as a springboard for ideas. I guess it acted as an additional creative restraint. 
 
 ### 🧭 STOP • START • KEEP
 - ✖️ Stop:  Over-committing lol. 
@@ -100,3 +114,7 @@ I admit I haven't reused anything yet, but I feel like I can reuse things from _
 > Any permanent notes, insights, or essays created?
 
 Hahahaha is there any time to write zettels when doing a one-day ship like this?! 
+
+Okay, fine. Here's a thought that came as part of reflection. Maybe that's my process going forward! 
+
+[[Constraints foster creativity\|Constraints foster creativity]]

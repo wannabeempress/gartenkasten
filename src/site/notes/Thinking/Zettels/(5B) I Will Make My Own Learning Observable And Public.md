@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thinking/zettels/5-b-i-will-make-my-own-learning-observable-and-public/","noteIcon":"","created":"2025-02-13T13:41","updated":"2025-03-31T06:03"}
+{"dg-publish":true,"permalink":"/thinking/zettels/5-b-i-will-make-my-own-learning-observable-and-public/","noteIcon":"","created":"2025-02-13T13:41","updated":"2025-05-30T15:14"}
 ---
 
 Given my challenges with [[working memory\|working memory]] and my fascination with [[systems thinking\|systems thinking]], it may be beneficial for me to apply this concept: [[Thinking/Zettels/(5A) Making Something Observable Benefits The Thing\|(5A) Making Something Observable Benefits The Thing]]. 

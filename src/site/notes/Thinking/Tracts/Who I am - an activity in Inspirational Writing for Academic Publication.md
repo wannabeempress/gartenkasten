@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thinking/tracts/who-i-am-an-activity-in-inspirational-writing-for-academic-publication/","noteIcon":"","created":"2025-05-29T08:41","updated":"2025-06-17T13:46"}
+{"dg-publish":true,"permalink":"/thinking/tracts/who-i-am-an-activity-in-inspirational-writing-for-academic-publication/","noteIcon":"","created":"2025-05-29T08:41","updated":"2025-07-18T12:23"}
 ---
 
 [Becoming a Researcher: A Personal Invocation | by Patricia Oyson | May, 2025 | Medium](https://medium.com/@patricia.oyson/becoming-a-researcher-a-personal-invocation-a24d6639e022)
@@ -39,7 +39,7 @@ I have a methodology mapped out; next, I will write it down and follow the path 
 
 Then I will write. On the couch, at the dining table, standing at my desk, in stolen moments in my husband's office in his ergonomic chair, at the library in periods of prolonged silence interspersed with the chatter and laughter of teens. 
 
-Why? I read that research is a web of knowledge (Neville (2016), as cited by [[Thinking/Reference/@daySuccessAcademicWriting2023\|@daySuccessAcademicWriting2023]]). I see knowledge like a woven tapestry, with feathers and strands tied together over the dimensions of time and space. I want to join the weavers. 
+Why? I read that research is a web of knowledge (Neville (2016), as cited by [[Thinking/Reference/@Day2023SuccessAcademicWriting\|@Day2023SuccessAcademicWriting]]). I see knowledge like a woven tapestry, with feathers and strands tied together over the dimensions of time and space. I want to join the weavers. 
 
 I love coaching; I know what it has done for me and how I've used it to help others. I want to follow the threads in the tapestry and see where they came from and where they might lead to. I want to know more. I want to be better. I want to see the patterns and to celebrate the growth of an industry that is so young and so beautiful and so hopeful. 
 
@@ -53,7 +53,7 @@ The bird circles overhead; I long to weave its cast-off feathers in the tapestry
 > Note: This was written in response to a writing exercise given in [[Thinking/Reference/@boltonInspirationalWritingAcademic2014\|@boltonInspirationalWritingAcademic2014]]. Then I fed it to ChatGPT and asked it to critique me. I then edited it myself. I'm using ChatGPT as a writing coach, in an attempt to do deliberate practice. 
 
 **supports**:: [[Thinking/Zettels/(1) I am a writer\|(1) I am a writer]]
-**leads to**:: [[Efforts/Who do I cite- Exploring citation practices in coaching 2025\|Who do I cite- Exploring citation practices in coaching 2025]]
+**leads to**:: [[Efforts/Patterns, Pathways, and Power-Bibliometric analysis of the citation practices shaping the field of professional coaching (1970-2020)\|Patterns, Pathways, and Power-Bibliometric analysis of the citation practices shaping the field of professional coaching (1970-2020)]]
 
 **Reference** 
 Bolton, G. (2014). _Inspirational writing for academic publication_. SAGE Publications.
