@@ -7,7 +7,7 @@
 ## Welcome to my digital garden 🌱
 
 > [!note]+ Garden Map
-> [[Thinking/Tracts/Why I Chose This Path\|✿]] [[Thinking/Zettels/(1A1A1B2) Cultivating A Garden Is Continual Effort\|✿]] [[Thinking/Zettels/(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time\|✿]] [[Thinking/Zettels/(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time\|✿]] [[Thinking/Reference/@Keshav2007HowReadPaper\|⚑]] [[Thinking/Zettels/(5A) Making Something Observable Benefits The Thing\|☙]] [[Thinking/Zettels/(5B) I Will Make My Own Learning Observable And Public\|✿]] [[Thinking/Zettels/(1C) I am a reader\|☙]] [[Thinking/Zettels/(3B3) The Client Has The Answer\|☙]] [[Thinking/Zettels/(1B2A) Copy Gamers to Reach Flow State\|✿]] [[Thinking/Zettels/(3B5B) Coachee Attitude Modulates Coaching Efficacy\|✿]]
+> [[Thinking/Tracts/Why I Chose This Path\|✿]] [[Thinking/Zettels/(1A1A1B2) Cultivating A Garden Is Continual Effort\|✿]] [[Thinking/Zettels/(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time\|✿]] [[Thinking/Zettels/(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time\|✿]] [[Thinking/Reference/@Keshav2007HowReadPaper\|⚑]] [[Thinking/Zettels/(5A) Making Something Observable Benefits The Thing\|☙]] [[Thinking/Zettels/(5B) I Will Make My Own Learning Observable And Public\|✿]] [[Thinking/Zettels/(1C) I am a reader\|☙]] [[Thinking/Zettels/(3B3) The Client Has The Answer\|☙]] [[Thinking/Zettels/(1B2A) Copy Gamers to Reach Flow State\|✿]] [[Thinking/Zettels/(3B5B) Coachee Attitude Modulates Coaching Efficacy\|✿]] [[Thinking/Zettels/(1A1A1B1A) Interstitial Journalling Can Be Used To Proactively Plan For Upcoming Activities\|✿]] [[Thinking/Zettels/(1A1D) Compass of Thoughts Can Generate Ideas Or Connections\|✿]] 
 > 
 
 ==**Legend**: ✿ Thought Note| ☙ Has Visual | ⚑ Source Note ==
@@ -29,9 +29,9 @@ As a cottage or kitchen garden, it needs to be a 'working garden' that bears fru
 
 As a guest, you are welcome to explore this garden of thoughts. 
 
-If any of my thoughts inspire you, then much like a physical garden, you can take a 'cutting'. Take the thought with you into your own notes or life and cultivate and nourish that thought, until it bears its own fruit and flowers. 
+If any of my thoughts inspire you, then much like a physical garden, you can take a 'cutting'. Take the thought with you into your own notes or life—and cultivate it, until it bears its own fruit and flowers. 
 
-_By the way,_ I think [[pink links\|pink links]] mean the note is _unpublished_ or I chose to keep it private, while **green links** like [[Thinking/Welcome to my digital garden\|this one]] are publicly online, and you can view them. Hope that helps!
+_By the way,_ [[pink links\|pink links]] mean the note is _unpublished_ or _private_, while **[[Thinking/Welcome to my digital garden\|green links]]** are public, and you can view them. 
 
 ### Some plants to visit 
 
@@ -44,7 +44,7 @@ _By the way,_ I think [[pink links\|pink links]] mean the note is _unpublished_ 
 
 ### Recently tended-to plants
 
-- [[Thinking/Welcome to my digital garden\|Welcome to my digital garden]]: 10:34 AM - July 21, 2025
+- [[Thinking/Welcome to my digital garden\|Welcome to my digital garden]]: 10:48 AM - July 21, 2025
 - [[Thinking/Zettels/(1A1D1A) Flow of zettelkasten\|(1A1D1A) Flow of zettelkasten]]: 10:23 AM - July 21, 2025
 - [[Thinking/Reference/@Keshav2007HowReadPaper\|@Keshav2007HowReadPaper]]: 10:20 AM - July 21, 2025
 - [[Thinking/Zettels/(3B3) The Client Has The Answer\|(3B3) The Client Has The Answer]]: 10:16 AM - July 21, 2025
