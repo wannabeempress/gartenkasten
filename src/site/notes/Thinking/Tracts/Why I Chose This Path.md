@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thinking/tracts/why-i-chose-this-path/","noteIcon":"","created":"2025-04-14T14:05","updated":"2025-04-27T15:19"}
+{"dg-publish":true,"permalink":"/thinking/tracts/why-i-chose-this-path/","noteIcon":"","created":"2025-04-14T14:05","updated":"2025-04-27T15:17"}
 ---
 
 # 🪞✨ Why I Chose This Path  

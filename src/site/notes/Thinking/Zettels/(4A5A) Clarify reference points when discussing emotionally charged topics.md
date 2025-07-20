@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thinking/zettels/4-a5-a-clarify-reference-points-when-discussing-emotionally-charged-topics/","noteIcon":"","created":"2025-06-06T07:26","updated":"2025-06-14T16:30"}
+{"dg-publish":true,"permalink":"/thinking/zettels/4-a5-a-clarify-reference-points-when-discussing-emotionally-charged-topics/","noteIcon":"","created":"2025-06-06T07:26","updated":"2025-06-06T13:19"}
 ---
 
 [[Thinking/Zettels/(4A5) It is necessary to agree on and establish reference points or directions in anatomy\|(4A5) It is necessary to agree on and establish reference points or directions in anatomy]] because that's how you know you are talking about the same thing. 

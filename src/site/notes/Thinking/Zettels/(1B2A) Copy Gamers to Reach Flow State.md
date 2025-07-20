@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thinking/zettels/1-b2-a-copy-gamers-to-reach-flow-state/","noteIcon":"","created":"2025-03-30T17:46","updated":"2025-07-09T13:40"}
+{"dg-publish":true,"permalink":"/thinking/zettels/1-b2-a-copy-gamers-to-reach-flow-state/","noteIcon":"","created":"2025-03-30T17:46","updated":"2025-03-30T18:56"}
 ---
 
 

@@ -6,6 +6,8 @@ The act of logging what is, has, and will happen orients you to event time becau
 
 In a way, interstitial journalling allows you to sidestep the decision of [[Thinking/Zettels/(1A1A1B1B1) Operating In Clock Time Vs Event Time\|Thinking/Zettels/(1A1A1B1B1) Operating In Clock Time Vs Event Time]]. 
 
+#zettel/need-analog 
+
 **Prev**:: [[Thinking/Zettels/(1A1A1B1) My Daily Actions And Thoughts Cultivate My Garden Of Identity\|(1A1A1B1) My Daily Actions And Thoughts Cultivate My Garden Of Identity]]
 
 **similar**:: [[Thinking/Zettels/(1A1A1B1A) Interstitial Journalling Can Be Used To Proactively Plan For Upcoming Activities\|(1A1A1B1A) Interstitial Journalling Can Be Used To Proactively Plan For Upcoming Activities]]
