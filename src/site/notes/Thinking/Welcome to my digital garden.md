@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thinking/welcome-to-my-digital-garden/","tags":["gardenEntry"],"noteIcon":"","created":"2025-05-30T14:25","updated":"2025-07-20T20:05"}
+{"dg-publish":true,"permalink":"/thinking/welcome-to-my-digital-garden/","tags":["gardenEntry"],"noteIcon":"","created":"2025-05-30T14:25","updated":"2025-07-20T20:09"}
 ---
 
 
@@ -30,7 +30,8 @@ _By the way,_ I think [[pink links\|pink links]] mean the note is _unpublished_ 
 
 ## Meander  from these planted thoughts
 
-[[Thinking/Welcome to my digital garden\|✿]] [[Thinking/Tracts/Why I Chose This Path\|✿]] [[Thinking/Zettels/(1A1A1B2) Cultivating A Garden Is Continual Effort\|✿]] [[Thinking/Zettels/(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time\|✿]] [[Thinking/Zettels/(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time\|✿]]
+> [!note]+ Garden Map
+> [[Thinking/Welcome to my digital garden\|✿]] [[Thinking/Tracts/Why I Chose This Path\|✿]] [[Thinking/Zettels/(1A1A1B2) Cultivating A Garden Is Continual Effort\|✿]] [[Thinking/Zettels/(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time\|✿]] [[Thinking/Zettels/(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time\|✿]]
 
 **Legend**: ✿ Thought Note| ☙ Has Visual | 𔒝 Source Note 
 
