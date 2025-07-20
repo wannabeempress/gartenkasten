@@ -1,16 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/thinking/welcome-to-my-digital-garden/","tags":["gardenEntry"],"noteIcon":"","created":"2025-05-30T14:25","updated":"2025-07-21T10:29"}
+{"dg-publish":true,"permalink":"/thinking/welcome-to-my-digital-garden/","tags":["gardenEntry"],"noteIcon":"","created":"2025-05-30T14:25","updated":"2025-07-21T11:28"}
 ---
 
 # Kia ora, e hoa! 
 > _Welcome, friend_
 ## Welcome to my digital garden 🌱
 
-> [!note]+ Garden Map
-> [[Thinking/Tracts/Why I Chose This Path\|✿]] [[Thinking/Zettels/(1A1A1B2) Cultivating A Garden Is Continual Effort\|✿]] [[Thinking/Zettels/(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time\|✿]] [[Thinking/Zettels/(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time\|✿]] [[Thinking/Reference/@Keshav2007HowReadPaper\|⚑]] [[Thinking/Zettels/(5A) Making Something Observable Benefits The Thing\|☙]] [[Thinking/Zettels/(5B) I Will Make My Own Learning Observable And Public\|✿]] [[Thinking/Zettels/(1C) I am a reader\|☙]] [[Thinking/Zettels/(3B3) The Client Has The Answer\|☙]] [[Thinking/Zettels/(1B2A) Copy Gamers to Reach Flow State\|✿]] [[Thinking/Zettels/(3B5B) Coachee Attitude Modulates Coaching Efficacy\|✿]] [[Thinking/Zettels/(1A1A1B1A) Interstitial Journalling Can Be Used To Proactively Plan For Upcoming Activities\|✿]] [[Thinking/Zettels/(1A1D) Compass of Thoughts Can Generate Ideas Or Connections\|✿]] 
+> [!note]+ Garden Map: Hover over the emojis to reveal the thought
+> [[Thinking/Tracts/Why I Chose This Path\|🦋]] [[Thinking/Zettels/(1A1A1B2) Cultivating A Garden Is Continual Effort\|🌿]] [[Thinking/Zettels/(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time\|🌿]] [[Thinking/Zettels/(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time\|🌿]] [[Thinking/Reference/@Keshav2007HowReadPaper\|🚩]] [[Thinking/Zettels/(5A) Making Something Observable Benefits The Thing\|🌸]] [[Thinking/Zettels/(5B) I Will Make My Own Learning Observable And Public\|🌿]] [[Thinking/Zettels/(1C) I am a reader\|🌸]] [[Thinking/Zettels/(3B3) The Client Has The Answer\|🌸]] [[Thinking/Zettels/(1B2A) Copy Gamers to Reach Flow State\|🌿]] [[Thinking/Zettels/(3B5B) Coachee Attitude Modulates Coaching Efficacy\|🌿]] [[Thinking/Zettels/(1A1A1B1A) Interstitial Journalling Can Be Used To Proactively Plan For Upcoming Activities\|🌿]] [[Thinking/Zettels/(1A1D) Compass of Thoughts Can Generate Ideas Or Connections\|🌿]] 
 > 
 
-==**Legend**: ✿ Thought Note| ☙ Has Visual | ⚑ Source Note ==
+#### What's in my garden? 
+- **🌿 Thought Note** → A micro-essay or single idea. Also known as a _zettel_ in the Zettelkasten forest. New leaf, fresh thought.
+- **🌸 Visual Note** → An idea expressed as a visual: charts, doodles, or diagrammed thinking. When an idea blossoms _visibly_.
+- **🦋 Identity Note** → Notes on self-reflection, self-storying, and transformation. Butterfly as metamorphosis.
+- **🚩 Source Note** → A note on something I’ve read, watched, or learned from. The root system feeding the garden. (There was no root emoji...)
+- **🪵 Log Note** → A longer-form piece, shipped project, or polished output. The mature tree, now harvested and logged.
 
 
 
@@ -44,7 +49,7 @@ _By the way,_ [[pink links\|pink links]] mean the note is _unpublished_ or _priv
 
 ### Recently tended-to plants
 
-- [[Thinking/Welcome to my digital garden\|Welcome to my digital garden]]: 10:48 AM - July 21, 2025
+- [[Thinking/Welcome to my digital garden\|Welcome to my digital garden]]: 11:35 AM - July 21, 2025
 - [[Thinking/Zettels/(1A1D1A) Flow of zettelkasten\|(1A1D1A) Flow of zettelkasten]]: 10:23 AM - July 21, 2025
 - [[Thinking/Reference/@Keshav2007HowReadPaper\|@Keshav2007HowReadPaper]]: 10:20 AM - July 21, 2025
 - [[Thinking/Zettels/(3B3) The Client Has The Answer\|(3B3) The Client Has The Answer]]: 10:16 AM - July 21, 2025
