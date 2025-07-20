@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/thinking/welcome-to-my-digital-garden/","tags":["gardenEntry"],"noteIcon":"","created":"2025-05-30T14:25","updated":"2025-06-17T14:09"}
+{"dg-publish":true,"permalink":"/thinking/welcome-to-my-digital-garden/","tags":["gardenEntry"],"noteIcon":"","created":"2025-05-30T14:25","updated":"2025-07-20T18:56"}
 ---
+
 
 
 # Kia ora, e hoa! 
@@ -29,6 +30,34 @@ _By the way,_ I think [[pink links\|pink links]] mean the note is _unpublished_ 
 
 ## Meander  from these planted thoughts
 
+[[Thinking/Welcome to my digital garden\|✿]] [[Thinking/Tracts/Why I Chose This Path\|✿]] 
+
+**Legend**: ✿ Thought Note| ☙ Has Visual | 𔒝 Source Note 
+
+| File                                                                                                                                                                                                             |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Thinking/Zettels/(1A1A1B2) Cultivating A Garden Is Continual Effort\|(1A1A1B2) Cultivating A Garden Is Continual Effort]]                                                                                   |
+| [[Thinking/Zettels/(1A1A1B1A) Interstitial Journalling Can Be Used To Proactively Plan For Upcoming Activities\|(1A1A1B1A) Interstitial Journalling Can Be Used To Proactively Plan For Upcoming Activities]] |
+| [[Thinking/Zettels/(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time\|(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time]]                                     |
+| [[Thinking/Zettels/(1A1A1B1B1) Operating In Clock Time Vs Event Time\|(1A1A1B1B1) Operating In Clock Time Vs Event Time]]                                                                                     |
+| [[Thinking/Zettels/(5A) Making Something Observable Benefits The Thing\|(5A) Making Something Observable Benefits The Thing]]                                                                                 |
+| [[Thinking/Zettels/(5B) I Will Make My Own Learning Observable And Public\|(5B) I Will Make My Own Learning Observable And Public]]                                                                           |
+| [[Thinking/Zettels/(1A1D) Compass of Thoughts Can Generate Ideas Or Connections\|(1A1D) Compass of Thoughts Can Generate Ideas Or Connections]]                                                               |
+| [[Thinking/Zettels/(3B1C) Coaching definition and purpose are intertwined\|(3B1C) Coaching definition and purpose are intertwined]]                                                                           |
+| [[Thinking/Zettels/(10) The path to depth is sometimes iterative...\|(10) The path to depth is sometimes iterative...]]                                                                                       |
+| [[Thinking/Zettels/(4A5A) Clarify reference points when discussing emotionally charged topics\|(4A5A) Clarify reference points when discussing emotionally charged topics]]                                   |
+| [[Thinking/Zettels/(1C) I am a reader\|(1C) I am a reader]]                                                                                                                                                   |
+| [[Thinking/Zettels/(3B5B) Coachee Attitude Modulates Coaching Efficacy\|(3B5B) Coachee Attitude Modulates Coaching Efficacy]]                                                                                 |
+| [[Thinking/Zettels/(3B5B2) Effort doesn't always lead to success\|(3B5B2) Effort doesn't always lead to success]]                                                                                             |
+| [[Thinking/Zettels/(3B3) The Client Has The Answer\|(3B3) The Client Has The Answer]]                                                                                                                         |
+| [[Thinking/Zettels/(1B2A) Copy Gamers to Reach Flow State\|(1B2A) Copy Gamers to Reach Flow State]]                                                                                                           |
+| [[Thinking/Zettels/(1A1D1) The act of zettelkasten is associative in thinking\|(1A1D1) The act of zettelkasten is associative in thinking]]                                                                   |
+| [[Thinking/Tracts/Who I am - an activity in Inspirational Writing for Academic Publication\|Who I am - an activity in Inspirational Writing for Academic Publication]]                                        |
+| [[Thinking/Zettels/(3B13) How I learned coaching\|(3B13) How I learned coaching]]                                                                                                                             |
+| [[Thinking/Zettels/(9) Referencing practices in coaching vary in density\|(9) Referencing practices in coaching vary in density]]                                                                             |
+
+{ .block-language-dataview}
+
 ### Some favourites 
 
 > Whose garden is this? [**source**:: [[Identities/My Identities\|Who Am I]]] 
@@ -41,30 +70,30 @@ _By the way,_ I think [[pink links\|pink links]] mean the note is _unpublished_ 
 
 ### Recently planted ideas 
 
+- [[Thinking/Zettels/(9) Referencing practices in coaching vary in density\|(9) Referencing practices in coaching vary in density]]: 12:23 PM - July 18, 2025
+- [[Thinking/Zettels/(3B13) How I learned coaching\|(3B13) How I learned coaching]]: 12:23 PM - July 18, 2025
+- [[Thinking/Zettels/(1A1D1) The act of zettelkasten is associative in thinking\|(1A1D1) The act of zettelkasten is associative in thinking]]: 9:56 AM - July 14, 2025
+- [[Thinking/Zettels/(1) I am a writer\|(1) I am a writer]]: 9:49 AM - July 14, 2025
 - [[Thinking/Zettels/(1B) 'Serious Play' Creates Great Work\|(1B) 'Serious Play' Creates Great Work]]: 1:40 PM - July 09, 2025
 - [[Thinking/Zettels/(1B2A) Copy Gamers to Reach Flow State\|(1B2A) Copy Gamers to Reach Flow State]]: 1:40 PM - July 09, 2025
-- [[Thinking/Zettels/(3B2B2A1C2A2) Build Trust By Maintaining Contact\|(3B2B2A1C2A2) Build Trust By Maintaining Contact]]: 11:30 AM - July 07, 2025
-- [[Thinking/Zettels/(3B2B2A1C2A3A1G) OSKAR Model\|(3B2B2A1C2A3A1G) OSKAR Model]]: 8:13 AM - July 07, 2025
-- [[Thinking/Zettels/(3B3A) The Coach Asks So The Client Can Answer\|(3B3A) The Coach Asks So The Client Can Answer]]: 11:53 AM - July 03, 2025
-- [[Thinking/Zettels/(8A1) Occupational Therapists get people to do valuable, simple things\|(8A1) Occupational Therapists get people to do valuable, simple things]]: 2:21 PM - July 01, 2025
-- [[Thinking/Zettels/(2A3) My husband gets more attractive all the time\|(2A3) My husband gets more attractive all the time]]: 10:26 AM - July 01, 2025
-- [[Thinking/Zettels/(3B5A1) Coaching relationship isn't as important as we think\|(3B5A1) Coaching relationship isn't as important as we think]]: 6:01 AM - July 01, 2025
-- [[Thinking/Zettels/(3B2B2B1) Coachee Owns The Coaching Process\|(3B2B2B1) Coachee Owns The Coaching Process]]: 5:54 AM - July 01, 2025
-- [[Thinking/Zettels/(3B7) Multiple Paths Led To Modern Coaching\|(3B7) Multiple Paths Led To Modern Coaching]]: 7:34 PM - June 30, 2025
 - [[Thinking/Zettels/(3B3) The Client Has The Answer\|(3B3) The Client Has The Answer]]: 7:34 PM - June 30, 2025
-- [[Thinking/Zettels/(3B2B2A1C) Role Of Coach\|(3B2B2A1C) Role Of Coach]]: 7:34 PM - June 30, 2025
-- [[Thinking/Zettels/(3B2B2) Coaching Is A Collaboration\|(3B2B2) Coaching Is A Collaboration]]: 7:34 PM - June 30, 2025
-- [[Thinking/Zettels/(3B2) Coaching As Operating Model\|(3B2) Coaching As Operating Model]]: 7:34 PM - June 30, 2025
-- [[Thinking/Zettels/(3B1B1B1) Helping Can Be Selfish\|(3B1B1B1) Helping Can Be Selfish]]: 7:34 PM - June 30, 2025
-- [[Thinking/Zettels/(3B1B1B) Helping Relationship Is Client-Centred\|(3B1B1B) Helping Relationship Is Client-Centred]]: 7:34 PM - June 30, 2025
-- [[Thinking/Zettels/(3B1B1A2) Helping Roles Are Increasing\|(3B1B1A2) Helping Roles Are Increasing]]: 7:34 PM - June 30, 2025
-- [[Thinking/Zettels/(3B1B1A1A) The Coaching Relationship Is Formalised\|(3B1B1A1A) The Coaching Relationship Is Formalised]]: 7:34 PM - June 30, 2025
-- [[Thinking/Zettels/(3B1B1A1) The Helper Is Impartial\|(3B1B1A1) The Helper Is Impartial]]: 7:34 PM - June 30, 2025
-- [[Thinking/Zettels/(3B1B1A) Helping Roles\|(3B1B1A) Helping Roles]]: 7:34 PM - June 30, 2025
-- [[Thinking/Zettels/(3B1B1) Criteria Of Helping Roles\|(3B1B1) Criteria Of Helping Roles]]: 7:34 PM - June 30, 2025
-- [[Thinking/Zettels/(3B1B) Coaching Is Separate From Other Helping Professions\|(3B1B) Coaching Is Separate From Other Helping Professions]]: 7:34 PM - June 30, 2025
-- [[Thinking/Zettels/(3B1A1A) Coachee Growth\|(3B1A1A) Coachee Growth]]: 7:34 PM - June 30, 2025
-- [[Thinking/Zettels/(3B1A1) Coaching Benefits The Client\|(3B1A1) Coaching Benefits The Client]]: 6:04 PM - June 30, 2025
-- [[Thinking/Zettels/(2A) My Husband Is Romantic\|(2A) My Husband Is Romantic]]: 11:24 AM - June 27, 2025
+- [[Thinking/Zettels/(3B) Coaching\|(3B) Coaching]]: 6:21 PM - June 20, 2025
+- [[Thinking/Zettels/(3B5B) Coachee Attitude Modulates Coaching Efficacy\|(3B5B) Coachee Attitude Modulates Coaching Efficacy]]: 6:21 PM - June 20, 2025
+- [[Thinking/Zettels/(3B5B2) Effort doesn't always lead to success\|(3B5B2) Effort doesn't always lead to success]]: 6:21 PM - June 20, 2025
+- [[Thinking/Zettels/(1A1A1B) My Thoughts Are A Cottage Garden\|(1A1A1B) My Thoughts Are A Cottage Garden]]: 2:00 PM - June 17, 2025
+- [[Thinking/Zettels/(1C) I am a reader\|(1C) I am a reader]]: 1:48 PM - June 17, 2025
+- [[Thinking/Zettels/(4A5A) Clarify reference points when discussing emotionally charged topics\|(4A5A) Clarify reference points when discussing emotionally charged topics]]: 4:30 PM - June 14, 2025
+- [[Thinking/Zettels/(3B1C) Coaching definition and purpose are intertwined\|(3B1C) Coaching definition and purpose are intertwined]]: 10:22 AM - May 31, 2025
+- [[Thinking/Zettels/(1A1D) Compass of Thoughts Can Generate Ideas Or Connections\|(1A1D) Compass of Thoughts Can Generate Ideas Or Connections]]: 6:11 PM - May 30, 2025
+- [[Thinking/Zettels/(10) The path to depth is sometimes iterative...\|(10) The path to depth is sometimes iterative...]]: 3:33 PM - May 30, 2025
+- [[Thinking/Zettels/(5B) I Will Make My Own Learning Observable And Public\|(5B) I Will Make My Own Learning Observable And Public]]: 3:14 PM - May 30, 2025
+- [[Thinking/Zettels/(5A) Making Something Observable Benefits The Thing\|(5A) Making Something Observable Benefits The Thing]]: 3:13 PM - May 30, 2025
+- [[Thinking/Zettels/(5) Learning In Public Allows You To Grow Faster\|(5) Learning In Public Allows You To Grow Faster]]: 3:10 PM - May 30, 2025
+- [[Thinking/Zettels/(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time\|(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time]]: 11:45 AM - May 11, 2025
+- [[Thinking/Zettels/(1A1A1B1A) Interstitial Journalling Can Be Used To Proactively Plan For Upcoming Activities\|(1A1A1B1A) Interstitial Journalling Can Be Used To Proactively Plan For Upcoming Activities]]: 11:20 AM - April 29, 2025
+- [[Thinking/Zettels/(1A1A1B1B1) Operating In Clock Time Vs Event Time\|(1A1A1B1B1) Operating In Clock Time Vs Event Time]]: 11:20 AM - April 29, 2025
+- [[Thinking/Zettels/(1A1A1B1) My Daily Actions And Thoughts Cultivate My Garden Of Identity\|(1A1A1B1) My Daily Actions And Thoughts Cultivate My Garden Of Identity]]: 10:20 AM - April 29, 2025
+- [[Thinking/Zettels/(1A1A1B2) Cultivating A Garden Is Continual Effort\|(1A1A1B2) Cultivating A Garden Is Continual Effort]]: 3:22 PM - April 27, 2025
 
 { .block-language-dataview}
+
