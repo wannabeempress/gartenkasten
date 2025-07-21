@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thinking/welcome-to-my-digital-garden/","tags":["gardenEntry"],"noteIcon":"","created":"2025-05-30T14:25","updated":"2025-07-21T11:38"}
+{"dg-publish":true,"permalink":"/thinking/welcome-to-my-digital-garden/","tags":["gardenEntry"],"noteIcon":"","created":"2025-05-30T14:25","updated":"2025-07-21T11:45"}
 ---
 
 # Kia ora, e hoa! 
@@ -50,10 +50,10 @@ _By the way,_ [[pink links\|pink links]] mean the note is _unpublished_ or _priv
 
 ### Recently tended-to plants
 
+- [[Thinking/Welcome to my digital garden\|Welcome to my digital garden]]: 12:20 PM - July 21, 2025
 - [[Thinking/Zettels/(1B2A1) If a task isn't getting done, it isn't 'ease-y' enough\|(1B2A1) If a task isn't getting done, it isn't 'ease-y' enough]]: 12:12 PM - July 21, 2025
 - [[Thinking/Zettels/(1A4) Zettel as micro-essay\|(1A4) Zettel as micro-essay]]: 12:11 PM - July 21, 2025
 - [[Thinking/Zettels/(10) The path to depth is sometimes iterative...\|(10) The path to depth is sometimes iterative...]]: 11:49 AM - July 21, 2025
-- [[Thinking/Welcome to my digital garden\|Welcome to my digital garden]]: 11:45 AM - July 21, 2025
 - [[Thinking/Zettels/(6) In An Accident Do Not Admit Blame\|(6) In An Accident Do Not Admit Blame]]: 11:39 AM - July 21, 2025
 - [[Thinking/Zettels/(1A1D1A) Flow of zettelkasten\|(1A1D1A) Flow of zettelkasten]]: 10:23 AM - July 21, 2025
 - [[Thinking/Reference/@Keshav2007HowReadPaper\|@Keshav2007HowReadPaper]]: 10:20 AM - July 21, 2025
@@ -61,10 +61,10 @@ _By the way,_ [[pink links\|pink links]] mean the note is _unpublished_ or _priv
 - [[Thinking/Zettels/(9) Referencing practices in coaching vary in density\|(9) Referencing practices in coaching vary in density]]: 12:23 PM - July 18, 2025
 - [[Thinking/Zettels/(3B13) How I learned coaching\|(3B13) How I learned coaching]]: 12:23 PM - July 18, 2025
 - [[Thinking/Tracts/Who I am - an activity in Inspirational Writing for Academic Publication\|Who I am - an activity in Inspirational Writing for Academic Publication]]: 12:23 PM - July 18, 2025
-- [[Thinking/Zettels/(1A1D1) The act of zettelkasten is associative in thinking\|(1A1D1) The act of zettelkasten is associative in thinking]]: 9:56 AM - July 14, 2025
-- [[Thinking/Zettels/(1) I am a writer\|(1) I am a writer]]: 9:49 AM - July 14, 2025
-- [[Thinking/Zettels/(1B) 'Serious Play' Creates Great Work\|(1B) 'Serious Play' Creates Great Work]]: 1:40 PM - July 09, 2025
-- [[Thinking/Zettels/(1B2A) Copy Gamers to Reach Flow State\|(1B2A) Copy Gamers to Reach Flow State]]: 1:40 PM - July 09, 2025
+- [[Thinking/Reference/@McMasterLibraries2018HowLibraryStuff\|@McMasterLibraries2018HowLibraryStuff]]: 9:55 AM - July 18, 2025
+- [[Thinking/Reference/@Graff2014TheySaySay\|@Graff2014TheySaySay]]: 9:55 AM - July 18, 2025
+- [[Thinking/Zettels/(1A2) Zettel creation is writing a micro-essay\|(1A2) Zettel creation is writing a micro-essay]]: 1:32 PM - July 16, 2025
+- [[Thinking/Reference/@zhaoCompassZettelkastenThinking\|@zhaoCompassZettelkastenThinking]]: 1:10 PM - July 16, 2025
 
 { .block-language-dataview}
 
