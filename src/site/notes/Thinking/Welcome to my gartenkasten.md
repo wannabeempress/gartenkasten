@@ -1,14 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/thinking/welcome-to-my-gartenkasten/","tags":["gardenEntry"],"noteIcon":"","created":"2025-05-30T14:25","updated":"2025-08-02T14:33"}
+{"dg-publish":true,"permalink":"/thinking/welcome-to-my-gartenkasten/","tags":["gardenEntry"],"noteIcon":"","created":"2025-05-30T14:25","updated":"2025-08-02T17:24"}
 ---
 
 # Kia ora, e hoa! 
 > _Welcome, friend_
 ## Welcome to my gartenkasten 🌱🗒️
-
-> [!note]+ Garden Map: Hover over the emojis to reveal the thought
-> [[Thinking/Tracts/Why I Chose This Path\|🦋]] [[Thinking/Zettels/(1A1A1B2) Cultivating A Garden Is Continual Effort\|🌿]] [[Thinking/Zettels/(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time\|🌿]] [[Thinking/Zettels/(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time\|🌿]] [[Thinking/Reference/@Keshav2007HowReadPaper\|🚩]] [[Thinking/Zettels/(5A) Making Something Observable Benefits The Thing\|🌸]] [[Thinking/Zettels/(5B) I Will Make My Own Learning Observable And Public\|🌿]] [[Thinking/Zettels/(1C) I am a reader\|🌸]] [[Thinking/Zettels/(3B3) The Client Has The Answer\|🌸]] [[Thinking/Zettels/(1B2A) Copy Gamers to Reach Flow State\|🌿]] [[Thinking/Zettels/(3B5B) Coachee Attitude Modulates Coaching Efficacy\|🌿]] [[Thinking/Zettels/(1A1A1B1A) Interstitial Journalling Can Be Used To Proactively Plan For Upcoming Activities\|🌿]] [[Thinking/Zettels/(1A1D) Compass of Thoughts Can Generate Ideas Or Connections\|🌿]] [[Thinking/Zettels/(6) In An Accident Do Not Admit Blame\|🌿]] [[Thinking/Zettels/(9) Referencing practices in coaching vary in density\|🌿]] [[Thinking/Zettels/(1A1A1B1B1) Operating In Clock Time Vs Event Time\|🌿]] [[Thinking/Tracts/Who I am - an activity in Inspirational Writing for Academic Publication\|🪵]] [[Thinking/Zettels/(10) The path to depth is sometimes iterative...\|🌿]] 
-> 
 
 #### What's in my garden? 
 
@@ -27,11 +23,23 @@ As a cottage or kitchen garden, it needs to be a 'working garden' that bears fru
 
 Gartenkasten - define this 
 
-- **🌿 Thought Note** → A micro-essay or single idea. Also known as a _zettel_ in the Zettelkasten forest. New leaf, fresh thought.
-- **🌸 Visual Note** → An idea expressed as a visual: charts, doodles, or diagrammed thinking. When an idea blossoms _visibly_.
-- **🦋 Identity Note** → Notes on self-reflection, self-storying, and transformation. Butterfly as metamorphosis.
-- **🚩 Source Note** → A note on something I’ve read, watched, or learned from. The root system feeding the garden. (There was no root emoji...)
-- **🪵 Log Note** → A longer-form piece, shipped project, or polished output. The mature tree, now harvested and logged.
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+| Type              | Emoji | Use case                                                                                                                                                                                                       | Location                                                         |
+| ----------------- | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| 🌱 Seed Note      | 🌱    | **Literature or Reference note** which references the ideas coming from a specific source, e.g. book, journal article, podcast. <br><br>_Seeds turn into plants and leaves._                                   | /Thinking/Reference                                              |
+| ✨ Spark Note      | ✨     | **Fleeting note**, which is an unprocessed thought that may have sparked randomly<br><br>_Sparks come and go, maybe they magically turn into plants and leaves_                                                | /                                                                |
+| 🍃 Cutting Note   | 🍃    | **Atomic note**, which describes a singular, modular idea in my own words, ideally including a reference to the seed. <br><br>_A single cutting is complete for propagating new plants, i.e. modular, atomic._ | /Thinking/Zettels                                                |
+| 🌿Plant note      | 🌿    | **Micro-essay** note, which synthesises related atomic ideas. To be transformed into separate cuttings.                                                                                                        | /Thinking/Zettels                                                |
+| 🦋 Butterfly note | 🦋    | **Reflection Note** → Notes on self-reflection, self-storying, and transformation, personal takes, memories, queries. Butterfly as metamorphosis.                                                              | /Thinking                                                        |
+| 🪵 Log note       | 🪵    | **Creative output**, like a longer-form piece, shipped project, or polished output. The mature tree, now harvested and logged.                                                                                 | /Thinking/Log (used to be Tracts? change Tracts folder, unclear) |
+| 🌸 Flower note    | 🌸    | **Visual Note** → An idea expressed as a visual: charts, doodles, or diagrammed thinking. When an idea blossoms _visibly_.                                                                                     | /Thinking/Zettels                                                |
+| 🚩Signpost note   | 🚩    | **Hub/Structure Note** which signals direction, clusters concepts, guides further exploration. <br><br>_Like a signpost in a garden._                                                                          | /Thinking                                                        |
+
+</div></div>
 
 
 
@@ -52,9 +60,9 @@ _By the way,_ [[pink links\|pink links]] mean the note is _unpublished_ or _priv
 
 ### Recently tended-to plants
 
+- [[Thinking/Welcome to my gartenkasten\|Welcome to my gartenkasten]]: 5:25 PM - August 02, 2025
+- [[Thinking/Zettels/(1A41) Note types in MY zettelkasten\|(1A41) Note types in MY zettelkasten]]: 5:25 PM - August 02, 2025
 - [[Thinking/Zettels/(1) I am a writer\|(1) I am a writer]]: 5:22 PM - August 02, 2025
-- [[Thinking/Zettels/(1A41) Note types in MY zettelkasten\|(1A41) Note types in MY zettelkasten]]: 5:21 PM - August 02, 2025
-- [[Thinking/Welcome to my gartenkasten\|Welcome to my gartenkasten]]: 3:44 PM - August 02, 2025
 - [[Thinking/Zettels/(1A1C) Mixing Wide, Medium And Tight Shots Tell A Story Succinctly\|(1A1C) Mixing Wide, Medium And Tight Shots Tell A Story Succinctly]]: 2:39 PM - August 02, 2025
 - [[Thinking/Reference/@ZaatMGT627LifeCareer\|@ZaatMGT627LifeCareer]]: 3:42 PM - August 01, 2025
 - [[Thinking/Zettels/(3B6A1) Life coaching  helps improve a coachee's life\|(3B6A1) Life coaching  helps improve a coachee's life]]: 3:42 PM - August 01, 2025
