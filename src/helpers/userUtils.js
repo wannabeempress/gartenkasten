@@ -32,18 +32,13 @@ function getPositions(trees) {
 }
 
 const noteLabels = {
-  "tree-1": { label: "Seedling", count: 0, icon: "tree-1" },
-  "tree-2": { label: "Sapling", count: 0, icon: "tree-2" },
-  "tree-3": { label: "Tree", count: 0, icon: "tree-3" },
-  withered: {
-    label: "Withered",
-    plural: "Withered",
-    count: 0,
-    icon: "withered",
-  },
-  signpost: { label: "Signpost", count: 0, icon: "signpost" },
-  stone: { label: "Stone", count: 0, icon: "stone" },
-  chest: { label: "Chest", count: 0, icon: "chest" }
+  seed: { label: "🌱 Seeds", count: 0, icon: "🌱" },
+  spark: { label: "✨ Sparks", count: 0, icon: "✨" },
+  cutting: { label: "🍃 Cuttings", count: 0, icon: "🍃" },
+  plant: { label: "🌿 Plants", count: 0, icon: "🌿" },
+  butterfly: { label: "🦋 Butterflies", count: 0, icon: "🦋" },
+  log: { label: "🪵 Logs", count: 0, icon: "🪵" },
+  signpost: { label: "🚩 Signposts", count: 0, icon: "🚩" },
 };
 
 function forestData(data) {
