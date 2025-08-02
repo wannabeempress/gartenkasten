@@ -18,7 +18,7 @@
     </div>
     <div class="forest-legends">
         {% for count in userComputed.forest.legends %}
-        <div class="stat"><img src="/img/{{count.icon}}.svg" alt="{{count.label}}" />{{count.count}} {% if count.count > 1 %}{% if count.plural %}{{count.plural}}{% else %}{{count.label}}s{% endif %}{% else %}{{count.label}}{% endif %}</div>
+        <div class="stat"><span class="icon">{{ count.icon }}</span>{{count.count}} {% if count.count > 1 %}{% if count.plural %}{{count.plural}}{% else %}{{count.label}}s{% endif %}{% else %}{{count.label}}{% endif %}</div>
         {% endfor %}
     </div>
 </div>
