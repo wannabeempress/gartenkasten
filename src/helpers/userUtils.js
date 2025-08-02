@@ -32,13 +32,13 @@ function getPositions(trees) {
 }
 
 const noteLabels = {
-  seed: { label: "Seed", plural: "Seeds", icon: "🌱", count: 0 },
-  spark: { label: "Spark", plural: "Sparks", icon: "✨", count: 0 },
-  cutting: { label: "Cutting", plural: "Cuttings", icon: "🍃", count: 0 },
-  plant: { label: "Plant", plural: "Plants", icon: "🌿", count: 0 },
-  butterfly: { label: "Butterfly", plural: "Butterflies", icon: "🦋", count: 0 },
-  log: { label: "Log", plural: "Logs", icon: "🪵", count: 0 },
-  signpost: { label: "Signpost", plural: "Signposts", icon: "🚩", count: 0 },
+  seed: { label: "Seed", icon: "seed", count: 0 },
+  spark: { label: "Spark", icon: "spark", count: 0 },
+  cutting: { label: "Cutting", icon: "cutting", count: 0 },
+  plant: { label: "Plant", icon: "plant", count: 0 },
+  log: { label: "Log", icon: "log", count: 0 },
+  signpost: { label: "Signpost", icon: "signpost", count: 0 },
+  butterfly: { label: "Butterfly", plural: "Butterflies", icon: "butterfly", count: 0 },
 };
 
 function forestData(data) {
@@ -52,16 +52,7 @@ function forestData(data) {
       height = v;
       v = `tree-${v}`;
     }
-    if (treeCounts[v]) {
-      treeCounts[v].count++;
-    } else {
-      treeCounts[v] = {
-      label: v,
-      plural: v,
-      count: 1,
-      icon: v,
-    };
-}
+    treeCounts[v].count++;
     return [v, n.url, n.data.title || n.fileSlug, height];
   });
 
