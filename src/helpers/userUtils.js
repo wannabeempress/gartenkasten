@@ -57,6 +57,10 @@ function forestData(data) {
       height = v;
       v = `tree-${v}`;
     }
+    // Add fallback if v is undefined or not in noteLabels
+    if (!v || !treeCounts[v]) {
+      v = 'tree-1';  // default icon key
+    }
     treeCounts[v].count++;
     return [v, n.url, n.data.title || n.fileSlug, height];
   });
