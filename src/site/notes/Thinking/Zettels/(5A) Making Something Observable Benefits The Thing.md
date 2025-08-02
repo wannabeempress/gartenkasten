@@ -13,7 +13,7 @@ Personally I often find that I *believe* I've learned something (and perhaps I h
 Why do I end up needing to relearn the concept? 
 - due to the passage of time, I've forgotten - because there is no record of my understanding of the concept (eg notes that break down my understanding), and I can't quickly re-activate my understanding. 
 
-The same thing happens in organisations. [[Thinking/(0) Structure/Knowledge Management\|Knowledge Management]] comes to the fore, particularly, when someone realises that vital information has gone missing. 
+The same thing happens in organisations. [[(0) Structure/Knowledge Management\|Knowledge Management]] comes to the fore, particularly, when someone realises that vital information has gone missing. 
 
 But if you make something observable (which means, [[Thinking/Zettels/(5A1) You Need To Be Able To See Inside A System OR Measure It To Observe It\|(5A1) You Need To Be Able To See Inside A System OR Measure It To Observe It]]), then that consequently means, you gain the following benefits: 
 - accountability

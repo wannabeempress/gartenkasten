@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thinking/welcome-to-my-gartenkasten/","tags":["gardenEntry"],"noteIcon":"","created":"2025-05-30T14:25","updated":"2025-07-21T12:20"}
+{"dg-publish":true,"permalink":"/thinking/welcome-to-my-gartenkasten/","tags":["gardenEntry"],"noteIcon":"","created":"2025-05-30T14:25","updated":"2025-08-02T14:33"}
 ---
 
 # Kia ora, e hoa! 
@@ -52,10 +52,11 @@ _By the way,_ [[pink links\|pink links]] mean the note is _unpublished_ or _priv
 
 ### Recently tended-to plants
 
+- [[Thinking/Zettels/(1) I am a writer\|(1) I am a writer]]: 5:22 PM - August 02, 2025
+- [[Thinking/Zettels/(1A41) Note types in MY zettelkasten\|(1A41) Note types in MY zettelkasten]]: 5:21 PM - August 02, 2025
+- [[Thinking/Welcome to my gartenkasten\|Welcome to my gartenkasten]]: 3:44 PM - August 02, 2025
 - [[Thinking/Zettels/(1A1C) Mixing Wide, Medium And Tight Shots Tell A Story Succinctly\|(1A1C) Mixing Wide, Medium And Tight Shots Tell A Story Succinctly]]: 2:39 PM - August 02, 2025
-- [[Thinking/Welcome to my gartenkasten\|Welcome to my gartenkasten]]: 2:33 PM - August 02, 2025
 - [[Thinking/Reference/@ZaatMGT627LifeCareer\|@ZaatMGT627LifeCareer]]: 3:42 PM - August 01, 2025
-- [[Thinking/Zettels/(1A41) Note types in MY zettelkasten\|(1A41) Note types in MY zettelkasten]]: 3:42 PM - August 01, 2025
 - [[Thinking/Zettels/(3B6A1) Life coaching  helps improve a coachee's life\|(3B6A1) Life coaching  helps improve a coachee's life]]: 3:42 PM - August 01, 2025
 - [[Thinking/Zettels/(3B6A) Definition of life coaching\|(3B6A) Definition of life coaching]]: 3:42 PM - August 01, 2025
 - [[Thinking/Zettels/(3B12) Definition Of Executive Coaching\|(3B12) Definition Of Executive Coaching]]: 3:42 PM - August 01, 2025
@@ -66,7 +67,6 @@ _By the way,_ [[pink links\|pink links]] mean the note is _unpublished_ or _priv
 - [[Thinking/Zettels/(1A1A1A2) Write it down to remember\|(1A1A1A2) Write it down to remember]]: 4:11 PM - July 27, 2025
 - [[Thinking/Reference/@Doto2024SystemWritingHow\|@Doto2024SystemWritingHow]]: 4:07 PM - July 27, 2025
 - [[Thinking/Reference/@greiss7TipsDocument2025\|@greiss7TipsDocument2025]]: 4:05 PM - July 27, 2025
-- [[Thinking/Zettels/(1D1) Tight Shots Anchor A Scene Through Detailed Specificity\|(1D1) Tight Shots Anchor A Scene Through Detailed Specificity]]: 4:04 PM - July 27, 2025
 
 { .block-language-dataview}
 

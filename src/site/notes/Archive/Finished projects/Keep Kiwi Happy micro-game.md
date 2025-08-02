@@ -16,7 +16,7 @@
 ## Project details 
 
 ### What did you ship? 
-> Part of the [[30 Ships, 30 Days\|30 Ships, 30 Days]] challenge
+> Part of the [[Efforts/30 Ships, 30 Days\|30 Ships, 30 Days]] challenge
 <iframe src="https://www.lexaloffle.com/bbs/?tid=150136" width="560" height="460"></iframe>
 
 KiwiJoy is a micro-game about seeking happiness, even if the boost you get wears off over time. 
