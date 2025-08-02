@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/thinking/zettels/1-a41-note-types-in-my-zettelkasten/","noteIcon":"","created":"2025-08-01T15:01","updated":"2025-08-02T19:37"}
+{"dg-publish":true,"permalink":"/thinking/zettels/1-a41-note-types-in-my-zettelkasten/","noteIcon":"","created":"2025-08-01T15:01","updated":"2025-08-02T20:09"}
 ---
 
 I previously thought about the [**Prev**:: [[Thinking/Zettels/(1A4) Zettel as micro-essay\|(1A4) Zettel as micro-essay]]], but now I see that I was thinking about two different kinds of notes. Since I see the [[Zettelkasten as conversation partner\|Zettelkasten as conversation partner]], it makes sense that I have shaped the conversation to suit my needs and thinking style. 
 
 This is what my zettelkasten contains: 
+
+<?xml version="1.0" encoding="UTF-8"?><svg width="150" height="205" version="1.1" viewBox="0 0 39.688 54.24" xmlns="http://www.w3.org/2000/svg"> <g transform="translate(-69.7 -93.956)" fill="none" stroke="#008000">  <path d="m69.7 146.87h39.688" stroke-width="2.6458"/>  <g transform="translate(-.36252)">   <path d="m89.544 146.87v-6.794" stroke-width="2.6458"/>   <path d="m88.77 141.34 6.6272-8.1886" stroke-width="2.3347"/>   <path d="m89.919 141.46-5.5766-5.8386" stroke-width="2.3102"/>  </g>  <circle cx="100.95" cy="126.47" r="6.9136" stroke-width="2.6458"/>  <circle cx="79.351" cy="130.4" r="5.0854" stroke-width="2.6458"/> </g></svg><?xml version="1.0" encoding="UTF-8"?><!-- Created with Inkscape (http://www.inkscape.org/) --><svg width="150" height="205" version="1.1" viewBox="0 0 39.688 54.24" xmlns="http://www.w3.org/2000/svg"> <g transform="translate(0 -.8262)" fill="none" stroke="#20b2aa">  <circle cx="33.971" cy="33.263" r="4.79" stroke-width="1.8521"/>  <circle cx="5.716" cy="33.263" r="4.79" stroke-width="1.8521"/>  <g stroke-width="2.6458">   <path d="m6.8958 53.743h25.896"/>   <path d="m19.844 53.743v-25.896"/>   <circle cx="19.844" cy="18.683" r="7.0212"/>   <path d="m6.8958 40.795 12.948 3.237 12.948-3.237"/>  </g> </g></svg>
 
 | Type              | Emoji             | Use case                                                                                                                                                                                                       | Location                                                         |
 | ----------------- | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |

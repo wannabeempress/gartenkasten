@@ -37,9 +37,9 @@ _By the way,_ [[pink links\|pink links]] mean the note is _unpublished_ or _priv
 
 ### Recently tended-to plants
 
+- [[Thinking/Zettels/(1A41) Note types in MY zettelkasten\|(1A41) Note types in MY zettelkasten]]: 8:12 PM - August 02, 2025
+- [[Thinking/Zettels/(1) I am a writer\|(1) I am a writer]]: 8:10 PM - August 02, 2025
 - [[Thinking/Welcome to my gartenkasten\|Welcome to my gartenkasten]]: 7:52 PM - August 02, 2025
-- [[Thinking/Zettels/(1A41) Note types in MY zettelkasten\|(1A41) Note types in MY zettelkasten]]: 7:49 PM - August 02, 2025
-- [[Thinking/Zettels/(1) I am a writer\|(1) I am a writer]]: 5:22 PM - August 02, 2025
 - [[Thinking/Zettels/(1A1C) Mixing Wide, Medium And Tight Shots Tell A Story Succinctly\|(1A1C) Mixing Wide, Medium And Tight Shots Tell A Story Succinctly]]: 2:39 PM - August 02, 2025
 - [[Thinking/Reference/@ZaatMGT627LifeCareer\|@ZaatMGT627LifeCareer]]: 3:42 PM - August 01, 2025
 - [[Thinking/Zettels/(3B6A1) Life coaching  helps improve a coachee's life\|(3B6A1) Life coaching  helps improve a coachee's life]]: 3:42 PM - August 01, 2025
