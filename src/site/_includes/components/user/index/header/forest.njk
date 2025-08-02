@@ -9,7 +9,7 @@
             </span>
             {% else %}
             <a class="tree" href="{{tree[1]}}" title="{{tree[2]}}">
-                <img src="/img/{{tree[0]}}.svg" alt="" style="width: auto;height: {{5 + (10 * tree[3])}}px;" />
+                <span class="emoji-icon" style="font-size: {{5 + (10 * tree[3])}}px;">{{ tree[0] }}</span>
             </a>
             {% endif %}
             {% endfor %}
