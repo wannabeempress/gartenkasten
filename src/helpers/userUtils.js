@@ -35,13 +35,15 @@ const noteLabels = {
   "tree-1": { label: "Seedling", count: 0, icon: "tree-1" },
   "tree-2": { label: "Sapling", count: 0, icon: "tree-2" },
   "tree-3": { label: "Tree", count: 0, icon: "tree-3" },
-  seed: { label: "Seed", icon: "seed", count: 0 },
-  spark: { label: "Spark", icon: "spark", count: 0 },
-  cutting: { label: "Cutting", icon: "cutting", count: 0 },
-  plant: { label: "Plant", icon: "plant", count: 0 },
-  log: { label: "Log", icon: "log", count: 0 },
-  signpost: { label: "Signpost", icon: "signpost", count: 0 },
-  butterfly: { label: "Butterfly", plural: "Butterflies", icon: "butterfly", count: 0 },
+  withered: {
+    label: "Withered",
+    plural: "Withered",
+    count: 0,
+    icon: "withered",
+  },
+  signpost: { label: "Signpost", count: 0, icon: "signpost" },
+  stone: { label: "Stone", count: 0, icon: "stone" },
+  chest: { label: "Chest", count: 0, icon: "chest" }
 };
 
 function forestData(data) {
