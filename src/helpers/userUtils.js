@@ -57,7 +57,15 @@ function forestData(data) {
       height = v;
       v = `tree-${v}`;
     }
-    treeCounts[v].count++;
+    if (treeCounts[v]) {
+      treeCounts[v].count++;
+    } else {
+      treeCounts[v] = {
+      label: v,
+      count: 1,
+      icon: v,
+    };
+}
     return [v, n.url, n.data.title || n.fileSlug, height];
   });
 
@@ -74,10 +82,5 @@ function userComputed(data) {
     forest: forestData(data),
   };
 }
-
-//exports.userComputed = userComputed;
-//function userComputed(data) {
-// return {};
-//}
 
 exports.userComputed = userComputed;
