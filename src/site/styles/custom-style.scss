@@ -11,3 +11,64 @@ body {
     //   color: black;
     //  }
 }
+
+  #forest-graph {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 20px;
+    flex-direction: column;
+
+    .forest-body {
+      display: inline-flex;
+      flex-direction: column;
+      transform: rotate(45deg);
+      margin: 60px;
+      align-items: flex-end;
+
+      @media (max-width: 575.99px) {
+        transform: rotate(45deg) scale(0.9);
+      }
+
+      .forest-row {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-end;
+
+        a {
+          width: 20px;
+          height: 20px;
+          cursor: pointer;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+
+          img {
+            transform: rotate(-45deg);
+          }
+        }
+
+        .plane {
+          cursor: inherit;
+        }
+      }
+    }
+
+    .forest-legends {
+      margin-top: 10px;
+      display: flex;
+      gap: 10px;
+      width: 100%;
+      justify-content: center;
+      flex-wrap: wrap;
+
+      font-size: 0.8em;
+      color: var(--text-muted);
+
+      img {
+        height: 1.5em;
+        width: auto;
+        margin-right: 5px;
+      }
+    }
+  }
