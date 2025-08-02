@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thinking/welcome-to-my-gartenkasten/","tags":["gardenEntry"],"noteIcon":"","created":"2025-05-30T14:25","updated":"2025-08-02T17:24"}
+{"dg-publish":true,"permalink":"/thinking/welcome-to-my-gartenkasten/","tags":["gardenEntry"],"noteIcon":"","created":"2025-05-30T14:25","updated":"2025-08-02T17:41"}
 ---
 
 # Kia ora, e hoa! 
@@ -8,31 +8,16 @@
 
 Gartenkasten is my whimsical portmanteau of 'digital garden' and 'zettelkasten'!
 
-**Garten = garden, Kasten = box/crate in German => Garden in a box => [[Thinking/Zettels/(1A1A1B) My Thoughts Are A Cottage Garden\|Wild thoughts grow _somewhat_ contained in a digital box]]**
+**Garten = garden, Kasten = box/crate in German => Garden in a box => [[Thinking/Zettels/(1A1A1B) My Thoughts Are A Cottage Garden\|(1A1A1B) My Thoughts Are A Cottage Garden]]**
 
 I could have also added something about digital at the start... German is so cool in its modularity, but I don't know German, and Gartenkasten is fun to say... 😅).
 
-#### What's in my garden? 
-
-Gartenkasten - define this 
-
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-| Type              | Emoji | Use case                                                                                                                                                                                                       | Location                                                         |
-| ----------------- | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| 🌱 Seed Note      | 🌱    | **Literature or Reference note** which references the ideas coming from a specific source, e.g. book, journal article, podcast. <br><br>_Seeds turn into plants and leaves._                                   | /Thinking/Reference                                              |
-| ✨ Spark Note      | ✨     | **Fleeting note**, which is an unprocessed thought that may have sparked randomly<br><br>_Sparks come and go, maybe they magically turn into plants and leaves_                                                | /                                                                |
-| 🍃 Cutting Note   | 🍃    | **Atomic note**, which describes a singular, modular idea in my own words, ideally including a reference to the seed. <br><br>_A single cutting is complete for propagating new plants, i.e. modular, atomic._ | /Thinking/Zettels                                                |
-| 🌿Plant note      | 🌿    | **Micro-essay** note, which synthesises related atomic ideas. To be transformed into separate cuttings.                                                                                                        | /Thinking/Zettels                                                |
-| 🦋 Butterfly note | 🦋    | **Reflection Note** → Notes on self-reflection, self-storying, and transformation, personal takes, memories, queries. Butterfly as metamorphosis.                                                              | /Thinking                                                        |
-| 🪵 Log note       | 🪵    | **Creative output**, like a longer-form piece, shipped project, or polished output. The mature tree, now harvested and logged.                                                                                 | /Thinking/Log (used to be Tracts? change Tracts folder, unclear) |
-| 🌸 Flower note    | 🌸    | **Visual Note** → An idea expressed as a visual: charts, doodles, or diagrammed thinking. When an idea blossoms _visibly_.                                                                                     | /Thinking/Zettels                                                |
-| 🚩Signpost note   | 🚩    | **Hub/Structure Note** which signals direction, clusters concepts, guides further exploration. <br><br>_Like a signpost in a garden._                                                                          | /Thinking                                                        |
-
-</div></div>
+#### What is all of this? 
+- What is a [[Digital garden\|Digital garden]]?
+- What is a [[Zettelkasten\|Zettelkasten]]?
+- [[Thinking/Zettels/(1A41) Note types in MY zettelkasten\|(1A41) Note types in MY zettelkasten]]
+- [[Resources/Zettelkasten Process\|Zettelkasten Process]]
+- [[Thinking/Zettels/(1A1D1A) Flow of zettelkasten\|(1A1D1A) Flow of zettelkasten]]
 
 
 
@@ -53,8 +38,8 @@ _By the way,_ [[pink links\|pink links]] mean the note is _unpublished_ or _priv
 
 ### Recently tended-to plants
 
-- [[Thinking/Welcome to my gartenkasten\|Welcome to my gartenkasten]]: 5:41 PM - August 02, 2025
-- [[Thinking/Zettels/(1A41) Note types in MY zettelkasten\|(1A41) Note types in MY zettelkasten]]: 5:25 PM - August 02, 2025
+- [[Thinking/Welcome to my gartenkasten\|Welcome to my gartenkasten]]: 5:59 PM - August 02, 2025
+- [[Thinking/Zettels/(1A41) Note types in MY zettelkasten\|(1A41) Note types in MY zettelkasten]]: 5:47 PM - August 02, 2025
 - [[Thinking/Zettels/(1) I am a writer\|(1) I am a writer]]: 5:22 PM - August 02, 2025
 - [[Thinking/Zettels/(1A1C) Mixing Wide, Medium And Tight Shots Tell A Story Succinctly\|(1A1C) Mixing Wide, Medium And Tight Shots Tell A Story Succinctly]]: 2:39 PM - August 02, 2025
 - [[Thinking/Reference/@ZaatMGT627LifeCareer\|@ZaatMGT627LifeCareer]]: 3:42 PM - August 01, 2025
