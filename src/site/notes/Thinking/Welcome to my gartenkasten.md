@@ -4,7 +4,7 @@
 
 # Kia ora, e hoa! 
 > _Welcome, friend_
-## Welcome to my digital garden 🌱
+## Welcome to my gartenkasten 🌱🗒️
 
 > [!note]+ Garden Map: Hover over the emojis to reveal the thought
 > [[Thinking/Tracts/Why I Chose This Path\|🦋]] [[Thinking/Zettels/(1A1A1B2) Cultivating A Garden Is Continual Effort\|🌿]] [[Thinking/Zettels/(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time\|🌿]] [[Thinking/Zettels/(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time\|🌿]] [[Thinking/Reference/@Keshav2007HowReadPaper\|🚩]] [[Thinking/Zettels/(5A) Making Something Observable Benefits The Thing\|🌸]] [[Thinking/Zettels/(5B) I Will Make My Own Learning Observable And Public\|🌿]] [[Thinking/Zettels/(1C) I am a reader\|🌸]] [[Thinking/Zettels/(3B3) The Client Has The Answer\|🌸]] [[Thinking/Zettels/(1B2A) Copy Gamers to Reach Flow State\|🌿]] [[Thinking/Zettels/(3B5B) Coachee Attitude Modulates Coaching Efficacy\|🌿]] [[Thinking/Zettels/(1A1A1B1A) Interstitial Journalling Can Be Used To Proactively Plan For Upcoming Activities\|🌿]] [[Thinking/Zettels/(1A1D) Compass of Thoughts Can Generate Ideas Or Connections\|🌿]] [[Thinking/Zettels/(6) In An Accident Do Not Admit Blame\|🌿]] [[Thinking/Zettels/(9) Referencing practices in coaching vary in density\|🌿]] [[Thinking/Zettels/(1A1A1B1B1) Operating In Clock Time Vs Event Time\|🌿]] [[Thinking/Tracts/Who I am - an activity in Inspirational Writing for Academic Publication\|🪵]] [[Thinking/Zettels/(10) The path to depth is sometimes iterative...\|🌿]] 
@@ -52,7 +52,7 @@ _By the way,_ [[pink links\|pink links]] mean the note is _unpublished_ or _priv
 
 ### Recently tended-to plants
 
-- [[Thinking/Welcome to my gartenkasten\|Welcome to my gartenkasten]]: 2:28 PM - August 02, 2025
+- [[Thinking/Welcome to my gartenkasten\|Welcome to my gartenkasten]]: 2:33 PM - August 02, 2025
 - [[Thinking/Reference/@ZaatMGT627LifeCareer\|@ZaatMGT627LifeCareer]]: 3:42 PM - August 01, 2025
 - [[Thinking/Zettels/(1A41) Note types in MY zettelkasten\|(1A41) Note types in MY zettelkasten]]: 3:42 PM - August 01, 2025
 - [[Thinking/Zettels/(3B6A1) Life coaching  helps improve a coachee's life\|(3B6A1) Life coaching  helps improve a coachee's life]]: 3:42 PM - August 01, 2025
