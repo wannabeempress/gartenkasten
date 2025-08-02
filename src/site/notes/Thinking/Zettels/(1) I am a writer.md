@@ -21,7 +21,7 @@ I'm a recovering perfectionist. A recovering people pleaser.
 
 I hope to share something of value. It doesn't need to be perfect. You can reject it. But if it gets you thinking (and me too), then maybe that's what makes it worthwhile.
 
-And in doing something badly, maybe I can learn to do it well. 
+And in doing something badly, maybe I can learn to do it well. Learning is in the doing? [[Thinking/Zettels/(5) Learning In Public Allows You To Grow Faster\|(5) Learning In Public Allows You To Grow Faster]]
 
 **Part of [[Identities/My Identities\|My Identities]]**
 
