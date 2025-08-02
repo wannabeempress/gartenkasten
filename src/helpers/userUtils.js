@@ -57,6 +57,7 @@ function forestData(data) {
     } else {
       treeCounts[v] = {
       label: v,
+      plural: v,
       count: 1,
       icon: v,
     };
