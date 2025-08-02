@@ -21,22 +21,3 @@ This is what my zettelkasten contains:
 
 ---
 
-%%
-### ✨If You Wanted to Add Light Gamification...
-
-Just some optional flair that might vibe with your brain:
-
-| Gamification Idea                      | How                                                                                                                 |
-| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| 🌱 **Seed to Flower Tracker**          | Add a property to Zettels like `Stage: Seed → Cutting → Plant → Flower`                                             |
-| 🦋 **Butterfly Metamorphosis Counter** | Add a `last_edited` property to see which butterflies you’re actively evolving                                      |
-| 🚢 **Shipping Log**                    | Tag `#shipped` + link to deliverables. Maybe even include a ship emoji in the filename? e.g. `🚢 30 Ships - Day 12` |
-| 🗺️ **Signpost Board**                 | A canvas or MOC (Map of Content) visualising your current quests/projects/thoughtlines                              |
-
-
-
-> [!note]- Folgezettel
->  - [[Thinking/Zettels/(1A4) Zettel as micro-essay\|(1A4) Zettel as micro-essay]]
-> - [[Thinking/Zettels/(1A41) Note types in MY zettelkasten\|(1A41) Note types in MY zettelkasten]]
-> 
-{ .block-language-dataview}

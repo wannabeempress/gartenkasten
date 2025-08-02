@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thinking/welcome-to-my-gartenkasten/","tags":["gardenEntry"],"noteIcon":"","created":"2025-05-30T14:25","updated":"2025-08-02T18:12"}
+{"dg-publish":true,"permalink":"/thinking/welcome-to-my-gartenkasten/","tags":["gardenEntry"],"noteIcon":"","created":"2025-05-30T14:25","updated":"2025-08-02T19:09"}
 ---
 
 # Kia ora, e hoa! 
@@ -8,14 +8,14 @@
 
 Gartenkasten is my whimsical portmanteau of 'digital garden' and 'zettelkasten'!
 
+(I could have also added something about digital at the start... German is so cool in its modularity, but I don't know German, and Gartenkasten is fun to say... 😅)
+
 #### What is all of this? 
 
-**Garten = garden, Kasten = box/crate in German => Garden in a box => [[Thinking/Zettels/(1A1A1B) My Thoughts Are A Cottage Garden\|(1A1A1B) My Thoughts Are A Cottage Garden]]**
-
-(I could have also added something about digital at the start... German is so cool in its modularity, but I don't know German, and Gartenkasten is fun to say... 😅).
-
-- What is a [[Digital garden\|Digital garden]]?
+- **Garten = garden + Kasten = box/crate in German => Garden in a box**
+- **What is a [[Digital garden\|Digital garden]]?
 - What is a [[Zettelkasten\|Zettelkasten]]?
+- [[Thinking/Zettels/(1A1A1B) My Thoughts Are A Cottage Garden\|(1A1A1B) My Thoughts Are A Cottage Garden]]
 - [[Thinking/Zettels/(1A41) Note types in MY zettelkasten\|(1A41) Note types in MY zettelkasten]]
 - [[Resources/Zettelkasten Process\|Zettelkasten Process]]
 - [[Thinking/Zettels/(1A1D1A) Flow of zettelkasten\|(1A1D1A) Flow of zettelkasten]]
@@ -37,8 +37,8 @@ _By the way,_ [[pink links\|pink links]] mean the note is _unpublished_ or _priv
 
 ### Recently tended-to plants
 
-- [[Thinking/Welcome to my gartenkasten\|Welcome to my gartenkasten]]: 7:09 PM - August 02, 2025
-- [[Thinking/Zettels/(1A41) Note types in MY zettelkasten\|(1A41) Note types in MY zettelkasten]]: 5:47 PM - August 02, 2025
+- [[Thinking/Welcome to my gartenkasten\|Welcome to my gartenkasten]]: 7:52 PM - August 02, 2025
+- [[Thinking/Zettels/(1A41) Note types in MY zettelkasten\|(1A41) Note types in MY zettelkasten]]: 7:49 PM - August 02, 2025
 - [[Thinking/Zettels/(1) I am a writer\|(1) I am a writer]]: 5:22 PM - August 02, 2025
 - [[Thinking/Zettels/(1A1C) Mixing Wide, Medium And Tight Shots Tell A Story Succinctly\|(1A1C) Mixing Wide, Medium And Tight Shots Tell A Story Succinctly]]: 2:39 PM - August 02, 2025
 - [[Thinking/Reference/@ZaatMGT627LifeCareer\|@ZaatMGT627LifeCareer]]: 3:42 PM - August 01, 2025
