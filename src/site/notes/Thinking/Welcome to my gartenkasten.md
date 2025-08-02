@@ -52,6 +52,7 @@ _By the way,_ [[pink links\|pink links]] mean the note is _unpublished_ or _priv
 
 ### Recently tended-to plants
 
+- [[Thinking/Zettels/(1A1C) Mixing Wide, Medium And Tight Shots Tell A Story Succinctly\|(1A1C) Mixing Wide, Medium And Tight Shots Tell A Story Succinctly]]: 2:39 PM - August 02, 2025
 - [[Thinking/Welcome to my gartenkasten\|Welcome to my gartenkasten]]: 2:33 PM - August 02, 2025
 - [[Thinking/Reference/@ZaatMGT627LifeCareer\|@ZaatMGT627LifeCareer]]: 3:42 PM - August 01, 2025
 - [[Thinking/Zettels/(1A41) Note types in MY zettelkasten\|(1A41) Note types in MY zettelkasten]]: 3:42 PM - August 01, 2025
@@ -64,7 +65,6 @@ _By the way,_ [[pink links\|pink links]] mean the note is _unpublished_ or _priv
 - [[Thinking/Reference/@Echols2018WhyBecomeICF\|@Echols2018WhyBecomeICF]]: 12:59 PM - July 30, 2025
 - [[Thinking/Zettels/(1A1A1A2) Write it down to remember\|(1A1A1A2) Write it down to remember]]: 4:11 PM - July 27, 2025
 - [[Thinking/Reference/@Doto2024SystemWritingHow\|@Doto2024SystemWritingHow]]: 4:07 PM - July 27, 2025
-- [[Thinking/Zettels/(1A1C) Mixing Wide, Medium And Tight Shots Tell A Story Succinctly\|(1A1C) Mixing Wide, Medium And Tight Shots Tell A Story Succinctly]]: 4:05 PM - July 27, 2025
 - [[Thinking/Reference/@greiss7TipsDocument2025\|@greiss7TipsDocument2025]]: 4:05 PM - July 27, 2025
 - [[Thinking/Zettels/(1D1) Tight Shots Anchor A Scene Through Detailed Specificity\|(1D1) Tight Shots Anchor A Scene Through Detailed Specificity]]: 4:04 PM - July 27, 2025
 
