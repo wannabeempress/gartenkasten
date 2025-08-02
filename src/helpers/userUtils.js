@@ -32,6 +32,9 @@ function getPositions(trees) {
 }
 
 const noteLabels = {
+  "tree-1": { label: "Seedling", count: 0, icon: "tree-1" },
+  "tree-2": { label: "Sapling", count: 0, icon: "tree-2" },
+  "tree-3": { label: "Tree", count: 0, icon: "tree-3" },
   seed: { label: "Seed", icon: "seed", count: 0 },
   spark: { label: "Spark", icon: "spark", count: 0 },
   cutting: { label: "Cutting", icon: "cutting", count: 0 },
