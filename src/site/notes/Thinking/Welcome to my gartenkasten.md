@@ -21,7 +21,7 @@ I could have also added something about digital at the start... German is so coo
 
 
 
-**As a guest, you are welcome to explore this garden of thoughts. **
+**As a guest, you are welcome to explore this garden of thoughts.**
 
 If any of my thoughts inspire you, then much like a physical garden, you can take a 'cutting'. Take the thought with you into your own notes or life—and cultivate it, until it bears its own fruit and flowers. 
 
@@ -38,7 +38,7 @@ _By the way,_ [[pink links\|pink links]] mean the note is _unpublished_ or _priv
 
 ### Recently tended-to plants
 
-- [[Thinking/Welcome to my gartenkasten\|Welcome to my gartenkasten]]: 5:59 PM - August 02, 2025
+- [[Thinking/Welcome to my gartenkasten\|Welcome to my gartenkasten]]: 6:01 PM - August 02, 2025
 - [[Thinking/Zettels/(1A41) Note types in MY zettelkasten\|(1A41) Note types in MY zettelkasten]]: 5:47 PM - August 02, 2025
 - [[Thinking/Zettels/(1) I am a writer\|(1) I am a writer]]: 5:22 PM - August 02, 2025
 - [[Thinking/Zettels/(1A1C) Mixing Wide, Medium And Tight Shots Tell A Story Succinctly\|(1A1C) Mixing Wide, Medium And Tight Shots Tell A Story Succinctly]]: 2:39 PM - August 02, 2025
