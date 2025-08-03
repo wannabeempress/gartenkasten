@@ -38,7 +38,7 @@ const noteLabels = {
   signpost: { label: "Signpost", count: 0, icon: "signpost" },
   flower: { label: "Flower", count: 0, icon: "flower" },
   log: { label: "Log", count: 0, icon: "log" },
-  bee { label: "Bee", count: 0, icon: "bee" }, 
+  bee: { label: "Bee", count: 0, icon: "bee" }, 
   butterfly: {
     label: "Butterfly",
     plural: "Butterflies",
