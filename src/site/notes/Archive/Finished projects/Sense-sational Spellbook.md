@@ -16,7 +16,7 @@
 ## Project details 
 
 ### What did you ship? 
-> Part of the [[Efforts/30 Ships, 30 Days\|30 Ships, 30 Days]] challenge
+> Part of the [[Thinking/30 Ships, 30 Days\|30 Ships, 30 Days]] challenge
 
 A Practical Guide to Harnessing the Senses for Living Your Most Magical Life. It's a 3-day self-guided journey within a PDF. Image preview below! 
 

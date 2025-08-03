@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thinking/reference/keshav2007-how-read-paper/","noteIcon":"","created":"2024-10-28T14:29","updated":"2025-07-14T10:02"}
+{"dg-publish":true,"permalink":"/thinking/reference/keshav2007-how-read-paper/","noteIcon":"","created":"2024-10-28T14:29","updated":"2025-07-21T10:20"}
 ---
 
 # Keshav (2007) How to Read a Paper
