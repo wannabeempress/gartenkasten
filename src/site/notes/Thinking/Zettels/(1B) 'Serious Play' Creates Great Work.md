@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thinking/zettels/1-b-serious-play-creates-great-work/","tags":["excalidraw"],"noteIcon":"","created":"2025-02-17T15:36","updated":"2025-05-30T15:09"}
+{"created":"2025-02-17T15:36","updated":"2025-05-30T15:09","excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"excalidraw-export-transparent":true,"banner":"[[(1B) 'Serious Play' Creates Great Work.svg]]","dg-publish":true,"dg-path":"Zettels/(1B) 'Serious Play' Creates Great Work.md","permalink":"/zettels/1-b-serious-play-creates-great-work/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 

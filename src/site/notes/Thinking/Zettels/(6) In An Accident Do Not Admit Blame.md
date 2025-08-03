@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thinking/zettels/6-in-an-accident-do-not-admit-blame/","noteIcon":"","created":"2025-04-22T10:35","updated":"2025-04-22T10:36"}
+{"created":"2025-04-22T10:35","updated":"2025-04-22T10:36","dg-publish":true,"dg-path":"Zettels/(6) In An Accident Do Not Admit Blame.md","permalink":"/zettels/6-in-an-accident-do-not-admit-blame/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 > [!danger] DO NOT ADMIT BLAME

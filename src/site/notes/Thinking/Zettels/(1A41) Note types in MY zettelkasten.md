@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thinking/zettels/1-a41-note-types-in-my-zettelkasten/","noteIcon":"","created":"2025-08-01T15:01","updated":"2025-08-03T12:43"}
+{"created":"2025-08-01T15:01","updated":"2025-08-03T12:43","noteIcon":1,"dg-publish":true,"dg-path":"Zettels/(1A41) Note types in MY zettelkasten.md","permalink":"/zettels/1-a41-note-types-in-my-zettelkasten/","dgPassFrontmatter":true}
 ---
 
 I previously thought about the [**Prev**:: [[Thinking/Zettels/(1A4) Zettel as micro-essay\|(1A4) Zettel as micro-essay]]], but now I see that I was thinking about two different kinds of notes. Since I see the [[Zettelkasten as conversation partner\|Zettelkasten as conversation partner]], it makes sense that I have shaped the conversation to suit my needs and thinking style. 

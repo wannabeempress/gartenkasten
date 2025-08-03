@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thinking/keep-kiwi-happy-micro-game/","noteIcon":"","created":"2025-07-09T12:33","updated":"2025-07-10T11:01"}
+{"created":"2025-07-09T12:33","updated":"2025-07-10T11:01","dg-publish":true,"noteIcon":"log","dg-path":"Keep Kiwi Happy micro-game.md","permalink":"/keep-kiwi-happy-micro-game/","dgPassFrontmatter":true}
 ---
 
 
@@ -34,7 +34,7 @@ The ideas that sparked this concept were [[Baseline happiness\|Baseline happines
 ### ✨ How This Relates to the Theme 
 > Explicitly link this artifact to your theme. Even a sentence is magic.
 
-Knowing that happiness is fleeting and also that it persists at a certain level is kinda freeing. You don't need to chase happiness if you know that you'll return to a baseline of joy and contentment. In fact, chasing it is kind of futile. No matter how high you take yourself, you will come back down. 
+Knowing that happiness is fleeting and also that it persists at a certain level is kinda freeing. You don't need to chase happiness if you know that you'll return to a baseline of joy and contentment. In fact, chasing it is kind of futile. No matter how high you take yourself, you will come back down. 🎈
 
 There are probably other books or studies out there about raising your baseline happiness... That would be interesting. Because if you had a very low baseline of happiness, then that doesn't bode well for your overall life satisfaction!
 

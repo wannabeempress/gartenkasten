@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resources/callout-examples-markdown/","noteIcon":"","created":"2025-05-03T14:21","updated":"2025-08-03T13:52"}
+{"created":"2025-05-03T14:21","updated":"2025-08-03T13:52","dg-publish":true,"permalink":"/resources/callout-examples-markdown/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 

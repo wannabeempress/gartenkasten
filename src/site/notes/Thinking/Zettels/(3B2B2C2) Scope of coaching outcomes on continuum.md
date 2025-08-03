@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thinking/zettels/3-b2-b2-c2-scope-of-coaching-outcomes-on-continuum/","noteIcon":"","created":"2025-07-07T13:26","updated":"2025-07-25T13:26"}
+{"created":"2025-07-07T13:26","updated":"2025-07-25T13:26","dg-publish":true,"noteIcon":2,"dg-path":"Zettels/(3B2B2C2) Scope of coaching outcomes on continuum.md","permalink":"/zettels/3-b2-b2-c2-scope-of-coaching-outcomes-on-continuum/","dgPassFrontmatter":true}
 ---
 
 [**source**:: [[Thinking/Reference/@Trevillion2018ExecutiveCoachingOutcomes\|@Trevillion2018ExecutiveCoachingOutcomes]]] identifies the scope of coaching outcomes along a continuum, where: 

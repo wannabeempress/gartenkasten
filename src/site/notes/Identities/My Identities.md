@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/identities/my-identities/","noteIcon":"","created":"2024-09-21T21:14","updated":"2025-06-17T13:46"}
+{"created":"2024-09-21T21:14","updated":"2025-06-17T13:46","dg-publish":true,"aliases":["Who Am I","Who I Am"],"permalink":"/identities/my-identities/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 

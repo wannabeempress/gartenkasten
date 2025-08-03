@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thinking/zettels/1-b2-a-copy-gamers-to-reach-flow-state/","noteIcon":"","created":"2025-03-30T17:46","updated":"2025-03-30T18:56"}
+{"created":"2025-03-30T17:46","updated":"2025-03-30T18:56","dg-publish":true,"dg-path":"Zettels/(1B2A) Copy Gamers to Reach Flow State.md","permalink":"/zettels/1-b2-a-copy-gamers-to-reach-flow-state/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 

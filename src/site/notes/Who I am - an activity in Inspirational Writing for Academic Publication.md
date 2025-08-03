@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/who-i-am-an-activity-in-inspirational-writing-for-academic-publication/","noteIcon":"","created":"2025-05-29T08:41","updated":"2025-07-18T12:23"}
+{"created":"2025-05-29T08:41","updated":"2025-07-18T12:23","dg-publish":true,"permalink":"/who-i-am-an-activity-in-inspirational-writing-for-academic-publication/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 [Becoming a Researcher: A Personal Invocation | by Patricia Oyson | May, 2025 | Medium](https://medium.com/@patricia.oyson/becoming-a-researcher-a-personal-invocation-a24d6639e022)

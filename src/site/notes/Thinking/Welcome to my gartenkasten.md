@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thinking/welcome-to-my-gartenkasten/","tags":["gardenEntry"],"noteIcon":"","created":"2025-05-30T14:25","updated":"2025-08-03T13:59"}
+{"created":"2025-05-30T14:25","updated":"2025-08-03T13:59","dg-home":true,"dg-publish":true,"noteIcon":"signpost","aliases":["Gartenkasten"],"dg-path":"Welcome to my gartenkasten.md","permalink":"/welcome-to-my-gartenkasten/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 # Kia ora, e hoa! 
@@ -39,8 +39,8 @@ _By the way,_ [[pink links\|pink links]] mean the note is _unpublished_ or _priv
 ---
 ### Recently tended-to plants
 
+- [[Thinking/Keep Kiwi Happy micro-game\|Keep Kiwi Happy micro-game]]: 2:45 PM - August 03, 2025
 - [[Thinking/Welcome to my gartenkasten\|Welcome to my gartenkasten]]: 2:10 PM - August 03, 2025
-- [[Thinking/Keep Kiwi Happy micro-game\|Keep Kiwi Happy micro-game]]: 2:03 PM - August 03, 2025
 - [[Thinking/Sense-sational Spellbook\|Sense-sational Spellbook]]: 2:03 PM - August 03, 2025
 - [[Thinking/Zettels/(3B2B2C2) Scope of coaching outcomes on continuum\|(3B2B2C2) Scope of coaching outcomes on continuum]]: 1:56 PM - August 03, 2025
 - [[Thinking/Zettels/(1A1A1B1) My Daily Actions And Thoughts Cultivate My Garden Of Identity\|(1A1A1B1) My Daily Actions And Thoughts Cultivate My Garden Of Identity]]: 1:50 PM - August 03, 2025

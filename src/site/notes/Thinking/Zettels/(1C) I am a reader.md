@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thinking/zettels/1-c-i-am-a-reader/","tags":["excalidraw"],"noteIcon":"","created":"2025-02-18T08:29","updated":"2025-06-17T13:47"}
+{"excalidraw-plugin":"parsed","tags":["excalidraw"],"created":"2025-02-18T08:29","updated":"2025-06-17T13:47","dg-publish":true,"dg-path":"Zettels/(1C) I am a reader.md","permalink":"/zettels/1-c-i-am-a-reader/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 

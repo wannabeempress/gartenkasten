@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thinking/30-ships-30-days/","noteIcon":"","created":"2025-07-08T10:36","updated":"2025-07-10T17:36"}
+{"created":"2025-07-08T10:36","updated":"2025-07-10T17:36","dg-publish":true,"noteIcon":"log","dg-path":"30 Ships, 30 Days.md","permalink":"/30-ships-30-days/","dgPassFrontmatter":true}
 ---
 
 # 🛳️✨ 30 Ships, 30 Days

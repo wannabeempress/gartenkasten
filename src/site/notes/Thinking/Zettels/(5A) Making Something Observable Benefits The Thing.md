@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thinking/zettels/5-a-making-something-observable-benefits-the-thing/","tags":["excalidraw"],"noteIcon":"","created":"2024-10-20T12:29","updated":"2025-05-30T15:10"}
+{"created":"2024-10-20T12:29","updated":"2025-05-30T15:10","tags":["excalidraw"],"identity":["Brain","Business Woman"],"excalidraw-plugin":"parsed","excalidraw-open-md":true,"excalidraw-export-transparent":true,"banner":"[[(5A) Making Something Observable Benefits The Thing.svg]]","dg-publish":true,"dg-path":"Zettels/(5A) Making Something Observable Benefits The Thing.md","permalink":"/zettels/5-a-making-something-observable-benefits-the-thing/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 Making something observable benefits the thing. 

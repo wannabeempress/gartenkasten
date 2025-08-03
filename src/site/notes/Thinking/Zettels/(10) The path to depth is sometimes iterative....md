@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thinking/zettels/10-the-path-to-depth-is-sometimes-iterative/","noteIcon":"","created":"2025-05-30T12:04","updated":"2025-05-30T15:33"}
+{"created":"2025-05-30T12:04","updated":"2025-05-30T15:33","dg-publish":true,"dg-path":"Zettels/(10) The path to depth is sometimes iterative....md","permalink":"/zettels/10-the-path-to-depth-is-sometimes-iterative/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 > The path to depth is sometimes iterative and not the result of major leaps. I call that the Good Life Algorithm

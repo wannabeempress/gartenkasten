@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thinking/zettels/1-a1-a1-b-my-thoughts-are-a-cottage-garden/","noteIcon":"","created":"2025-01-11T13:13","updated":"2025-05-30T14:29"}
+{"created":"2025-01-11T13:13","updated":"2025-05-30T14:29","dg-publish":true,"dg-path":"Zettels/(1A1A1B) My Thoughts Are A Cottage Garden.md","permalink":"/zettels/1-a1-a1-b-my-thoughts-are-a-cottage-garden/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 

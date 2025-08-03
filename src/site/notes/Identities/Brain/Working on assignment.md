@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/identities/brain/working-on-assignment/","tags":["excalidraw","system/personal","system/situational"],"noteIcon":"","created":"2025-05-09T11:11","updated":"2025-06-03T12:05"}
+{"excalidraw-plugin":"parsed","excalidraw-open-md":true,"tags":["excalidraw","system/personal","system/situational"],"created":"2025-05-09T11:11","updated":"2025-06-03T12:05","dg-publish":true,"permalink":"/identities/brain/working-on-assignment/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 # System for working on assignments 
