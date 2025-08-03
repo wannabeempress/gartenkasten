@@ -9,11 +9,5 @@
 
 The scope is important because [**leads to**:: [[Thinking/Zettels/(3B1A1I) Coaching Visitors Need To See Coaching As Personally Benefiting To Take Ownership\|(3B1A1I) Coaching Visitors Need To See Coaching As Personally Benefiting To Take Ownership]]]. Therefore, a coach should help a coachee think about success along this continuum, so that [**Prev**:: [[Thinking/Zettels/(3B2B2C) The Desired Outcome Is Agreed Upon In Coaching\|(3B2B2C) The Desired Outcome Is Agreed Upon In Coaching]]]. 
 
-[**source**:: [[Thinking/Reference/@deHaan2015DifferencesCriticalMoments\|@deHaan2015DifferencesCriticalMoments]]] also talks about the scope of coaching outcomes, which they describe as 'critical moments' and liken to Schein's onion model. 
+[**source**:: [[Thinking/Reference/@deHaan2015DifferencesCriticalMoments\|@deHaan2015DifferencesCriticalMoments]]] also talks about the scope of coaching outcomes, which they describe as 'critical moments' using Schein's onion model.
 
-> [!note]- Folgezettel
->  - [[Thinking/Zettels/(3B2B2C) The Desired Outcome Is Agreed Upon In Coaching\|(3B2B2C) The Desired Outcome Is Agreed Upon In Coaching]]
-> - [[Thinking/Zettels/(3B2B2C1) How To Measure Coaching Success\|(3B2B2C1) How To Measure Coaching Success]]
-> - [[Thinking/Zettels/(3B2B2C2) Scope of coaching outcomes on continuum\|(3B2B2C2) Scope of coaching outcomes on continuum]]
-> 
-{ .block-language-dataview}
