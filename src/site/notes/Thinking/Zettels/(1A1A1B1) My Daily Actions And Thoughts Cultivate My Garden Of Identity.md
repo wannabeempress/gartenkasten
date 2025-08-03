@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/thinking/zettels/1-a1-a1-b1-my-daily-actions-and-thoughts-cultivate-my-garden-of-identity/","noteIcon":"","created":"2025-04-27T15:02","updated":"2025-04-27T15:21"}
+{"dg-publish":true,"permalink":"/thinking/zettels/1-a1-a1-b1-my-daily-actions-and-thoughts-cultivate-my-garden-of-identity/","noteIcon":"","created":"2025-04-27T15:02","updated":"2025-08-03T13:50"}
 ---
 
 [[Thinking/Zettels/(1A1A1B2) Cultivating A Garden Is Continual Effort\|(1A1A1B2) Cultivating A Garden Is Continual Effort]], so I need to keep planting the seeds of who I want to be and water them, through my thoughts and actions. 
@@ -20,4 +20,3 @@ But the process of interstitial journaling can help: [[Thinking/Zettels/(1A1A1B1
 
 [[Habit Formation\|Habit Formation]] 
 [[Identities/My Identities\|My Identities]]
-#zettel/need-analog 
