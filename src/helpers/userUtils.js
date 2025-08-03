@@ -50,18 +50,19 @@ const noteLabels = {
 function forestData(data) {
   const treeCounts = JSON.parse(JSON.stringify(noteLabels));
   const canvasTrees = data.collections.note.map((n) => {
-    let v = parseInt(n.data.noteIcon);
+    let rawIcon = n.data.noteIcon;
     let height = 2;
-    if (!v) {
-      v = n.data.noteIcon;
+    let v;
+
+    if (/^tree-(\d+)$/.test(rawIcon)) {
+      height = parseInt(rawIcon.split("-")[1]) || 2;
+      v = rawIcon;
+    } else if (typeof rawIcon === "string" && rawIcon in noteLabels) {
+      v = rawIcon;
     } else {
-      height = v;
-      v = `tree-${v}`;
+      v = "tree-1"; // default if no noteIcon declared
     }
-    // Add fallback if v is undefined or not in noteLabels
-    if (!v || !treeCounts[v]) {
-      v = 'tree-1';  // default icon key
-    }
+
     treeCounts[v].count++;
     return [v, n.url, n.data.title || n.fileSlug, height];
   });
