@@ -27,10 +27,10 @@ I'm **Pat Oyson-Matthan**, and this digital space is where I put on a brave face
 --- 
 
 > [!tip] What's on this page? 
-> - [Start Here]([[Thinking/Welcome to my gartenkasten#Start Here\|Welcome to my gartenkasten#Start Here]])
-> - [[#Recent additions — recently modified pages]]
-> - [[#Established plants — explore ideas from here]]
-> - [[#About Me]]
+> - [[Thinking/Welcome to my gartenkasten#Start Here\|Start Here]]
+> - [[Thinking/Welcome to my gartenkasten#Recent additions — recently modified pages\|Recently Modified]]
+> - [[Thinking/Welcome to my gartenkasten#Established plants — explore ideas from here\|Explore Ideas]]
+> - [[Thinking/Welcome to my gartenkasten#About Me\|About Me]]
 
 ---
 
@@ -55,7 +55,7 @@ If any of my thoughts inspire you, then much like a physical garden, you can tak
 ### Recent additions — recently modified pages
 
 This place is always changing; the list below highlights the 15 freshest ideas aka pages I most recently modified.
-- [[Thinking/Welcome to my gartenkasten\|Welcome to my gartenkasten]]: 6:24 PM - August 03, 2025
+- [[Thinking/Welcome to my gartenkasten\|Welcome to my gartenkasten]]: 6:27 PM - August 03, 2025
 - [[Thinking/Why I Chose This Path\|Why I Chose This Path]]: 5:58 PM - August 03, 2025
 - [[Thinking/Zettels/(3B2B2C2) Scope of coaching outcomes on continuum\|(3B2B2C2) Scope of coaching outcomes on continuum]]: 2:49 PM - August 03, 2025
 - [[Thinking/Keep Kiwi Happy micro-game\|Keep Kiwi Happy micro-game]]: 2:45 PM - August 03, 2025
