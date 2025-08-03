@@ -43,7 +43,7 @@ const noteLabels = {
     label: "Butterfly",
     plural: "Butterflies",
     count: 0,
-    icon: "butterfly", },
+    icon: "butterfly", 
   },
 };
 
