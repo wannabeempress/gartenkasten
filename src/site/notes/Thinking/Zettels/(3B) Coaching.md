@@ -23,9 +23,9 @@ This is my definition of coaching, that I have developed by engaging with litera
 		- “Unlocking a person’s potential to maximize their own performance.” (Whitmore, 2010)
 
 - Related connections: 
-	- ==**origin**:: [[Thinking/Zettels/(3B13) How I learned coaching\|(3B13) How I learned coaching]]==
+	- ==**origin**:: [[${2}\|${2}]]==
 	- **supports**:: [[Thinking/Zettels/(3B1) Purpose of Coaching\|(3B1) Purpose of Coaching]]
-	- **child**:: [[Thinking/Zettels/(3B1C) Coaching definition and purpose are intertwined\|(3B1C) Coaching definition and purpose are intertwined]]
+	- **child**:: [[${2}\|${2}]]
 
  
 

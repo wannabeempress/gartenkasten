@@ -6,7 +6,7 @@ Writers like Ahrens, Doto and Kadavy — who introduced Luhmann's zettelkasten t
 
 Extending this definition, I see each zettel as a micro-essay: a complete and structured thought, which defines an idea, connects it to others, and states its meaning and relevance to the reader. Each note is evidence of [**supports**:: [[Thinking/Zettels/(1) I am a writer\|how I think about thinking]]][^1]. 
 
-To [**supports**:: [[Thinking/Zettels/(1A2) Zettel creation is writing a micro-essay\|write the zettel]]], one must [**supports**:: [[Thinking/Zettels/(1C1) Read like a detective\|(1C1) Read like a detective]]]. [**supports**:: [[Thinking/Zettels/(4A1D) Zettel form realises its purpose\|The clues — each aspect of the zettel — must first be gathered then structured]]]. Thus, each new zettel to one's zettelkasten, [**supports**:: [[Thinking/Zettels/(1A) Writers Are Made Through Writing And Reading\|further cements one's identity as writer]]].
+To [**supports**:: [[Thinking/Zettels/(1A2) Zettel creation is writing a micro-essay\|write the zettel]]], one must [**supports**:: [[Thinking/Zettels/(1C1) Read like a detective\|(1C1) Read like a detective]]]. [**supports**:: [[${2}\|${2}]]]. Thus, each new zettel to one's zettelkasten, [**supports**:: [[Thinking/Zettels/(1A) Writers Are Made Through Writing And Reading\|further cements one's identity as writer]]].
 
 
 > [!tip] Prompt table for zettel-ing 

@@ -42,7 +42,7 @@ If you're curious about **what even is this**, please start here:
 - What is a [[Digital garden\|Digital garden]]?
 - What is a [[Zettelkasten\|Zettelkasten]]?
 - [[Thinking/Zettels/(1A1A1B) My Thoughts Are A Cottage Garden\|(1A1A1B) My Thoughts Are A Cottage Garden]]
-- [[Thinking/Zettels/(1A41) Note types in MY zettelkasten\|(1A41) Note types in MY zettelkasten]]
+- [[${2}\|${2}]]
 - [[How to navigate the gartenkasten\|How to navigate the gartenkasten]]
 
 **As a guest, you are welcome to explore this garden of thoughts.** 
@@ -55,8 +55,9 @@ If any of my thoughts inspire you, then much like a physical garden, you can tak
 ### Recent additions — recently modified pages
 
 This place is always changing; the list below highlights the 15 freshest ideas aka pages I most recently modified.
+- [[Thinking/Reference/@ZaatMGT627LifeCareer\|@ZaatMGT627LifeCareer]]: 11:06 AM - August 04, 2025
+- [[Thinking/Why I Chose This Path\|Why I Chose This Path]]: 11:01 AM - August 04, 2025
 - [[Thinking/Welcome to my gartenkasten\|Welcome to my gartenkasten]]: 6:27 PM - August 03, 2025
-- [[Thinking/Why I Chose This Path\|Why I Chose This Path]]: 5:58 PM - August 03, 2025
 - [[Thinking/Zettels/(3B2B2C2) Scope of coaching outcomes on continuum\|(3B2B2C2) Scope of coaching outcomes on continuum]]: 2:49 PM - August 03, 2025
 - [[Thinking/Keep Kiwi Happy micro-game\|Keep Kiwi Happy micro-game]]: 2:45 PM - August 03, 2025
 - [[Thinking/Sense-sational Spellbook\|Sense-sational Spellbook]]: 2:03 PM - August 03, 2025
@@ -66,7 +67,6 @@ This place is always changing; the list below highlights the 15 freshest ideas a
 - [[Thinking/30 Ships, 30 Days\|30 Ships, 30 Days]]: 12:49 PM - August 03, 2025
 - [[Thinking/Zettels/(1) I am a writer\|(1) I am a writer]]: 8:39 PM - August 02, 2025
 - [[Thinking/Zettels/(1A1C) Mixing Wide, Medium And Tight Shots Tell A Story Succinctly\|(1A1C) Mixing Wide, Medium And Tight Shots Tell A Story Succinctly]]: 2:39 PM - August 02, 2025
-- [[Thinking/Reference/@ZaatMGT627LifeCareer\|@ZaatMGT627LifeCareer]]: 3:42 PM - August 01, 2025
 - [[Thinking/Zettels/(3B6A1) Life coaching  helps improve a coachee's life\|(3B6A1) Life coaching  helps improve a coachee's life]]: 3:42 PM - August 01, 2025
 - [[Thinking/Zettels/(3B6A) Definition of life coaching\|(3B6A) Definition of life coaching]]: 3:42 PM - August 01, 2025
 - [[Thinking/Zettels/(3B12) Definition Of Executive Coaching\|(3B12) Definition Of Executive Coaching]]: 3:42 PM - August 01, 2025
@@ -84,7 +84,7 @@ Below are hotspots that make interesting starting points for exploring this gart
 - [[Thinking/Zettels/(1) I am a writer\|(1) I am a writer]]
 - [[Thinking/Zettels/(1B) 'Serious Play' Creates Great Work\|(1B) 'Serious Play' Creates Great Work]]
 - [[Thinking/Zettels/(5) Learning In Public Allows You To Grow Faster\|(5) Learning In Public Allows You To Grow Faster]]
-- [[Thinking/Zettels/(3B6A1) Life coaching  helps improve a coachee's life\|(3B6A1) Life coaching  helps improve a coachee's life]]
+- [[${2}\|${2}]]
 - [[Thinking/30 Ships, 30 Days\|30 Ships, 30 Days]]
 - [[Thinking/Zettels/(1A1A1B1) My Daily Actions And Thoughts Cultivate My Garden Of Identity\|(1A1A1B1) My Daily Actions And Thoughts Cultivate My Garden Of Identity]]
 

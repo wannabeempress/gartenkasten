@@ -13,5 +13,5 @@ According to [**source**:: [[Thinking/Reference/@zhaoCompassZettelkastenThinking
 
 --- 
 
-[**Prev**:: [[Thinking/Zettels/(1A1D1) The act of zettelkasten is associative in thinking\|(1A1D1) The act of zettelkasten is associative in thinking]]]
+[**Prev**:: [[${2}\|${2}]]]
 [**example**:: [[Resources/Zettelkasten Process\|Zettelkasten Process]] ] my specific process as a series of flowcharts

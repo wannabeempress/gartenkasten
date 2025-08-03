@@ -105,5 +105,5 @@ Also, lol. It was interesting vibe coding? I did some of the game logic, but I a
 ### 🧠 Zettels or Tracts Spawned?
 > Any permanent notes, insights, or essays created?
 
-[[Thinking/Zettels/(1B2A) Copy Gamers to Reach Flow State\|(1B2A) Copy Gamers to Reach Flow State]] - I previously wrote this, and I think it applies here in a way. Games have the ability to induce flow state because of the parameters and constraints in which they operate; it's something I try and think about when designing systems in my life-- and I could do a better job around thinking about those parameters and constraints in game programming. 
+[[${2}\|${2}]] - I previously wrote this, and I think it applies here in a way. Games have the ability to induce flow state because of the parameters and constraints in which they operate; it's something I try and think about when designing systems in my life-- and I could do a better job around thinking about those parameters and constraints in game programming. 
 

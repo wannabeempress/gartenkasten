@@ -9,7 +9,7 @@ Central to the philosophy of [[Thinking/Zettels/(3B1B1A) Helping Roles\|(3B1B1A)
 According to [[Thinking/Reference/@Westergaard2017IntroductionHelpingSkills\|Westergaard (2017)]], the [[Thinking/Zettels/(3B2B2A1C) Role Of Coach\|(3B2B2A1C) Role Of Coach]] or helper is to walk alongside and support the client's learning and growth, as expanded upon in: 
 - [[Thinking/Zettels/(3B2B2A1C2) Coaches Foster Trust And Safety\|(3B2B2A1C2) Coaches Foster Trust And Safety]]
 - [[Thinking/Zettels/(3B2B2A1C11) Coaches Empathise\|(3B2B2A1C11) Coaches Empathise]]
-- [[Thinking/Zettels/(3B4A1) Coaching Facilitates Reflective Self-Awareness And Continuous Learning\|(3B4A1) Coaching Facilitates Reflective Self-Awareness And Continuous Learning]]
+- [[${2}\|${2}]]
 
 
 ### Drawing

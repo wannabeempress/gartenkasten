@@ -1,5 +1,5 @@
 ---
-{"created":"2024-09-21T21:14","updated":"2025-06-17T13:46","dg-publish":true,"noteIcon":"butterfly","aliases":["Who Am I","Who I Am"],"permalink":"/identities/my-identities/","dgPassFrontmatter":true}
+{"created":"2024-09-21T21:14","updated":"2025-08-04T10:57","dg-publish":true,"noteIcon":"butterfly","title":"Who I Am","aliases":["Who Am I","Who I Am"],"permalink":"/identities/my-identities/","dgPassFrontmatter":true}
 ---
 
 
@@ -13,7 +13,7 @@
 >Kia ora pānui mai koutou_
 >-- This is a Pepeha - it's a way of introducing myself and honouring the indigenous culture of Aotearoa New Zealand, the country I love and call home.
 
-# I'm Pat Oyson-Matthan: coach, researcher, dream-weaver and systems alchemist. 
+# I'm Pat Oyson-Matthan: coach, researcher, magic-maker and systems sorceress. 
 ## I help people design lives that are magical, not just practical.
 
 > I've spent years in HR and people management, seeing firsthand how systems shape the way we work and live.  
