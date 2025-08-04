@@ -55,6 +55,7 @@ If any of my thoughts inspire you, then much like a physical garden, you can tak
 ### Recent additions — recently modified pages
 
 This place is always changing; the list below highlights the 15 freshest ideas aka pages I most recently modified.
+- [[Thinking/Zettels/(3B7) Multiple Paths Led To Modern Coaching\|(3B7) Multiple Paths Led To Modern Coaching]]: 1:27 PM - August 04, 2025
 - [[Thinking/Reference/@ZaatMGT627LifeCareer\|@ZaatMGT627LifeCareer]]: 12:12 PM - August 04, 2025
 - [[Thinking/Reference/@Echols2018WhyBecomeICF\|@Echols2018WhyBecomeICF]]: 12:12 PM - August 04, 2025
 - [[Thinking/Zettels/(3B7E2A) Credentials show commitment\|(3B7E2A) Credentials show commitment]]: 12:06 PM - August 04, 2025
@@ -69,7 +70,6 @@ This place is always changing; the list below highlights the 15 freshest ideas a
 - [[Thinking/Keep Kiwi Happy micro-game\|Keep Kiwi Happy micro-game]]: 2:45 PM - August 03, 2025
 - [[Thinking/Sense-sational Spellbook\|Sense-sational Spellbook]]: 2:03 PM - August 03, 2025
 - [[Thinking/Zettels/(1A1A1B1) My Daily Actions And Thoughts Cultivate My Garden Of Identity\|(1A1A1B1) My Daily Actions And Thoughts Cultivate My Garden Of Identity]]: 1:50 PM - August 03, 2025
-- [[Thinking/Reference/@Keshav2007HowReadPaper\|@Keshav2007HowReadPaper]]: 1:22 PM - August 03, 2025
 
 { .block-language-dataview}
 
