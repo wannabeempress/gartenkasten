@@ -55,21 +55,21 @@ If any of my thoughts inspire you, then much like a physical garden, you can tak
 ### Recent additions — recently modified pages
 
 This place is always changing; the list below highlights the 15 freshest ideas aka pages I most recently modified.
+- [[Thinking/Zettels/(5A) Making Something Observable Benefits The Thing\|(5A) Making Something Observable Benefits The Thing]]: 2:01 PM - August 04, 2025
+- [[Thinking/Zettels/(1B) 'Serious Play' Creates Great Work\|(1B) 'Serious Play' Creates Great Work]]: 2:01 PM - August 04, 2025
+- [[Thinking/Zettels/(1A1) Writing Depends Upon Your Ability To Read\|(1A1) Writing Depends Upon Your Ability To Read]]: 2:01 PM - August 04, 2025
+- [[Thinking/Zettels/(3A1) Effectiveness Is Created When Long Term Vision Is Translated Into Daily Action\|(3A1) Effectiveness Is Created When Long Term Vision Is Translated Into Daily Action]]: 2:00 PM - August 04, 2025
+- [[Thinking/Zettels/(2A2A2) Be A Great Love Map Cartographer\|(2A2A2) Be A Great Love Map Cartographer]]: 2:00 PM - August 04, 2025
+- [[Thinking/Zettels/(1A4) Zettel as micro-essay\|(1A4) Zettel as micro-essay]]: 2:00 PM - August 04, 2025
+- [[Thinking/Zettels/(1A3) We act out our identity\|(1A3) We act out our identity]]: 2:00 PM - August 04, 2025
+- [[Thinking/Zettels/(1A2) Zettel creation is writing a micro-essay\|(1A2) Zettel creation is writing a micro-essay]]: 2:00 PM - August 04, 2025
+- [[Thinking/Zettels/(1A1E) Academic writing is conversation\|(1A1E) Academic writing is conversation]]: 2:00 PM - August 04, 2025
+- [[Thinking/Zettels/(1A1D1) The act of zettelkasten is associative in thinking\|(1A1D1) The act of zettelkasten is associative in thinking]]: 2:00 PM - August 04, 2025
+- [[Thinking/Zettels/(1A) Writers are made through writing and reading\|(1A) Writers are made through writing and reading]]: 2:00 PM - August 04, 2025
+- [[Thinking/Reference/Faery (2005) 21W.735 Writing And Reading The Essay\|Faery (2005) 21W.735 Writing And Reading The Essay]]: 2:00 PM - August 04, 2025
+- [[Thinking/Reference/@Keshav2007HowReadPaper\|@Keshav2007HowReadPaper]]: 2:00 PM - August 04, 2025
 - [[Thinking/Zettels/(1A1A1A3) Digital garden\|(1A1A1A3) Digital garden]]: 1:53 PM - August 04, 2025
 - [[Thinking/Zettels/(1A1A1A3A) Digital gardens are not blogs\|(1A1A1A3A) Digital gardens are not blogs]]: 1:53 PM - August 04, 2025
-- [[Thinking/Welcome to my gartenkasten\|Welcome to my gartenkasten]]: 1:43 PM - August 04, 2025
-- [[Thinking/Zettels/(3B7) Multiple Paths Led To Modern Coaching\|(3B7) Multiple Paths Led To Modern Coaching]]: 1:27 PM - August 04, 2025
-- [[Thinking/Reference/@ZaatMGT627LifeCareer\|@ZaatMGT627LifeCareer]]: 12:12 PM - August 04, 2025
-- [[Thinking/Reference/@Echols2018WhyBecomeICF\|@Echols2018WhyBecomeICF]]: 12:12 PM - August 04, 2025
-- [[Thinking/Zettels/(3B7E2A) Credentials show commitment\|(3B7E2A) Credentials show commitment]]: 12:06 PM - August 04, 2025
-- [[Thinking/Zettels/(3B2B2A1C10A) ICF competency framework can be improved\|(3B2B2A1C10A) ICF competency framework can be improved]]: 12:04 PM - August 04, 2025
-- [[Thinking/Zettels/(3C) Competencies define expression of desired activities\|(3C) Competencies define expression of desired activities]]: 11:55 AM - August 04, 2025
-- [[Thinking/Zettels/(3B2B2A1C10) ICF Core Competencies as at 2019\|(3B2B2A1C10) ICF Core Competencies as at 2019]]: 11:55 AM - August 04, 2025
-- [[Thinking/Reference/@internationalcoachingfederationUpdatedICFCore2019\|@internationalcoachingfederationUpdatedICFCore2019]]: 11:55 AM - August 04, 2025
-- [[Thinking/Reference/@internationalcoachingfederationICFGoldStandard\|@internationalcoachingfederationICFGoldStandard]]: 11:55 AM - August 04, 2025
-- [[Thinking/Why I Chose This Path\|Why I Chose This Path]]: 11:01 AM - August 04, 2025
-- [[Thinking/Zettels/(3B2B2C2) Scope of coaching outcomes on continuum\|(3B2B2C2) Scope of coaching outcomes on continuum]]: 2:49 PM - August 03, 2025
-- [[Thinking/Keep Kiwi Happy micro-game\|Keep Kiwi Happy micro-game]]: 2:45 PM - August 03, 2025
 
 { .block-language-dataview}
 

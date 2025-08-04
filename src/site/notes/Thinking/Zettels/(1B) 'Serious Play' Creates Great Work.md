@@ -1,5 +1,5 @@
 ---
-{"created":"2025-02-17T15:36","updated":"2025-05-30T15:09","excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"excalidraw-export-transparent":true,"banner":"[[\1\|\1]]","dg-publish":true,"dg-path":"Zettels/(1B) 'Serious Play' Creates Great Work.md","permalink":"/zettels/1-b-serious-play-creates-great-work/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-02-17T15:36","updated":"2025-05-30T15:09","excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"excalidraw-export-transparent":true,"dg-publish":true,"dg-path":"Zettels/(1B) 'Serious Play' Creates Great Work.md","permalink":"/zettels/1-b-serious-play-creates-great-work/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 
@@ -7,7 +7,7 @@
 
 ![[\1\|\1]]
 
-"Serious play" like any game should be challenging and engaging, and we should be committed in the work. These conditions sound like [[flow state\|flow state]], and it's no wonder then that [[\1]]. That mindset allows them to persist in challenges. For example, [Foldit Gamers Solve Riddle of HIV Enzyme within 3 Weeks | Scientific American](https://www.scientificamerican.com/article/foldit-gamers-solve-riddle/)
+"Serious play" like any game should be challenging and engaging, and we should be committed in the work. These conditions sound like [[flow state\|flow state]], and it's no wonder then that [[\1\|\1]]. That mindset allows them to persist in challenges. For example, [Foldit Gamers Solve Riddle of HIV Enzyme within 3 Weeks | Scientific American](https://www.scientificamerican.com/article/foldit-gamers-solve-riddle/)
 
 If we must be committed to the work, that suggests discipline. Therefore, even though writing can be fun, it can also be excruciating - because [[Writing Is A Discipline\|Writing Is A Discipline]]. 
 

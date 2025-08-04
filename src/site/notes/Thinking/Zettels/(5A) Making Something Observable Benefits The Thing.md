@@ -1,5 +1,5 @@
 ---
-{"created":"2024-10-20T12:29","updated":"2025-05-30T15:10","tags":["excalidraw"],"identity":["Brain","Business Woman"],"excalidraw-plugin":"parsed","excalidraw-open-md":true,"excalidraw-export-transparent":true,"banner":"[[\1\|\1]]","dg-publish":true,"dg-path":"Zettels/(5A) Making Something Observable Benefits The Thing.md","permalink":"/zettels/5-a-making-something-observable-benefits-the-thing/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2024-10-20T12:29","updated":"2025-05-30T15:10","tags":["excalidraw"],"identity":["Brain","Business Woman"],"excalidraw-plugin":"parsed","excalidraw-open-md":true,"excalidraw-export-transparent":true,"dg-publish":true,"dg-path":"Zettels/(5A) Making Something Observable Benefits The Thing.md","permalink":"/zettels/5-a-making-something-observable-benefits-the-thing/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 Making something observable benefits the thing. 
@@ -27,7 +27,7 @@ This thinking has applications in [[systems thinking\|systems thinking]], person
 In [[Thinking/Reference/@moran12weekYearGet2013\|@moran12weekYearGet2013]], the author adds that [[Monitoring And Measuring Builds Self-Esteem\|Monitoring And Measuring Builds Self-Esteem]] because progress is documented and made visible. 
 
 #### Related 
-[[\1]]
+[[\1\|\1]]
 
 
 
