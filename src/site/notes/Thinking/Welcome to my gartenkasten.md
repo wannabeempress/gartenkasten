@@ -55,7 +55,14 @@ If any of my thoughts inspire you, then much like a physical garden, you can tak
 ### Recent additions — recently modified pages
 
 This place is always changing; the list below highlights the 15 freshest ideas aka pages I most recently modified.
-- [[Thinking/Reference/@ZaatMGT627LifeCareer\|@ZaatMGT627LifeCareer]]: 11:06 AM - August 04, 2025
+- [[Thinking/Reference/@ZaatMGT627LifeCareer\|@ZaatMGT627LifeCareer]]: 12:12 PM - August 04, 2025
+- [[Thinking/Reference/@Echols2018WhyBecomeICF\|@Echols2018WhyBecomeICF]]: 12:12 PM - August 04, 2025
+- [[Thinking/Zettels/(3B7E2A) Credentials show commitment\|(3B7E2A) Credentials show commitment]]: 12:06 PM - August 04, 2025
+- [[Thinking/Zettels/(3B2B2A1C10A) ICF competency framework can be improved\|(3B2B2A1C10A) ICF competency framework can be improved]]: 12:04 PM - August 04, 2025
+- [[Thinking/Zettels/(3C) Competencies define expression of desired activities\|(3C) Competencies define expression of desired activities]]: 11:55 AM - August 04, 2025
+- [[Thinking/Zettels/(3B2B2A1C10) ICF Core Competencies as at 2019\|(3B2B2A1C10) ICF Core Competencies as at 2019]]: 11:55 AM - August 04, 2025
+- [[Thinking/Reference/@internationalcoachingfederationUpdatedICFCore2019\|@internationalcoachingfederationUpdatedICFCore2019]]: 11:55 AM - August 04, 2025
+- [[Thinking/Reference/@internationalcoachingfederationICFGoldStandard\|@internationalcoachingfederationICFGoldStandard]]: 11:55 AM - August 04, 2025
 - [[Thinking/Why I Chose This Path\|Why I Chose This Path]]: 11:01 AM - August 04, 2025
 - [[Thinking/Welcome to my gartenkasten\|Welcome to my gartenkasten]]: 6:27 PM - August 03, 2025
 - [[Thinking/Zettels/(3B2B2C2) Scope of coaching outcomes on continuum\|(3B2B2C2) Scope of coaching outcomes on continuum]]: 2:49 PM - August 03, 2025
@@ -63,13 +70,6 @@ This place is always changing; the list below highlights the 15 freshest ideas a
 - [[Thinking/Sense-sational Spellbook\|Sense-sational Spellbook]]: 2:03 PM - August 03, 2025
 - [[Thinking/Zettels/(1A1A1B1) My Daily Actions And Thoughts Cultivate My Garden Of Identity\|(1A1A1B1) My Daily Actions And Thoughts Cultivate My Garden Of Identity]]: 1:50 PM - August 03, 2025
 - [[Thinking/Reference/@Keshav2007HowReadPaper\|@Keshav2007HowReadPaper]]: 1:22 PM - August 03, 2025
-- [[Thinking/Zettels/(1A41) Note types in MY zettelkasten\|(1A41) Note types in MY zettelkasten]]: 1:09 PM - August 03, 2025
-- [[Thinking/30 Ships, 30 Days\|30 Ships, 30 Days]]: 12:49 PM - August 03, 2025
-- [[Thinking/Zettels/(1) I am a writer\|(1) I am a writer]]: 8:39 PM - August 02, 2025
-- [[Thinking/Zettels/(1A1C) Mixing Wide, Medium And Tight Shots Tell A Story Succinctly\|(1A1C) Mixing Wide, Medium And Tight Shots Tell A Story Succinctly]]: 2:39 PM - August 02, 2025
-- [[Thinking/Zettels/(3B6A1) Life coaching  helps improve a coachee's life\|(3B6A1) Life coaching  helps improve a coachee's life]]: 3:42 PM - August 01, 2025
-- [[Thinking/Zettels/(3B6A) Definition of life coaching\|(3B6A) Definition of life coaching]]: 3:42 PM - August 01, 2025
-- [[Thinking/Zettels/(3B12) Definition Of Executive Coaching\|(3B12) Definition Of Executive Coaching]]: 3:42 PM - August 01, 2025
 
 { .block-language-dataview}
 
