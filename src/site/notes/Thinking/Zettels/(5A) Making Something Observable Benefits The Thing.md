@@ -2,9 +2,10 @@
 {"created":"2024-10-20T12:29","updated":"2025-05-30T15:10","tags":["excalidraw"],"identity":["Brain","Business Woman"],"excalidraw-plugin":"parsed","excalidraw-open-md":true,"excalidraw-export-transparent":true,"dg-publish":true,"dg-path":"Zettels/(5A) Making Something Observable Benefits The Thing.md","permalink":"/zettels/5-a-making-something-observable-benefits-the-thing/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
-Making something observable benefits the thing. 
 
 ![[\1\|\1]]
+
+> "Making something observable benefits the thing." - Nicole van der Hoeven 
 
 Turning [[tacit knowledge\|tacit knowledge]] into [[concrete knowledge\|concrete knowledge]] is often a known bottleneck for knowledge workers and organisations. How much information is stored in our heads that we end up sharing in informal ways? How much information is then lost to the vagueness of memory, changes in personnel, etc. 
 

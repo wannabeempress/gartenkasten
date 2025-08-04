@@ -11,7 +11,7 @@
 
 If we must be committed to the work, that suggests discipline. Therefore, even though writing can be fun, it can also be excruciating - because [[Writing Is A Discipline\|Writing Is A Discipline]]. 
 
-Question for later: [[How do we define what is Great Work?] 
+Question for later: How do we define what is Great Work? 
 
 
 ## Drawing

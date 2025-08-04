@@ -1,5 +1,5 @@
 ---
-{"created":"2025-05-30T14:25","updated":"2025-08-04T13:36","dg-home":true,"dg-publish":true,"noteIcon":"signpost","aliases":["Gartenkasten"],"dg-path":"Welcome to my gartenkasten.md","permalink":"/welcome-to-my-gartenkasten/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"created":"2025-05-30T14:25","updated":"2025-08-04T13:43","dg-home":true,"dg-publish":true,"noteIcon":"signpost","aliases":["Gartenkasten"],"dg-path":"Welcome to my gartenkasten.md","permalink":"/welcome-to-my-gartenkasten/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 # Kia ora, e hoa! 
@@ -49,15 +49,16 @@ If you're curious about **what even is this**, please start here:
 
 If any of my thoughts inspire you, then much like a physical garden, you can take a 'cutting'. Take the thought with you into your own notes or life—and cultivate it, until it bears its own fruit and flowers. 
 
-> _By the way,_ **[[pink links\|pink links]]** mean the note is _unpublished_ or _private_, while **[[Thinking/Welcome to my gartenkasten\|green links]]** are public, and you can view them. 
+> _By the way,_ **[[pink links\|pink links]]** mean the note is _unpublished_ or _private_ OR they mean it's an external link (not sure how to make the distinction clear atm), while **[[Thinking/Welcome to my gartenkasten\|green links]]** are public, and you can view them. 
 
 ---
 ### Recent additions — recently modified pages
 
-This place is always changing; the list below highlights the 15 freshest ideas aka pages I most recently modified.
-- [[Thinking/Zettels/(5A) Making Something Observable Benefits The Thing\|(5A) Making Something Observable Benefits The Thing]]: 2:01 PM - August 04, 2025
-- [[Thinking/Zettels/(1B) 'Serious Play' Creates Great Work\|(1B) 'Serious Play' Creates Great Work]]: 2:01 PM - August 04, 2025
-- [[Thinking/Zettels/(1A1) Writing Depends Upon Your Ability To Read\|(1A1) Writing Depends Upon Your Ability To Read]]: 2:01 PM - August 04, 2025
+This place is always changing; the list below highlights the **15 freshest ideas** aka pages I most recently modified.
+- [[Thinking/Welcome to my gartenkasten\|Welcome to my gartenkasten]]: 2:08 PM - August 04, 2025
+- [[Thinking/Zettels/(1A1) Writing Depends Upon Your Ability To Read\|(1A1) Writing Depends Upon Your Ability To Read]]: 2:07 PM - August 04, 2025
+- [[Thinking/Zettels/(1B) 'Serious Play' Creates Great Work\|(1B) 'Serious Play' Creates Great Work]]: 2:05 PM - August 04, 2025
+- [[Thinking/Zettels/(5A) Making Something Observable Benefits The Thing\|(5A) Making Something Observable Benefits The Thing]]: 2:05 PM - August 04, 2025
 - [[Thinking/Zettels/(3A1) Effectiveness Is Created When Long Term Vision Is Translated Into Daily Action\|(3A1) Effectiveness Is Created When Long Term Vision Is Translated Into Daily Action]]: 2:00 PM - August 04, 2025
 - [[Thinking/Zettels/(2A2A2) Be A Great Love Map Cartographer\|(2A2A2) Be A Great Love Map Cartographer]]: 2:00 PM - August 04, 2025
 - [[Thinking/Zettels/(1A4) Zettel as micro-essay\|(1A4) Zettel as micro-essay]]: 2:00 PM - August 04, 2025
@@ -69,7 +70,6 @@ This place is always changing; the list below highlights the 15 freshest ideas a
 - [[Thinking/Reference/Faery (2005) 21W.735 Writing And Reading The Essay\|Faery (2005) 21W.735 Writing And Reading The Essay]]: 2:00 PM - August 04, 2025
 - [[Thinking/Reference/@Keshav2007HowReadPaper\|@Keshav2007HowReadPaper]]: 2:00 PM - August 04, 2025
 - [[Thinking/Zettels/(1A1A1A3) Digital garden\|(1A1A1A3) Digital garden]]: 1:53 PM - August 04, 2025
-- [[Thinking/Zettels/(1A1A1A3A) Digital gardens are not blogs\|(1A1A1A3A) Digital gardens are not blogs]]: 1:53 PM - August 04, 2025
 
 { .block-language-dataview}
 
@@ -79,7 +79,7 @@ This place is always changing; the list below highlights the 15 freshest ideas a
 
 I'm trying to weave the connections between ideas as deftly as I can. These connections might be explicit (hard-coded in a structured list or in an essay) or contextual (hyperlinked as ontologically related). 
 
-Below are hotspots that make interesting starting points for exploring this gartenkasten. Some are short and atomic `zettel`-style, while others are longform evergreen essays. 
+Below are hotspots that make **interesting starting points** for exploring this gartenkasten. Some are short and atomic `zettel`-style, while others are longform evergreen essays. 
 
 - [[\1\|\1]]
 - [[\1\|\1]]
