@@ -2,7 +2,7 @@
 {"created":"2025-08-01T15:01","updated":"2025-08-03T12:43","noteIcon":1,"dg-publish":true,"dg-path":"Zettels/(1A41) Note types in MY zettelkasten.md","permalink":"/zettels/1-a41-note-types-in-my-zettelkasten/","dgPassFrontmatter":true}
 ---
 
-I previously thought about the [**Prev**:: [[\1\|\1]]], but now I see that I was thinking about two different kinds of notes. Since I see the [[Zettelkasten as conversation partner\|Zettelkasten as conversation partner]], it makes sense that I have shaped the conversation to suit my needs and thinking style. 
+I previously thought about the [**Prev**:: [[]\|]]], but now I see that I was thinking about two different kinds of notes. Since I see the [[Zettelkasten as conversation partner\|Zettelkasten as conversation partner]], it makes sense that I have shaped the conversation to suit my needs and thinking style. 
 
 These are the different notes in my [**source**:: [[Thinking/Welcome to my gartenkasten\|Gartenkasten]]]: 
 

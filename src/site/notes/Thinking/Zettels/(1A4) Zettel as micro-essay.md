@@ -4,9 +4,9 @@
 
 Writers like Ahrens, Doto and Kadavy — who introduced Luhmann's zettelkasten to a new generation — describe a zettel as one note that expresses a singular, complete thought. 
 
-Extending this definition, I see each zettel as a micro-essay: a complete and structured thought, which defines an idea, connects it to others, and states its meaning and relevance to the reader. Each note is evidence of [**supports**:: [[\1\|\1]]][^1]. 
+Extending this definition, I see each zettel as a micro-essay: a complete and structured thought, which defines an idea, connects it to others, and states its meaning and relevance to the reader. Each note is evidence of [**supports**:: [[]\|]]][^1]. 
 
-To [**supports**:: [[\1\|\1]]], one must [**supports**:: [[\1\|\1]]]. [**supports**:: [[\1\|\1]]]. Thus, each new zettel to one's zettelkasten, [**supports**:: [[\1\|\1]]].
+To [**supports**:: [[]\|]]], one must [**supports**:: [[]\|]]]. [**supports**:: [[]\|]]]. Thus, each new zettel to one's zettelkasten, [**supports**:: [[]\|]]].
 
 
 > [!tip] Prompt table for zettel-ing 
@@ -18,7 +18,7 @@ To [**supports**:: [[\1\|\1]]], one must [**supports**:: [[\1\|\1]]]. [**support
 > |💡 Why does it matter?|Relevance|
 > |🪞 What does this say about how I think?|Meta-cognition|
 
-**Prev**:: [[\1\|\1]]
+**Prev**:: [[]]
 
 [^1] Reflection described to ChatGPT during [[writing deliberate practice\|writing deliberate practice]] on [[Dailies/2025-07-16\|2025-07-16]]
 

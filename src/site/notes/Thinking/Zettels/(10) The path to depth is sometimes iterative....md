@@ -5,7 +5,7 @@
 > The path to depth is sometimes iterative and not the result of major leaps. I call that the Good Life Algorithm
 - @Cal Newport [youtube video [[2025-05-30\|2025-05-30]]]
 
-[**example**:: [[Career Capital Pathway Map\|The Life]]] you want is [**supports**:: [[\1\|\1]], or painted stroke by stroke. [**supports**:: [[\1\|\1]]] consistently can be more important than making leaps and bounds toward a destination that unknowingly may not be what you want. 
+[**example**:: [[Career Capital Pathway Map\|The Life]]] you want is [**supports**:: [[]], or painted stroke by stroke. [**supports**:: [[\|]], or painted stroke by stroke. [**supports**:: [[]]] consistently can be more important than making leaps and bounds toward a destination that unknowingly may not be what you want. 
 
 Similar: Everything, Everywhere All At Once 
 

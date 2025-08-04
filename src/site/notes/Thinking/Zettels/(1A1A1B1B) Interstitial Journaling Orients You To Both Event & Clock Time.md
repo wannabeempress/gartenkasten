@@ -6,6 +6,6 @@ The act of logging what is, has, and will happen orients you to event time becau
 
 In a way, interstitial journalling allows you to sidestep the decision of [[Thinking/Zettels/(1A1A1B1B1) Operating In Clock Time Vs Event Time\|Thinking/Zettels/(1A1A1B1B1) Operating In Clock Time Vs Event Time]]. 
 
-**Prev**:: [[\1\|\1]]
+**Prev**:: [[]]
 
-**similar**:: [[\1\|\1]]
+**similar**:: [[]]

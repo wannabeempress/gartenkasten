@@ -3,7 +3,7 @@
 ---
 
 
-![[\1\|\1]]
+![[]]
 
 I am a voracious reader. Whether I read five pages in a year or 10 books in two days, I know in my heart I am a reader. Comics, scholarly articles, manga, tweets, blog posts, erotica, self-help, business -- give me the gamut of the library. I am a devourer. 
 
@@ -21,11 +21,11 @@ Just give me the words of others.
 
 There is no movie playing in my head (thanks, aphantasia), but words are still my escape and respite. 
 
-And I guess because I read, then that's why [[\1\|\1]]. 
+And I guess because I read, then that's why [[]]. 
 
 **Part of [[Identities/My Identities\|My Identities]].**
 
-**prev**:: [[\1\|\1]]
+**prev**:: [[]]
 
 
 ## Drawing

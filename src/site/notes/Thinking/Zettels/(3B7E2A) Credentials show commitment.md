@@ -2,7 +2,7 @@
 {"created":"2025-08-04T11:36","updated":"2025-08-04T11:42","dg-publish":true,"dg-path":"Zettels/(3B7E2A) Credentials show commitment.md","permalink":"/zettels/3-b7-e2-a-credentials-show-commitment/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
-Obtaining credentials show commitment to your chosen profession ([**source**:: [[Thinking/Reference/@Echols2018WhyBecomeICF\|@Echols2018WhyBecomeICF]]]). In the case of [**north**:: [[\1\|\1]]], organisations like the [[Thinking/Reference/@internationalcoachingfederationICFGoldStandard\|ICF]] to [**Prev**:: [[\1\|\1]]] and [**north**:: [[Coaching self knowledge\|applied practice]]]. 
+Obtaining credentials show commitment to your chosen profession ([**source**:: [[Thinking/Reference/@Echols2018WhyBecomeICF\|@Echols2018WhyBecomeICF]]]). In the case of [**north**:: [[]\|]]], organisations like the [[Thinking/Reference/@internationalcoachingfederationICFGoldStandard\|ICF]] to [**Prev**:: [[]\|]]] and [**north**:: [[Coaching self knowledge\|applied practice]]]. 
 
 %% 
 

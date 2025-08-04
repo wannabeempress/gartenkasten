@@ -2,14 +2,14 @@
 {"created":"2025-03-18T16:44","updated":"2025-05-06T16:55","aliases":["The Coachee Has The Answer"],"excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"excalidraw-export-transparent":true,"dg-publish":true,"dg-path":"Zettels/(3B3) The Client Has The Answer.md","permalink":"/zettels/3-b3-the-client-has-the-answer/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
-![[\1\|\1]]
+![[]]
 
-Central to the philosophy of [[\1\|\1]] like [[\1\|\1]], it is assumed and expected that the client knows best and is 'the expert of their own life'. Because each individual client is unique through their respective upbringings, skills, experiences, background and more, then only the client can truly speak to that uniqueness ([[Thinking/Reference/@Westergaard2017IntroductionHelpingSkills\|Westergaard (2017)]]). [i.e. only the client has all the context]
+Central to the philosophy of [[]] like [[\|]] like [[]], it is assumed and expected that the client knows best and is 'the expert of their own life'. Because each individual client is unique through their respective upbringings, skills, experiences, background and more, then only the client can truly speak to that uniqueness ([[Thinking/Reference/@Westergaard2017IntroductionHelpingSkills\|Westergaard (2017)]]). [i.e. only the client has all the context]
 
-According to [[Thinking/Reference/@Westergaard2017IntroductionHelpingSkills\|Westergaard (2017)]], the [[\1\|\1]] or helper is to walk alongside and support the client's learning and growth, as expanded upon in: 
-- [[\1\|\1]]
-- [[\1\|\1]]
-- [[\1\|\1]]
+According to [[Thinking/Reference/@Westergaard2017IntroductionHelpingSkills\|Westergaard (2017)]], the [[]] or helper is to walk alongside and support the client's learning and growth, as expanded upon in: 
+- [[]]
+- [[]]
+- [[]]
 
 
 ### Drawing

@@ -45,7 +45,7 @@ There are probably other books or studies out there about raising your baseline 
  
  I first encountered these ideas in [[@Gilbert2006StumblingHappiness\|@Gilbert2006StumblingHappiness]]* (which honestly I should re-read because it's been at least 15 years since I read it...)
 
-*// The nice thing about having a bookworm as a dad is that you can borrow all his books. In my younger years, my dad read a lot of Tom Clancy, but he also had A LOT of non-fiction. Tom Clancy isn't for me, but I love non-fiction!!!! If ONLY I took notes and knew about zettelkasten and [[\1\|\1]] back then... 
+*// The nice thing about having a bookworm as a dad is that you can borrow all his books. In my younger years, my dad read a lot of Tom Clancy, but he also had A LOT of non-fiction. Tom Clancy isn't for me, but I love non-fiction!!!! If ONLY I took notes and knew about zettelkasten and [[]] back then... 
 // I also read a LOT of Newsweek and TIME magazine. No, I wasn't popular. Why do you ask? 🤣*
 
 ### 🧰 Scope Notes
@@ -105,5 +105,5 @@ Also, lol. It was interesting vibe coding? I did some of the game logic, but I a
 ### 🧠 Zettels or Tracts Spawned?
 > Any permanent notes, insights, or essays created?
 
-[[\1\|\1]] - I previously wrote this, and I think it applies here in a way. Games have the ability to induce flow state because of the parameters and constraints in which they operate; it's something I try and think about when designing systems in my life-- and I could do a better job around thinking about those parameters and constraints in game programming. 
+[[]] - I previously wrote this, and I think it applies here in a way. Games have the ability to induce flow state because of the parameters and constraints in which they operate; it's something I try and think about when designing systems in my life-- and I could do a better job around thinking about those parameters and constraints in game programming. 
 

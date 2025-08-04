@@ -44,7 +44,7 @@
 	- if lucky: recent survey paper or meta-analysis
 
 ### Distilled Thoughts 
-[[\1\|\1]]
+[[]]
 
 
 ## Quotes 
@@ -54,8 +54,8 @@
 
 ## Reaction 
 > [!tip] Reaction 
-> I thought this was a helpful way to approach reading academic articles. I really like that it had a common-sense approach and also highlighted other papers to improve ones ability to review or write. Again, relating to [**supports**:: [[\1\|\1]]]. 
-> Very applicable to the [**example**:: [[\1\|\1]]], especially with respect to pass 2 and 3. 
+> I thought this was a helpful way to approach reading academic articles. I really like that it had a common-sense approach and also highlighted other papers to improve ones ability to review or write. Again, relating to [**supports**:: [[]\|]]]. 
+> Very applicable to the [**example**:: [[]\|]]], especially with respect to pass 2 and 3. 
 
 ## Connections  
 

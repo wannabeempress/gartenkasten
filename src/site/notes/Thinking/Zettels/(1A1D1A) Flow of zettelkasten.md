@@ -13,5 +13,5 @@ According to [**source**:: [[Thinking/Reference/@zhaoCompassZettelkastenThinking
 
 --- 
 
-[**Prev**:: [[\1\|\1]]]
+[**Prev**:: [[]\|]]]
 [**example**:: [[Resources/Zettelkasten Process\|Zettelkasten Process]] ] my specific process as a series of flowcharts

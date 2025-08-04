@@ -3,7 +3,7 @@
 ---
 
 
-![[\1\|\1]]
+![[]]
 
 Isn't it kinda annoying that gamers can get lost in flow state for hours playing video games, but you try and read a book for 15 minutes and you can't do it? 
 

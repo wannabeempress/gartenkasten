@@ -5,15 +5,15 @@
 
 # Writers Are Made Through Writing And Reading 
 
-![[\1\|\1]]
+![[]]
 
 "Writing, after all, emerges from writing" said [**source**:: [[Thinking/Reference/Faery (2005) 21W.735 Writing And Reading The Essay\|Faery (2005)]]]. 
 
 Our growth as writers comes not only from the act of writing itself but from absorbing the words of others. We pick clever words of phrase, sound arguments, metaphors and more, like ripe fruits from the [[tree of knowledge\|tree of knowledge]].
 
-Therefore, [[\1\|\1]]. 
+Therefore, [[]]. 
 
-If we undertake this work diligently, then our writing will progress because [[\1\|\1]]. 
+If we undertake this work diligently, then our writing will progress because [[]]. 
 
 
 ## Drawing

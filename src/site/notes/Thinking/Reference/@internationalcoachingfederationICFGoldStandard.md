@@ -6,7 +6,7 @@
 # International Coaching Federation (ICF)
 
 >[!tldr]+ Summary
-> The International Coach Federation is the largest association for professional coaches. This body continually works on improving the [[\1\|\1]] profession by developing best practice and standards and enforcing ICF credentials. 
+> The International Coach Federation is the largest association for professional coaches. This body continually works on improving the [[]] profession by developing best practice and standards and enforcing ICF credentials. 
 >
 
 >[!note] Reference:: _ICF, the Gold Standard in Coaching | Read About ICF._ (n.d.). International Coaching Federation. Retrieved 18 March 2025, from [https://coachingfederation.org/about](https://coachingfederation.org/about)
@@ -21,7 +21,7 @@
 ### Related 
 - [**source**:: [[Thinking/Reference/@zaatMGT725StudyGuide\|@zaatMGT725StudyGuide]]] - introduced me to ICF 
 - [**child**:: [[Thinking/Reference/@internationalcoachingfederationICFCodeEthics\|@internationalcoachingfederationICFCodeEthics]]] - Code of Ethics 
-- [**child**:: [[\1\|\1]]] - Competency Framework (Related: [**missing**:: [[\1\|\1]]])
+- [**child**:: [[]\|]]] - Competency Framework (Related: [**missing**:: [[]\|]]])
 
 Other professional coaching bodies: 
 - [Association for Coaching](https://www.associationforcoaching.com/?)

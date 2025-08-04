@@ -8,5 +8,5 @@ e.g. 10:15 - I am about to work on x
 
 #zettel/need-analog 
 
-**contributes to**:: [[\1\|\1]]
+**contributes to**:: [[]]
 because the planning reinforces both event and clock time 

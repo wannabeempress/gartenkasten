@@ -3,11 +3,11 @@
 ---
 
 
-![[\1\|\1]]
+![[]]
 
 I am not a great writer, but still I write. Words can pour out of me like a high-pressure shower or barely trickle like a painful pimple you've been squeezing close to infection. 
 
-I think I write because [[\1\|\1]] or hear something and want to respond. "I recognise you," my heart says. And I write something. "I hear you," it sings. And more words come. 
+I think I write because [[]] or hear something and want to respond. "I recognise you," my heart says. And I write something. "I hear you," it sings. And more words come. 
 
 I see connections both obvious and those tangled by half-hidden knots. And when you see them, you need to write it down. Or tell someone. 
 
@@ -21,7 +21,7 @@ I'm a recovering perfectionist. A recovering people pleaser.
 
 I hope to share something of value. It doesn't need to be perfect. You can reject it. But if it gets you thinking (and me too), then maybe that's what makes it worthwhile.
 
-And in doing something badly, maybe I can learn to do it well. Learning is in the doing? [[\1\|\1]]
+And in doing something badly, maybe I can learn to do it well. Learning is in the doing? [[]]
 
 **Part of [[Identities/My Identities\|My Identities]]**
 

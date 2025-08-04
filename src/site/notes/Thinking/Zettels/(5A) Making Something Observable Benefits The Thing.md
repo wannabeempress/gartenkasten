@@ -3,7 +3,7 @@
 ---
 
 
-![[\1\|\1]]
+![[]]
 
 > "Making something observable benefits the thing." - Nicole van der Hoeven 
 
@@ -12,11 +12,14 @@ Turning [[tacit knowledge\|tacit knowledge]] into [[concrete knowledge\|concrete
 Personally I often find that I *believe* I've learned something (and perhaps I have); however, I later find myself having to relearn the same concept.
 
 Why do I end up needing to relearn the concept? 
-- due to the passage of time, I've forgotten - because there is no record of my understanding of the concept (eg notes that break down my understanding), and I can't quickly re-activate my understanding. 
+- due to the passage of time, I've forgotten 
+- because there is no record of my understanding of the concept (eg notes that break down my understanding)
+- I can't quickly re-activate my understanding. 
+- Now need to re-learn
 
 The same thing happens in organisations. [[(0) Structure/Knowledge Management\|Knowledge Management]] comes to the fore, particularly, when someone realises that vital information has gone missing. 
 
-But if you make something observable (which means, [[\1\|\1]]), then that consequently means, you gain the following benefits: 
+But if you make something observable (which means, [[]]), then that consequently means, you gain the following benefits: 
 - accountability
 - feedback
 - visibility
@@ -28,7 +31,7 @@ This thinking has applications in [[systems thinking\|systems thinking]], person
 In [[Thinking/Reference/@moran12weekYearGet2013\|@moran12weekYearGet2013]], the author adds that [[Monitoring And Measuring Builds Self-Esteem\|Monitoring And Measuring Builds Self-Esteem]] because progress is documented and made visible. 
 
 #### Related 
-[[\1\|\1]]
+[[]]
 
 
 

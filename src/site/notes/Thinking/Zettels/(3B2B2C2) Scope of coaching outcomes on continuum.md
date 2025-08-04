@@ -3,11 +3,11 @@
 ---
 
 [**source**:: [[Thinking/Reference/@Trevillion2018ExecutiveCoachingOutcomes\|@Trevillion2018ExecutiveCoachingOutcomes]]] identifies the scope of coaching outcomes along a continuum, where: 
-- Intrapersonal outcomes like agency, self-efficacy, and self-awareness show how [**supports**:: [[\1\|\1]]] through reflections on higher purpose, identity, beliefs and values
-- Interpersonal outcomes like assertiveness, increased self confidence and emotional and social literacy show how [**supports**:: [[\1\|\1]]] and behaviours
-- Instrumental outcomes like strategic approach, performance orientation, and prioritisation, which demonstrate an impact on business results, i.e. [**example**:: [[\1\|\1]]] which leads to how [**supports**:: [[\1\|\1]]]
+- Intrapersonal outcomes like agency, self-efficacy, and self-awareness show how [**supports**:: [[]\|]]] through reflections on higher purpose, identity, beliefs and values
+- Interpersonal outcomes like assertiveness, increased self confidence and emotional and social literacy show how [**supports**:: [[]\|]]] and behaviours
+- Instrumental outcomes like strategic approach, performance orientation, and prioritisation, which demonstrate an impact on business results, i.e. [**example**:: [[]\|]]] which leads to how [**supports**:: [[]\|]]]
 
-The scope is important because [**leads to**:: [[\1\|\1]]]. Therefore, a coach should help a coachee think about success along this continuum, so that [**Prev**:: [[\1\|\1]]]. 
+The scope is important because [**leads to**:: [[]\|]]]. Therefore, a coach should help a coachee think about success along this continuum, so that [**Prev**:: [[]\|]]]. 
 
 [**source**:: [[Thinking/Reference/@deHaan2015DifferencesCriticalMoments\|@deHaan2015DifferencesCriticalMoments]]] also talks about the scope of coaching outcomes, which they describe as 'critical moments' using Schein's onion model.
 
