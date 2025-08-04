@@ -7,7 +7,7 @@ Thinking about where an atomic thought fits on a metaphoric directional compass 
 
 **source**:: [[Thinking/Reference/@zhaoCompassZettelkastenThinking\|@zhaoCompassZettelkastenThinking]]
 
-**Prev**:: [[]]
+**Prev**:: [[Thinking/Zettels/(1A1) Writing Depends Upon Your Ability To Read\|(1A1) Writing Depends Upon Your Ability To Read]]
 
 **example**:: [[Resources/Defining Personal Ontology\|Defining Personal Ontology]]
 

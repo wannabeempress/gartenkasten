@@ -4,9 +4,9 @@
 
 Writers like Ahrens, Doto and Kadavy — who introduced Luhmann's zettelkasten to a new generation — describe a zettel as one note that expresses a singular, complete thought. 
 
-Extending this definition, I see each zettel as a micro-essay: a complete and structured thought, which defines an idea, connects it to others, and states its meaning and relevance to the reader. Each note is evidence of [**supports**:: [[]\|]]][^1]. 
+Extending this definition, I see each zettel as a micro-essay: a complete and structured thought, which defines an idea, connects it to others, and states its meaning and relevance to the reader. Each note is evidence of [**supports**:: [[Thinking/Zettels/(1) I am a writer\|how I think about thinking]]][^1]. 
 
-To [**supports**:: [[]\|]]], one must [**supports**:: [[]\|]]]. [**supports**:: [[]\|]]]. Thus, each new zettel to one's zettelkasten, [**supports**:: [[]\|]]].
+To [**supports**:: [[Thinking/Zettels/(1A2) Zettel creation is writing a micro-essay\|write the zettel]]], one must [**supports**:: [[Thinking/Zettels/(1C1) Read like a detective\|(1C1) Read like a detective]]]. [**supports**:: [[Thinking/Zettels/(4A1D) Zettel form realises its purpose\|The clues — each aspect of the zettel — must first be gathered then structured]]]. Thus, each new zettel to one's zettelkasten, [**supports**:: [[Thinking/Zettels/(1A) Writers are made through writing and reading\|further cements one's identity as writer]]].
 
 
 > [!tip] Prompt table for zettel-ing 
@@ -18,7 +18,7 @@ To [**supports**:: [[]\|]]], one must [**supports**:: [[]\|]]]. [**supports**:: 
 > |💡 Why does it matter?|Relevance|
 > |🪞 What does this say about how I think?|Meta-cognition|
 
-**Prev**:: [[]]
+**Prev**:: [[Thinking/Zettels/(1A) Writers are made through writing and reading\|(1A) Writers are made through writing and reading]]
 
 [^1] Reflection described to ChatGPT during [[writing deliberate practice\|writing deliberate practice]] on [[Dailies/2025-07-16\|2025-07-16]]
 

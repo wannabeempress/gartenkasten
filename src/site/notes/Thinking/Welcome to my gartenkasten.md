@@ -7,7 +7,7 @@
 
 ## Welcome to my gartenkasten 🌱🗃️
 
-I'm **Pat Oyson-Matthan**, and this digital space is where I bravely attempt to [[Learning In Public Allows You To Grow Faster\|learn in public]]: by sharing ideas and exploring what delights and challenges me.
+I'm **Pat Oyson-Matthan**, and this digital space is where I bravely attempt to [[Thinking/Zettels/(5) Learning In Public Allows You To Grow Faster\|learn in public]]: by sharing ideas and exploring what delights and challenges me.
 
 > Gartenkasten is my whimsical portmanteau of these two thinking and writing models! 
 > - '**digital garden**' (`garten`) — 'come-as-you-are' ever-growing interconnected ideas 
@@ -39,10 +39,10 @@ I'm **Pat Oyson-Matthan**, and this digital space is where I bravely attempt to 
 Much like a cottage garden, this space is messy, magical, and you never know what will pop up next. 
 
 If you're curious about **what even is this**, please start here: 
-- What is a [[Digital garden\|Digital garden]]?
+- What is a [[Thinking/Zettels/(1A1A1A3) Digital garden\|(1A1A1A3) Digital garden]]?
 - What is a [[Zettelkasten\|Zettelkasten]]?
-- [[My Thoughts Are A Cottage Garden\|My Thoughts Are A Cottage Garden]]
-- [[Note types in MY zettelkasten\|Note types in MY zettelkasten]]
+- [[Thinking/Zettels/(1A1A1B) My Thoughts Are A Cottage Garden\|(1A1A1B) My Thoughts Are A Cottage Garden]]
+- [[Thinking/Zettels/(1A41) Note types in MY zettelkasten\|(1A41) Note types in MY zettelkasten]]
 - [[How to navigate the gartenkasten\|How to navigate the gartenkasten]]
 
 **As a guest, you are welcome to explore this garden of thoughts.** 
@@ -81,12 +81,12 @@ I'm trying to weave the connections between ideas as deftly as I can. These conn
 
 Below are hotspots that make **interesting starting points** for exploring this gartenkasten. Some are short and atomic `zettel`-style, while others are longform evergreen essays. 
 
-- [[I am a writer\|I am a writer]]
-- [['Serious Play' Creates Great Work\|'Serious Play' Creates Great Work]]
-- [[Learning In Public Allows You To Grow Faster\|Learning In Public Allows You To Grow Faster]]
-- [[Life coaching  helps improve a coachee's life\|Life coaching  helps improve a coachee's life]]
+- [[Thinking/Zettels/(1) I am a writer\|(1) I am a writer]]
+- [[Thinking/Zettels/(1B) 'Serious Play' Creates Great Work\|(1B) 'Serious Play' Creates Great Work]]
+- [[Thinking/Zettels/(5) Learning In Public Allows You To Grow Faster\|(5) Learning In Public Allows You To Grow Faster]]
+- [[Thinking/Zettels/(3B6A1) Life coaching  helps improve a coachee's life\|(3B6A1) Life coaching  helps improve a coachee's life]]
 - [[Thinking/30 Ships, 30 Days\|30 Ships, 30 Days]]
-- [[My Daily Actions And Thoughts Cultivate My Garden Of Identity\|My Daily Actions And Thoughts Cultivate My Garden Of Identity]]
+- [[Thinking/Zettels/(1A1A1B1) My Daily Actions And Thoughts Cultivate My Garden Of Identity\|(1A1A1B1) My Daily Actions And Thoughts Cultivate My Garden Of Identity]]
 
 ---
 

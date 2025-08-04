@@ -20,7 +20,7 @@
 > **But what if we could shape them back?**  
 > Now I'm on a mission to experiment with and redesign the systems around us - so they can work _with us_ and _for us_, not against us. 
 
-As a [[Identities/Human Design 6-2\|Human Design 6-2]] [[Generator\|Generator]] [[Enneagram 7\|Enneagram 7]] [[ENFP\|ENFP]] [[Peacock\|Peacock]] person, I know I am a bright, loud and vivacious individual. I want to step into my ***favourite self***, if not my highest self. To do that, I must recognise how [[]] and how [[\|]] and how [[]] that lead me to [[Resources/My Vision for the Future - My Dream Life\|My Vision for the Future - My Dream Life]]. 
+As a [[Identities/Human Design 6-2\|Human Design 6-2]] [[Generator\|Generator]] [[Enneagram 7\|Enneagram 7]] [[ENFP\|ENFP]] [[Peacock\|Peacock]] person, I know I am a bright, loud and vivacious individual. I want to step into my ***favourite self***, if not my highest self. To do that, I must recognise how [[Thinking/Zettels/(1A1A1B) My Thoughts Are A Cottage Garden\|(1A1A1B) My Thoughts Are A Cottage Garden]] and how [[Thinking/Zettels/(1A1A1B1) My Daily Actions And Thoughts Cultivate My Garden Of Identity\|(1A1A1B1) My Daily Actions And Thoughts Cultivate My Garden Of Identity]] that lead me to [[Resources/My Vision for the Future - My Dream Life\|My Vision for the Future - My Dream Life]]. 
 { #61050b}
 
 
@@ -34,8 +34,8 @@ As a [[Identities/Human Design 6-2\|Human Design 6-2]] [[Generator\|Generator]] 
 
 ## Who am I? I am a/an
 
-- 💼 Professional: [[Student\|Student]], [[Identities/Business Woman/!Business Woman\|!Business Woman]], [[]]
-- 🧠 Intellectual: [[Identities/Brain/!Brain\|!Brain]], [[]], [[All Zettels\|Zettelkasten Practitioner]]
+- 💼 Professional: [[Student\|Student]], [[Identities/Business Woman/!Business Woman\|!Business Woman]], [[Thinking/Zettels/(1) I am a writer\|Writer]]
+- 🧠 Intellectual: [[Identities/Brain/!Brain\|!Brain]], [[Thinking/Zettels/(1C) I am a reader\|Reader]], [[(0) Structure/All Zettels\|Zettelkasten Practitioner]]
 - 💕 Relational: [[Identities/Wife/Wife\|Wife]], [[Identities/Daughter in Law\|Daughter in Law]], [[Identities/Socialiser\|Socialiser]]
 - 🧘‍♀️ Embodied: [[Identities/Pole Dancer/!Pole Dancer\|!Pole Dancer]], [[Identities/Gardener\|Gardener]], [[Identities/Nail Tech\|Nail Tech]], [[Body\|Body]]
 - 🐾 Playful: [[Identities/Animal Lover/!Animal Lover\|!Animal Lover]], [[Identities/Home Maker/!Home Maker\|!Home Maker]], [[Identities/Money Maker/!Money Conscious\|!Money Conscious]]
