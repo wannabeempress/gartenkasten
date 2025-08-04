@@ -52,7 +52,7 @@ The bird circles overhead; I long to weave its cast-off feathers in the tapestry
 
 > Note: This was written in response to a writing exercise given in [[Thinking/Reference/@boltonInspirationalWritingAcademic2014\|@boltonInspirationalWritingAcademic2014]]. Then I fed it to ChatGPT and asked it to critique me. I then edited it myself. I'm using ChatGPT as a writing coach, in an attempt to do deliberate practice. 
 
-**supports**:: [[Thinking/Zettels/(1) I am a writer\|(1) I am a writer]]
+**supports**:: [[\1\|\1]]
 **leads to**:: [[Efforts/Patterns, Pathways, and Power-Bibliometric analysis of the citation practices shaping the field of professional coaching (1970-2020)\|Patterns, Pathways, and Power-Bibliometric analysis of the citation practices shaping the field of professional coaching (1970-2020)]]
 
 **Reference** 

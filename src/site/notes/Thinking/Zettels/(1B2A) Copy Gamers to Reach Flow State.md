@@ -3,21 +3,7 @@
 ---
 
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-
-see: that book about game design on Kindle 
-
-Gaming hastens flow state because it creates optimal flow conditions: namely, intrinsic reward (fun), just right challenge (optimal and scales according to ability), immediate feedback, sense of control, etc. 
-
-related: 
-[[Thinking/Zettels/(1B) 'Serious Play' Creates Great Work\|(1B) 'Serious Play' Creates Great Work]]
-
-</div></div>
-
+![[\1\|\1]]
 
 Isn't it kinda annoying that gamers can get lost in flow state for hours playing video games, but you try and read a book for 15 minutes and you can't do it? 
 

@@ -2,7 +2,7 @@
 {"created":"2025-08-04T11:03","updated":"2025-08-04T11:07","dg-publish":true,"permalink":"/3-b6-a2-life-coaching-clients-seek-fit-over-experience/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
-[**Prev**:: [[${2}\|${2}]]] clients seek fit over experience ([**source**:: [[Thinking/Reference/@ZaatMGT627LifeCareer\|@ZaatMGT627LifeCareer]]], p.6). 
+[**Prev**:: [[\1\|\1]]] clients seek fit over experience ([**source**:: [[Thinking/Reference/@ZaatMGT627LifeCareer\|@ZaatMGT627LifeCareer]]], p.6). 
 
 %%
 

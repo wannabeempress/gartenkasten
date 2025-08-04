@@ -4,9 +4,9 @@
 
 Writers like Ahrens, Doto and Kadavy — who introduced Luhmann's zettelkasten to a new generation — describe a zettel as one note that expresses a singular, complete thought. 
 
-Extending this definition, I see each zettel as a micro-essay: a complete and structured thought, which defines an idea, connects it to others, and states its meaning and relevance to the reader. Each note is evidence of [**supports**:: [[Thinking/Zettels/(1) I am a writer\|how I think about thinking]]][^1]. 
+Extending this definition, I see each zettel as a micro-essay: a complete and structured thought, which defines an idea, connects it to others, and states its meaning and relevance to the reader. Each note is evidence of [**supports**:: [[\1\|\1]]][^1]. 
 
-To [**supports**:: [[Thinking/Zettels/(1A2) Zettel creation is writing a micro-essay\|write the zettel]]], one must [**supports**:: [[Thinking/Zettels/(1C1) Read like a detective\|(1C1) Read like a detective]]]. [**supports**:: [[${2}\|${2}]]]. Thus, each new zettel to one's zettelkasten, [**supports**:: [[Thinking/Zettels/(1A) Writers Are Made Through Writing And Reading\|further cements one's identity as writer]]].
+To [**supports**:: [[\1\|\1]]], one must [**supports**:: [[\1\|\1]]]. [**supports**:: [[\1\|\1]]]. Thus, each new zettel to one's zettelkasten, [**supports**:: [[\1\|\1]]].
 
 
 > [!tip] Prompt table for zettel-ing 
@@ -18,7 +18,7 @@ To [**supports**:: [[Thinking/Zettels/(1A2) Zettel creation is writing a micro-e
 > |💡 Why does it matter?|Relevance|
 > |🪞 What does this say about how I think?|Meta-cognition|
 
-**Prev**:: [[Thinking/Zettels/(1A) Writers Are Made Through Writing And Reading\|(1A) Writers Are Made Through Writing And Reading]]
+**Prev**:: [[\1\|\1]]
 
 [^1] Reflection described to ChatGPT during [[writing deliberate practice\|writing deliberate practice]] on [[Dailies/2025-07-16\|2025-07-16]]
 
@@ -31,6 +31,8 @@ To [**supports**:: [[Thinking/Zettels/(1A2) Zettel creation is writing a micro-e
 > - [[Thinking/Zettels/(1A1A1A) Personal Knowledge Management\|(1A1A1A) Personal Knowledge Management]]
 > - [[Thinking/Zettels/(1A1A1A1) Ontology In Information Science\|(1A1A1A1) Ontology In Information Science]]
 > - [[Thinking/Zettels/(1A1A1A2) Write it down to remember\|(1A1A1A2) Write it down to remember]]
+> - [[Thinking/Zettels/(1A1A1A3) Digital garden\|(1A1A1A3) Digital garden]]
+> - [[Thinking/Zettels/(1A1A1A3A) Digital gardens are not blogs\|(1A1A1A3A) Digital gardens are not blogs]]
 > - [[Thinking/Zettels/(1A1A1B) My Thoughts Are A Cottage Garden\|(1A1A1B) My Thoughts Are A Cottage Garden]]
 > - [[Thinking/Zettels/(1A1A1B1) My Daily Actions And Thoughts Cultivate My Garden Of Identity\|(1A1A1B1) My Daily Actions And Thoughts Cultivate My Garden Of Identity]]
 > - [[Thinking/Zettels/(1A1A1B1A) Interstitial Journalling Can Be Used To Proactively Plan For Upcoming Activities\|(1A1A1B1A) Interstitial Journalling Can Be Used To Proactively Plan For Upcoming Activities]]

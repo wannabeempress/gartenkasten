@@ -1,5 +1,5 @@
 ---
-{"created":"2025-05-30T14:25","updated":"2025-08-03T18:14","dg-home":true,"dg-publish":true,"noteIcon":"signpost","aliases":["Gartenkasten"],"dg-path":"Welcome to my gartenkasten.md","permalink":"/welcome-to-my-gartenkasten/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"created":"2025-05-30T14:25","updated":"2025-08-04T13:36","dg-home":true,"dg-publish":true,"noteIcon":"signpost","aliases":["Gartenkasten"],"dg-path":"Welcome to my gartenkasten.md","permalink":"/welcome-to-my-gartenkasten/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 # Kia ora, e hoa! 
@@ -7,7 +7,7 @@
 
 ## Welcome to my gartenkasten 🌱🗃️
 
-I'm **Pat Oyson-Matthan**, and this digital space is where I put on a brave face to learn in public: by sharing ideas and exploring what delights and challenges me.
+I'm **Pat Oyson-Matthan**, and this digital space is where I bravely attempt to [[\1\|\1]]: by sharing ideas and exploring what delights and challenges me.
 
 > Gartenkasten is my whimsical portmanteau of these two thinking and writing models! 
 > - '**digital garden**' (`garten`) — 'come-as-you-are' ever-growing interconnected ideas 
@@ -39,10 +39,10 @@ I'm **Pat Oyson-Matthan**, and this digital space is where I put on a brave face
 Much like a cottage garden, this space is messy, magical, and you never know what will pop up next. 
 
 If you're curious about **what even is this**, please start here: 
-- What is a [[Digital garden\|Digital garden]]?
+- What is a [[\1\|\1]]?
 - What is a [[Zettelkasten\|Zettelkasten]]?
-- [[Thinking/Zettels/(1A1A1B) My Thoughts Are A Cottage Garden\|(1A1A1B) My Thoughts Are A Cottage Garden]]
-- [[${2}\|${2}]]
+- [[\1\|\1]]
+- [[\1\|\1]]
 - [[How to navigate the gartenkasten\|How to navigate the gartenkasten]]
 
 **As a guest, you are welcome to explore this garden of thoughts.** 
@@ -55,6 +55,9 @@ If any of my thoughts inspire you, then much like a physical garden, you can tak
 ### Recent additions — recently modified pages
 
 This place is always changing; the list below highlights the 15 freshest ideas aka pages I most recently modified.
+- [[Thinking/Zettels/(1A1A1A3) Digital garden\|(1A1A1A3) Digital garden]]: 1:53 PM - August 04, 2025
+- [[Thinking/Zettels/(1A1A1A3A) Digital gardens are not blogs\|(1A1A1A3A) Digital gardens are not blogs]]: 1:53 PM - August 04, 2025
+- [[Thinking/Welcome to my gartenkasten\|Welcome to my gartenkasten]]: 1:43 PM - August 04, 2025
 - [[Thinking/Zettels/(3B7) Multiple Paths Led To Modern Coaching\|(3B7) Multiple Paths Led To Modern Coaching]]: 1:27 PM - August 04, 2025
 - [[Thinking/Reference/@ZaatMGT627LifeCareer\|@ZaatMGT627LifeCareer]]: 12:12 PM - August 04, 2025
 - [[Thinking/Reference/@Echols2018WhyBecomeICF\|@Echols2018WhyBecomeICF]]: 12:12 PM - August 04, 2025
@@ -65,11 +68,8 @@ This place is always changing; the list below highlights the 15 freshest ideas a
 - [[Thinking/Reference/@internationalcoachingfederationUpdatedICFCore2019\|@internationalcoachingfederationUpdatedICFCore2019]]: 11:55 AM - August 04, 2025
 - [[Thinking/Reference/@internationalcoachingfederationICFGoldStandard\|@internationalcoachingfederationICFGoldStandard]]: 11:55 AM - August 04, 2025
 - [[Thinking/Why I Chose This Path\|Why I Chose This Path]]: 11:01 AM - August 04, 2025
-- [[Thinking/Welcome to my gartenkasten\|Welcome to my gartenkasten]]: 6:27 PM - August 03, 2025
 - [[Thinking/Zettels/(3B2B2C2) Scope of coaching outcomes on continuum\|(3B2B2C2) Scope of coaching outcomes on continuum]]: 2:49 PM - August 03, 2025
 - [[Thinking/Keep Kiwi Happy micro-game\|Keep Kiwi Happy micro-game]]: 2:45 PM - August 03, 2025
-- [[Thinking/Sense-sational Spellbook\|Sense-sational Spellbook]]: 2:03 PM - August 03, 2025
-- [[Thinking/Zettels/(1A1A1B1) My Daily Actions And Thoughts Cultivate My Garden Of Identity\|(1A1A1B1) My Daily Actions And Thoughts Cultivate My Garden Of Identity]]: 1:50 PM - August 03, 2025
 
 { .block-language-dataview}
 
@@ -81,12 +81,12 @@ I'm trying to weave the connections between ideas as deftly as I can. These conn
 
 Below are hotspots that make interesting starting points for exploring this gartenkasten. Some are short and atomic `zettel`-style, while others are longform evergreen essays. 
 
-- [[Thinking/Zettels/(1) I am a writer\|(1) I am a writer]]
-- [[Thinking/Zettels/(1B) 'Serious Play' Creates Great Work\|(1B) 'Serious Play' Creates Great Work]]
-- [[Thinking/Zettels/(5) Learning In Public Allows You To Grow Faster\|(5) Learning In Public Allows You To Grow Faster]]
-- [[${2}\|${2}]]
+- [[\1\|\1]]
+- [[\1\|\1]]
+- [[\1\|\1]]
+- [[\1\|\1]]
 - [[Thinking/30 Ships, 30 Days\|30 Ships, 30 Days]]
-- [[Thinking/Zettels/(1A1A1B1) My Daily Actions And Thoughts Cultivate My Garden Of Identity\|(1A1A1B1) My Daily Actions And Thoughts Cultivate My Garden Of Identity]]
+- [[\1\|\1]]
 
 ---
 

@@ -44,7 +44,7 @@
 	- if lucky: recent survey paper or meta-analysis
 
 ### Distilled Thoughts 
-[[Thinking/Zettels/(1C1) Read like a detective\|(1C1) Read like a detective]]
+[[\1\|\1]]
 
 
 ## Quotes 
@@ -54,8 +54,8 @@
 
 ## Reaction 
 > [!tip] Reaction 
-> I thought this was a helpful way to approach reading academic articles. I really like that it had a common-sense approach and also highlighted other papers to improve ones ability to review or write. Again, relating to [**supports**:: [[Thinking/Zettels/(1A) Writers Are Made Through Writing And Reading\|(1A) Writers Are Made Through Writing And Reading]]]. 
-> Very applicable to the [**example**:: [[Thinking/Zettels/(1A1D1A) Flow of zettelkasten\|(1A1D1A) Flow of zettelkasten]]], especially with respect to pass 2 and 3. 
+> I thought this was a helpful way to approach reading academic articles. I really like that it had a common-sense approach and also highlighted other papers to improve ones ability to review or write. Again, relating to [**supports**:: [[\1\|\1]]]. 
+> Very applicable to the [**example**:: [[\1\|\1]]], especially with respect to pass 2 and 3. 
 
 ## Connections  
 

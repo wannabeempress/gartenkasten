@@ -8,8 +8,8 @@ People who orient themselves to clock time rely on an external clock (or their i
 
 Meanwhile, people who operate on event time consider the passage of time in relation to activities or events. "after breakfast" "before the next start-up meeting" "when the sun sets". 
 
-It can be helpful to consider which type of time you naturally gravitate to, but both have their place. My personal opinion is that [[ADHD Brains Run On Event Time\|ADHD Brains Run On Event Time]] - it is known that time blindness affects them, which can result in chronic lateness or in the case of anxious preparedness extreme punctuality (too early). Maybe if one can contextualise clock time using event time, it will be easier on ADHD brains? e.g. [[Thinking/Zettels/(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time\|(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time]]
+It can be helpful to consider which type of time you naturally gravitate to, but both have their place. My personal opinion is that [[ADHD Brains Run On Event Time\|ADHD Brains Run On Event Time]] - it is known that time blindness affects them, which can result in chronic lateness or in the case of anxious preparedness extreme punctuality (too early). Maybe if one can contextualise clock time using event time, it will be easier on ADHD brains? e.g. [[\1\|\1]]
 
 #zettel/need-analog 
 
-**Prev**:: [[Thinking/Zettels/(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time\|(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time]]
+**Prev**:: [[\1\|\1]]

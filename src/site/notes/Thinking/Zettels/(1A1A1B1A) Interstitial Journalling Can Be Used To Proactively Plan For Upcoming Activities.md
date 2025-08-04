@@ -8,5 +8,5 @@ e.g. 10:15 - I am about to work on x
 
 #zettel/need-analog 
 
-**contributes to**:: [[Thinking/Zettels/(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time\|(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time]]
+**contributes to**:: [[\1\|\1]]
 because the planning reinforces both event and clock time 
