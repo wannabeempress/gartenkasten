@@ -55,8 +55,8 @@ If any of my thoughts inspire you, then much like a physical garden, you can tak
 ### Recent additions — recently modified pages
 
 This place is always changing; the list below highlights the **15 freshest ideas** aka pages I most recently modified. 🍃
+- [[Thinking/Zettels/(5A1A1) POSSE\|(5A1A1) POSSE]]: 6:05 PM - August 08, 2025
 - [[Thinking/Welcome to my gartenkasten\|Welcome to my gartenkasten]]: 6:00 PM - August 08, 2025
-- [[Thinking/Zettels/(5A1A1) POSSE\|(5A1A1) POSSE]]: 5:57 PM - August 08, 2025
 - [[Thinking/Zettels/(5A2B) Implementation Intentions\|(5A2B) Implementation Intentions]]: 5:54 PM - August 08, 2025
 - [[Thinking/Zettels/(3B2B2A1C2A3A1E)WOOP Method\|(3B2B2A1C2A3A1E)WOOP Method]]: 5:54 PM - August 08, 2025
 - [[Thinking/Zettels/(5A1A) Record To Make Findable\|(5A1A) Record To Make Findable]]: 5:53 PM - August 08, 2025

@@ -13,8 +13,61 @@ One benefit of this is you'll [**Prev**:: [[Thinking/Zettels/(5A1A) Record To Ma
 
 This flips the typical practice: you post on social media then... that's it. 
 
-[**source**:: [POSSE - IndieWeb](https://indieweb.org/POSSE)]
+- [**source**:: [POSSE - IndieWeb](https://indieweb.org/POSSE)]
+- [**example**:: [[Thinking/Who I am - an activity in Inspirational Writing for Academic Publication\|Who I am - an activity in Inspirational Writing for Academic Publication]]]
 
+%%
+
+> [!note]- Folgezettel
+>  - [[Thinking/Zettels/(5A1A) Record To Make Findable\|(5A1A) Record To Make Findable]]
+> - [[Thinking/Zettels/(5A1A1) POSSE\|(5A1A1) POSSE]]
+> 
+{ .block-language-dataview}
+> 
+
+# Excalidraw Data
+
+## Text Elements
+Your site
+{ #g6s673CC}
+
+
+Idea generated
+{ #0pxJT7uj}
+
+
+Post created + uploaded 
+to your website
+{ #qD0Z4IdE}
+
+
+Instagram
+{ #XCtshMlw}
+
+
+Facebook
+{ #DsdxXrlD}
+
+
+Bluesky
+{ #TyXLAiXl}
+
+
+Tumblr
+{ #mIN4lQab}
+
+
+Reddit
+{ #t96Ms8uK}
+
+
+Post duplicated 
+on other platforms
+{ #EArgEfbL}
+
+
+## Embedded Files
+149c3123de801f170ced61b140314a32780937ec: [[Resources/icons/icon me self Pat\|icon me self Pat]]
 
 ## Drawing
 ```compressed-json
@@ -152,5 +205,6 @@ Mhm3QAYQTIAqAj4BEFWAGAQgAQAKAUCGz92FRoT/EwAjuXQga5GcH0BpQWA249OXSAEQD3EVtRQDoAht
 
 ksD2AhAFEDL4TgFVslZNBFjASKddRfkyKJoNMgQPbACWB/HTMDIogA4NzyRkEPBGActguwDaBWeZgElAyKOAFqD6gi4OCAzFSoDUZCARgHIhjubiTiCmOMIGCBQQxsBfgkGFBHUCWEUQzMVoOAwElB0geELvgT3CL26BQQ8EMhCJ0d/xA0qEC5HTAVOPMCAA
 ```
-%%
+
+
 
