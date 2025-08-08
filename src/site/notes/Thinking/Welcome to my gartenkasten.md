@@ -55,7 +55,11 @@ If any of my thoughts inspire you, then much like a physical garden, you can tak
 ### Recent additions — recently modified pages
 
 This place is always changing; the list below highlights the **15 freshest ideas** aka pages I most recently modified. 🍃
-- [[Thinking/Zettels/(3B7E4) Coaching contextual knowledge\|(3B7E4) Coaching contextual knowledge]]: 5:35 PM - August 08, 2025
+- [[Thinking/Zettels/(5A1A1) POSSE\|(5A1A1) POSSE]]: 5:57 PM - August 08, 2025
+- [[Thinking/Zettels/(5A2B) Implementation Intentions\|(5A2B) Implementation Intentions]]: 5:54 PM - August 08, 2025
+- [[Thinking/Zettels/(3B2B2A1C2A3A1E)WOOP Method\|(3B2B2A1C2A3A1E)WOOP Method]]: 5:54 PM - August 08, 2025
+- [[Thinking/Zettels/(5A1A) Record To Make Findable\|(5A1A) Record To Make Findable]]: 5:53 PM - August 08, 2025
+- [[Thinking/Zettels/(3B7E4) Coaching contextual knowledge\|(3B7E4) Coaching contextual knowledge]]: 5:36 PM - August 08, 2025
 - [[Thinking/Zettels/(3B7E) Coaching knowledge originates from either science or practice\|(3B7E) Coaching knowledge originates from either science or practice]]: 5:35 PM - August 08, 2025
 - [[Thinking/Reference/@drakeEvidenceVerbRelational2009\|@drakeEvidenceVerbRelational2009]]: 5:35 PM - August 08, 2025
 - [[Thinking/Who I am - an activity in Inspirational Writing for Academic Publication\|Who I am - an activity in Inspirational Writing for Academic Publication]]: 5:32 PM - August 08, 2025
@@ -66,10 +70,6 @@ This place is always changing; the list below highlights the **15 freshest ideas
 - [[Thinking/Zettels/(1B) 'Serious Play' Creates Great Work\|(1B) 'Serious Play' Creates Great Work]]: 2:18 PM - August 04, 2025
 - [[Thinking/Zettels/(1A1) Writing Depends Upon Your Ability To Read\|(1A1) Writing Depends Upon Your Ability To Read]]: 2:18 PM - August 04, 2025
 - [[Thinking/Zettels/(3A1) Effectiveness Is Created When Long Term Vision Is Translated Into Daily Action\|(3A1) Effectiveness Is Created When Long Term Vision Is Translated Into Daily Action]]: 2:00 PM - August 04, 2025
-- [[Thinking/Zettels/(2A2A2) Be A Great Love Map Cartographer\|(2A2A2) Be A Great Love Map Cartographer]]: 2:00 PM - August 04, 2025
-- [[Thinking/Zettels/(1A4) Zettel as micro-essay\|(1A4) Zettel as micro-essay]]: 2:00 PM - August 04, 2025
-- [[Thinking/Zettels/(1A3) We act out our identity\|(1A3) We act out our identity]]: 2:00 PM - August 04, 2025
-- [[Thinking/Zettels/(1A2) Zettel creation is writing a micro-essay\|(1A2) Zettel creation is writing a micro-essay]]: 2:00 PM - August 04, 2025
 
 { .block-language-dataview}
 
