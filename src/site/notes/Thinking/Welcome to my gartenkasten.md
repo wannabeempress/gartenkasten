@@ -55,6 +55,12 @@ If any of my thoughts inspire you, then much like a physical garden, you can tak
 ### Recent additions — recently modified pages
 
 This place is always changing; the list below highlights the **15 freshest ideas** aka pages I most recently modified. 🍃
+- [[Thinking/Zettels/(3B7E4) Coaching contextual knowledge\|(3B7E4) Coaching contextual knowledge]]: 5:35 PM - August 08, 2025
+- [[Thinking/Zettels/(3B7E) Coaching knowledge originates from either science or practice\|(3B7E) Coaching knowledge originates from either science or practice]]: 5:35 PM - August 08, 2025
+- [[Thinking/Reference/@drakeEvidenceVerbRelational2009\|@drakeEvidenceVerbRelational2009]]: 5:35 PM - August 08, 2025
+- [[Thinking/Who I am - an activity in Inspirational Writing for Academic Publication\|Who I am - an activity in Inspirational Writing for Academic Publication]]: 5:32 PM - August 08, 2025
+- [[Thinking/Reference/@ZaatMGT627LifeCareer\|@ZaatMGT627LifeCareer]]: 2:11 PM - August 06, 2025
+- [[Thinking/Zettels/(3B1A1) Coaching Benefits The Client\|(3B1A1) Coaching Benefits The Client]]: 2:11 PM - August 06, 2025
 - [[Thinking/Welcome to my gartenkasten\|Welcome to my gartenkasten]]: 2:26 PM - August 04, 2025
 - [[Thinking/Zettels/(5A) Making Something Observable Benefits The Thing\|(5A) Making Something Observable Benefits The Thing]]: 2:19 PM - August 04, 2025
 - [[Thinking/Zettels/(1B) 'Serious Play' Creates Great Work\|(1B) 'Serious Play' Creates Great Work]]: 2:18 PM - August 04, 2025
@@ -64,12 +70,6 @@ This place is always changing; the list below highlights the **15 freshest ideas
 - [[Thinking/Zettels/(1A4) Zettel as micro-essay\|(1A4) Zettel as micro-essay]]: 2:00 PM - August 04, 2025
 - [[Thinking/Zettels/(1A3) We act out our identity\|(1A3) We act out our identity]]: 2:00 PM - August 04, 2025
 - [[Thinking/Zettels/(1A2) Zettel creation is writing a micro-essay\|(1A2) Zettel creation is writing a micro-essay]]: 2:00 PM - August 04, 2025
-- [[Thinking/Zettels/(1A1E) Academic writing is conversation\|(1A1E) Academic writing is conversation]]: 2:00 PM - August 04, 2025
-- [[Thinking/Zettels/(1A1D1) The act of zettelkasten is associative in thinking\|(1A1D1) The act of zettelkasten is associative in thinking]]: 2:00 PM - August 04, 2025
-- [[Thinking/Zettels/(1A) Writers are made through writing and reading\|(1A) Writers are made through writing and reading]]: 2:00 PM - August 04, 2025
-- [[Thinking/Reference/Faery (2005) 21W.735 Writing And Reading The Essay\|Faery (2005) 21W.735 Writing And Reading The Essay]]: 2:00 PM - August 04, 2025
-- [[Thinking/Reference/@Keshav2007HowReadPaper\|@Keshav2007HowReadPaper]]: 2:00 PM - August 04, 2025
-- [[Thinking/Zettels/(1A1A1A3) Digital garden\|(1A1A1A3) Digital garden]]: 1:53 PM - August 04, 2025
 
 { .block-language-dataview}
 
