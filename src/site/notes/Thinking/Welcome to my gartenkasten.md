@@ -1,5 +1,5 @@
 ---
-{"created":"2025-05-30T14:25","updated":"2025-08-04T14:26","dg-home":true,"dg-publish":true,"noteIcon":"signpost","aliases":["Gartenkasten"],"dg-path":"Welcome to my gartenkasten.md","permalink":"/welcome-to-my-gartenkasten/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"created":"2025-05-30T14:25","updated":"2025-08-15T10:30","dg-home":true,"dg-publish":true,"noteIcon":"signpost","aliases":["Gartenkasten"],"dg-path":"Welcome to my gartenkasten.md","permalink":"/welcome-to-my-gartenkasten/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 # Kia ora, e hoa! 
@@ -7,11 +7,11 @@
 
 ## Welcome to my gartenkasten 🌱🗃️
 
-I'm **[Pat Oyson-Matthan](https://patsitive.co.nz)**, and this digital space is where I bravely attempt to [[Thinking/Zettels/(5) Learning In Public Allows You To Grow Faster\|learn in public]]: by sharing ideas and exploring what delights and challenges me.
+<p class="vcard">I'm <a class="fn url" href="https://patsitive.co.nz">Pat Oyson-Matthan</a>, a <span class="title">student and life coach</span> living in <span class="adr"><span class="region">Waikato</span>, <span class="country-name">New Zealand</span></span>, and this digital 'garden-box' is where I shake off my fear and learn in public: by sharing ideas and exploring what delights and challenges me.</p>
 
 > Gartenkasten is my whimsical portmanteau of these two thinking and writing models! 
-> - '**digital garden**' (`garten`) — 'come-as-you-are' ever-growing interconnected ideas 
-> - '`zettelkasten`' (**slip/note box**) — modular, atomic, branched and interconnected ideas 
+> - '**digital garden**' (`garten`) — where ideas are expected to evolve and interconnect 
+> - '`zettelkasten`' (**slip/note box**) — where ideas are atomic and branch off each other 
 
 (Notice how the term is German—and I _don't_ speak it—so I've skipped the 'digital' part 😅 German, I love you for your elegant modularity)
 
@@ -55,14 +55,14 @@ If any of my thoughts inspire you, then much like a physical garden, you can tak
 ### Recent additions — recently modified pages
 
 This place is always changing; the list below highlights the **15 freshest ideas** aka pages I most recently modified. 🍃
+- [[Thinking/Welcome to my gartenkasten\|Welcome to my gartenkasten]]: 12:05 PM - August 15, 2025
 - [[Thinking/Zettels/(5A1A1) POSSE\|(5A1A1) POSSE]]: 6:07 PM - August 08, 2025
-- [[Thinking/Welcome to my gartenkasten\|Welcome to my gartenkasten]]: 6:00 PM - August 08, 2025
 - [[Thinking/Zettels/(5A2B) Implementation Intentions\|(5A2B) Implementation Intentions]]: 5:54 PM - August 08, 2025
 - [[Thinking/Zettels/(3B2B2A1C2A3A1E)WOOP Method\|(3B2B2A1C2A3A1E)WOOP Method]]: 5:54 PM - August 08, 2025
 - [[Thinking/Zettels/(5A1A) Record To Make Findable\|(5A1A) Record To Make Findable]]: 5:53 PM - August 08, 2025
 - [[Thinking/Zettels/(3B7E4) Coaching contextual knowledge\|(3B7E4) Coaching contextual knowledge]]: 5:36 PM - August 08, 2025
-- [[Thinking/Zettels/(3B7E) Coaching knowledge originates from either science or practice\|(3B7E) Coaching knowledge originates from either science or practice]]: 5:35 PM - August 08, 2025
 - [[Thinking/Reference/@drakeEvidenceVerbRelational2009\|@drakeEvidenceVerbRelational2009]]: 5:35 PM - August 08, 2025
+- [[Thinking/Zettels/(3B7E) Coaching knowledge originates from either science or practice\|(3B7E) Coaching knowledge originates from either science or practice]]: 5:35 PM - August 08, 2025
 - [[Thinking/Who I am - an activity in Inspirational Writing for Academic Publication\|Who I am - an activity in Inspirational Writing for Academic Publication]]: 5:32 PM - August 08, 2025
 - [[Thinking/Reference/@ZaatMGT627LifeCareer\|@ZaatMGT627LifeCareer]]: 2:11 PM - August 06, 2025
 - [[Thinking/Zettels/(3B1A1) Coaching Benefits The Client\|(3B1A1) Coaching Benefits The Client]]: 2:11 PM - August 06, 2025
