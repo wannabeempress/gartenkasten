@@ -1,5 +1,5 @@
 ---
-{"created":"2025-05-30T14:25","updated":"2025-08-15T10:30","dg-home":true,"dg-publish":true,"noteIcon":"signpost","aliases":["Gartenkasten"],"dg-path":"Welcome to my gartenkasten.md","permalink":"/welcome-to-my-gartenkasten/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"created":"2025-05-30T14:25","updated":"2025-08-15T12:35","dg-home":true,"dg-publish":true,"noteIcon":"signpost","aliases":["Gartenkasten"],"dg-path":"Welcome to my gartenkasten.md","permalink":"/welcome-to-my-gartenkasten/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 # Kia ora, e hoa! 
@@ -31,7 +31,7 @@ Much like a cottage garden, this space is messy, magical, and you never know wha
 
 If you're curious about **what even is this**, please start here: 
 - What is a [[Thinking/Zettels/(1A1A1A3) Digital garden\|(1A1A1A3) Digital garden]]?
-- What is a [[Zettelkasten\|Zettelkasten]]?
+- What is a [[Thinking/Zettels/(4A1D1) Zettelkasten\|(4A1D1) Zettelkasten]]?
 - [[Thinking/Zettels/(1A1A1B) My Thoughts Are A Cottage Garden\|(1A1A1B) My Thoughts Are A Cottage Garden]]
 - [[Thinking/Zettels/(1A41) Note types in MY zettelkasten\|(1A41) Note types in MY zettelkasten]]
 - [[How to navigate the gartenkasten\|How to navigate the gartenkasten]]
@@ -55,7 +55,8 @@ If any of my thoughts inspire you, then much like a physical garden, you can tak
 ### Recent additions — recently modified pages
 
 This place is always changing; the list below highlights the **15 freshest ideas** aka pages I most recently modified. 🍃
-- [[Thinking/Welcome to my gartenkasten\|Welcome to my gartenkasten]]: 12:05 PM - August 15, 2025
+- [[Thinking/Zettels/(4A1D1) Zettelkasten\|(4A1D1) Zettelkasten]]: 12:40 PM - August 15, 2025
+- [[Thinking/Welcome to my gartenkasten\|Welcome to my gartenkasten]]: 12:35 PM - August 15, 2025
 - [[Thinking/Zettels/(5A1A1) POSSE\|(5A1A1) POSSE]]: 6:07 PM - August 08, 2025
 - [[Thinking/Zettels/(5A2B) Implementation Intentions\|(5A2B) Implementation Intentions]]: 5:54 PM - August 08, 2025
 - [[Thinking/Zettels/(3B2B2A1C2A3A1E)WOOP Method\|(3B2B2A1C2A3A1E)WOOP Method]]: 5:54 PM - August 08, 2025
@@ -69,7 +70,6 @@ This place is always changing; the list below highlights the **15 freshest ideas
 - [[Thinking/Zettels/(5A) Making Something Observable Benefits The Thing\|(5A) Making Something Observable Benefits The Thing]]: 2:19 PM - August 04, 2025
 - [[Thinking/Zettels/(1B) 'Serious Play' Creates Great Work\|(1B) 'Serious Play' Creates Great Work]]: 2:18 PM - August 04, 2025
 - [[Thinking/Zettels/(1A1) Writing Depends Upon Your Ability To Read\|(1A1) Writing Depends Upon Your Ability To Read]]: 2:18 PM - August 04, 2025
-- [[Thinking/Zettels/(3A1) Effectiveness Is Created When Long Term Vision Is Translated Into Daily Action\|(3A1) Effectiveness Is Created When Long Term Vision Is Translated Into Daily Action]]: 2:00 PM - August 04, 2025
 
 { .block-language-dataview}
 
