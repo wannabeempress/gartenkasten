@@ -10,6 +10,18 @@ body {
     //  h1 {
     //   color: black;
     //  }
+
+    a[href^="http"]:not([href*="garden.patsitive.co.nz"]) {
+  color: #FF270061;
+  text-decoration-style: dashed;
+  position: relative;
+}
+
+    a[href^="http"]:not([href*="garden.patsitive.co.nz"])::after {
+  content: "↗";
+  margin-left: 0.25em;
+  font-size: 0.8em;
+    }
 }
 
   #forest-graph {
