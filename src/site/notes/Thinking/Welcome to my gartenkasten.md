@@ -55,7 +55,7 @@ If any of my thoughts inspire you, then much like a physical garden, you can tak
 ### Recent additions — recently modified pages
 
 This place is always changing; the list below highlights the **15 freshest ideas** aka pages I most recently modified. 🍃
-- [[Thinking/Zettels/(2A1B1) Prefer daytime flights and avoid red-eye\|(2A1B1) Prefer daytime flights and avoid red-eye]]: 3:18 PM - August 20, 2025
+- [[Thinking/Zettels/(2A1B5) Prefer daytime flights and avoid red-eye\|(2A1B5) Prefer daytime flights and avoid red-eye]]: 3:18 PM - August 20, 2025
 - [[Thinking/Zettels/(4A1D1) Zettelkasten\|(4A1D1) Zettelkasten]]: 12:40 PM - August 15, 2025
 - [[Thinking/Welcome to my gartenkasten\|Welcome to my gartenkasten]]: 12:35 PM - August 15, 2025
 - [[Thinking/Zettels/(5A1A1) POSSE\|(5A1A1) POSSE]]: 6:07 PM - August 08, 2025
