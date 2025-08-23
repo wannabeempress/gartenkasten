@@ -9,13 +9,13 @@ body {
   --font-interface: "Pixelify Sans", var(--font-default);
 }
 
-a[href^="http"]:not([href*="garden.patsitive.co.nz"]) {
+a[href^="http"]:not([href*="patsitive.co.nz"]) {
   color: #FF270061;
   text-decoration-style: dashed;
   position: relative;
 }
 
-a[href^="http"]:not([href*="garden.patsitive.co.nz"])::after {
+a[href^="http"]:not([href*="patsitive.co.nz"])::after {
   content: "↗";
   margin-left: 0.25em;
   font-size: 0.8em;
@@ -25,27 +25,29 @@ a:hover {
    text-shadow: 0 0 10px #ff00ff, 0 0 20px #ff00ff;
 }
 
-h1 {
+main h1 {
   font-family: 'Jacquard 24', cursive;
 }
 
-h2, h3, h4, h5, h6, blockquote {
+main h2, 
+main h3, 
+main h4, 
+main h5, 
+main h6, 
+main blockquote, 
+navbar {
   font-family: 'Playfair Display', serif;
 }
 
-body, p {
-  font-family: 'Pixelify Sans', sans-serif;
-}
-
 /* Drop-cap only on the first paragraph of the note */
-main p:first-of-type::first-letter {
+main.content p:first-of-type::first-letter {
   font-family: 'Jacquard 24', cursive;
-  font-size: 4rem; 
+  font-size: 5rem; 
   float: left;
   line-height: 1;
   margin-right: 0.25em;
   padding: 0.1em 0.2em;
-  border: 2px solid #000;
+  border: 2px dashed #000;
   border-radius: 6px;
   text-shadow: 2px 2px 5px rgba(0,0,0,0.2);
   background: linear-gradient(45deg, #ff7aa2, #8e5eff);
