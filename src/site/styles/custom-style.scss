@@ -1,16 +1,15 @@
-body {
-    /***
+/***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
-    
+***/
+
+:root {
+  --font-default: 'Pixelify Sans', sans-serif;
+  --font-title: 'Jacquard 24', cursive;
+  --font-sub: 'Playfair Display', serif;
+}
+
+
 a[href^="http"]:not([href*="garden.patsitive.co.nz"]) {
   color: #FF270061;
   text-decoration-style: dashed;
@@ -55,7 +54,6 @@ main p:first-of-type::first-letter {
   -webkit-text-fill-color: transparent;
 }
 
-} 
 
 /* Visual garden graph */ 
   #forest-graph {
