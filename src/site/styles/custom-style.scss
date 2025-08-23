@@ -51,10 +51,11 @@ main.content > p:first-of-type::first-letter {
   line-height: 1;
   margin-right: 0.25em;
   padding: 0.1em 0.2em;
-  text-shadow: 3px 3px 7px rgba(0,0,0,0.2);
-  background: linear-gradient(45deg, #ff7aa2, #8e5eff);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  text-shadow: 
+    0 0 5px #ff7aa2,
+    0 0 10px #8e5eff,
+    0 0 20px #8e5eff,
+    0 0 30px #ff7aa2;
 }
 
 
