@@ -55,21 +55,21 @@ If any of my thoughts inspire you, then much like a physical garden, you can tak
 ### Recent additions — recently modified pages
 
 This place is always changing; the list below highlights the **15 freshest ideas** aka pages I most recently modified. 🍃
+- [[Thinking/Zettels/(1A1A1B3) 'Women are like your favourite food... you will get sick of them'\|(1A1A1B3) 'Women are like your favourite food... you will get sick of them']]: 5:25 PM - August 23, 2025
 - [[Thinking/Zettels/(2A1B5) Prefer daytime flights and avoid red-eye\|(2A1B5) Prefer daytime flights and avoid red-eye]]: 3:18 PM - August 20, 2025
-- [[Thinking/Zettels/(4A1D1) Zettelkasten\|(4A1D1) Zettelkasten]]: 12:40 PM - August 15, 2025
-- [[Thinking/Welcome to my gartenkasten\|Welcome to my gartenkasten]]: 12:35 PM - August 15, 2025
+- [[Thinking/Zettels/(4A1D1) Zettelkasten\|(4A1D1) Zettelkasten]]: 2:40 PM - August 15, 2025
+- [[Thinking/Welcome to my gartenkasten\|Welcome to my gartenkasten]]: 2:35 PM - August 15, 2025
 - [[Thinking/Zettels/(5A1A1) POSSE\|(5A1A1) POSSE]]: 6:07 PM - August 08, 2025
 - [[Thinking/Zettels/(5A2B) Implementation Intentions\|(5A2B) Implementation Intentions]]: 5:54 PM - August 08, 2025
 - [[Thinking/Zettels/(3B2B2A1C2A3A1E)WOOP Method\|(3B2B2A1C2A3A1E)WOOP Method]]: 5:54 PM - August 08, 2025
 - [[Thinking/Zettels/(5A1A) Record To Make Findable\|(5A1A) Record To Make Findable]]: 5:53 PM - August 08, 2025
 - [[Thinking/Zettels/(3B7E4) Coaching contextual knowledge\|(3B7E4) Coaching contextual knowledge]]: 5:36 PM - August 08, 2025
-- [[Thinking/Reference/@drakeEvidenceVerbRelational2009\|@drakeEvidenceVerbRelational2009]]: 5:35 PM - August 08, 2025
 - [[Thinking/Zettels/(3B7E) Coaching knowledge originates from either science or practice\|(3B7E) Coaching knowledge originates from either science or practice]]: 5:35 PM - August 08, 2025
+- [[Thinking/Reference/@drakeEvidenceVerbRelational2009\|@drakeEvidenceVerbRelational2009]]: 5:35 PM - August 08, 2025
 - [[Thinking/Who I am - an activity in Inspirational Writing for Academic Publication\|Who I am - an activity in Inspirational Writing for Academic Publication]]: 5:32 PM - August 08, 2025
 - [[Thinking/Reference/@ZaatMGT627LifeCareer\|@ZaatMGT627LifeCareer]]: 2:11 PM - August 06, 2025
 - [[Thinking/Zettels/(3B1A1) Coaching Benefits The Client\|(3B1A1) Coaching Benefits The Client]]: 2:11 PM - August 06, 2025
 - [[Thinking/Zettels/(5A) Making Something Observable Benefits The Thing\|(5A) Making Something Observable Benefits The Thing]]: 2:19 PM - August 04, 2025
-- [[Thinking/Zettels/(1B) 'Serious Play' Creates Great Work\|(1B) 'Serious Play' Creates Great Work]]: 2:18 PM - August 04, 2025
 
 { .block-language-dataview}
 

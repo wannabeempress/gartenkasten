@@ -40,6 +40,7 @@ To [**supports**:: [[Thinking/Zettels/(1A2) Zettel creation is writing a micro-e
 > - [[Thinking/Zettels/(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time\|(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time]]
 > - [[Thinking/Zettels/(1A1A1B1B1) Operating In Clock Time Vs Event Time\|(1A1A1B1B1) Operating In Clock Time Vs Event Time]]
 > - [[Thinking/Zettels/(1A1A1B2) Cultivating A Garden Is Continual Effort\|(1A1A1B2) Cultivating A Garden Is Continual Effort]]
+> - [[Thinking/Zettels/(1A1A1B3) 'Women are like your favourite food... you will get sick of them'\|(1A1A1B3) 'Women are like your favourite food... you will get sick of them']]
 > - [[Thinking/Zettels/(1A1A2) Arrange elements of information to construct body paragraphs\|(1A1A2) Arrange elements of information to construct body paragraphs]]
 > - [[Thinking/Zettels/(1A1B) Academic Humility\|(1A1B) Academic Humility]]
 > - [[Thinking/Zettels/(1A1C) Mixing Wide, Medium And Tight Shots Tell A Story Succinctly\|(1A1C) Mixing Wide, Medium And Tight Shots Tell A Story Succinctly]]
