@@ -25,7 +25,7 @@ a:hover {
    text-shadow: 0 0 10px #ff00ff, 0 0 20px #ff00ff;
 }
 
-main.content h1 {
+main.content h2 {
   font-family: 'Jacquard 24', cursive;
 }
 
@@ -37,7 +37,7 @@ main.content blockquote {
   font-family: 'Playfair Display', serif;
 }
 
-main.content h2, 
+main.content h1, 
 .navbar h1 {
   font-family: 'Playfair Display', serif;
   font-style: italic; 
@@ -51,7 +51,7 @@ main.content > p:first-of-type::first-letter {
   line-height: 1;
   margin-right: 0.25em;
   padding: 0.1em 0.2em;
-  text-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+  text-shadow: 3px 3px 7px rgba(0,0,0,0.2);
   background: linear-gradient(45deg, #ff7aa2, #8e5eff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
