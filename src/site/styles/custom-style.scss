@@ -3,12 +3,11 @@
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
 ***/
 
-:root {
-  --font-default: 'Pixelify Sans', sans-serif;
-  --font-title: 'Jacquard 24', cursive;
-  --font-sub: 'Playfair Display', serif;
+body {
+  --font-default: "Pixelify Sans", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  --font-text: "Pixelify Sans", var(--font-default);
+  --font-interface: "Pixelify Sans", var(--font-default);
 }
-
 
 a[href^="http"]:not([href*="garden.patsitive.co.nz"]) {
   color: #FF270061;
