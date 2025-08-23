@@ -25,18 +25,23 @@ a:hover {
    text-shadow: 0 0 10px #ff00ff, 0 0 20px #ff00ff;
 }
 
-main h1 {
+main.content h1 {
   font-family: 'Jacquard 24', cursive;
 }
 
-main.content h2, 
 main.content h3, 
 main.content h4, 
 main.content h5, 
 main.content h6, 
-main.content blockquote, 
+main.content blockquote {
+  font-family: 'Playfair Display', serif;
+}
+
+main.content h2, 
 .navbar h1 {
   font-family: 'Playfair Display', serif;
+  font-style: italic; 
+  text-transform: uppercase;
 }
 
 /* Drop-cap only on the first paragraph of the note */
