@@ -1,29 +1,65 @@
-body {
-    /***
+/***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+***/
 
-    a[href^="http"]:not([href*="garden.patsitive.co.nz"]) {
+body {
+  --font-default: "Pixelify Sans", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  --font-text: "Pixelify Sans", var(--font-default);
+  --font-interface: "Pixelify Sans", var(--font-default);
+}
+
+a[href^="http"]:not([href*="patsitive.co.nz"]) {
   color: #FF270061;
   text-decoration-style: dashed;
   position: relative;
 }
 
-    a[href^="http"]:not([href*="garden.patsitive.co.nz"])::after {
+a[href^="http"]:not([href*="patsitive.co.nz"])::after {
   content: "↗";
   margin-left: 0.25em;
   font-size: 0.8em;
-    }
 }
 
+a:hover {
+   text-shadow: 0 0 10px #ff00ff, 0 0 20px #ff00ff;
+}
+
+main.content h2 {
+  font-family: 'Jacquard 24', cursive;
+}
+
+main.content h3, 
+main.content h4, 
+main.content h5, 
+main.content h6, 
+main.content blockquote {
+  font-family: 'Playfair Display', serif;
+}
+
+main.content h1, 
+.navbar h1 {
+  font-family: 'Playfair Display', serif;
+  font-style: italic; 
+}
+
+/* Drop-cap only on the first paragraph of the note */
+main.content > p:first-of-type::first-letter {
+  font-family: 'Jacquard 24', cursive;
+  font-size: 5rem; 
+  float: left;
+  line-height: 1;
+  margin-right: 0.25em;
+  padding: 0.1em 0.2em;
+  text-shadow: 
+    0 0 5px #ff7aa2,
+    0 0 10px #8e5eff,
+    0 0 20px #8e5eff,
+    0 0 30px #ff7aa2;
+}
+
+
+/* Visual garden graph */ 
   #forest-graph {
     display: flex;
     justify-content: center;
