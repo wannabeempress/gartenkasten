@@ -41,11 +41,10 @@ main.content h2,
 .navbar h1 {
   font-family: 'Playfair Display', serif;
   font-style: italic; 
-  text-transform: uppercase;
 }
 
 /* Drop-cap only on the first paragraph of the note */
-main.content p:first-of-type::first-letter {
+main.content > p:first-of-type::first-letter {
   font-family: 'Jacquard 24', cursive;
   font-size: 5rem; 
   float: left;
