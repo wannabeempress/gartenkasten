@@ -29,13 +29,13 @@ main h1 {
   font-family: 'Jacquard 24', cursive;
 }
 
-main h2, 
-main h3, 
-main h4, 
-main h5, 
-main h6, 
-main blockquote, 
-navbar {
+main.content h2, 
+main.content h3, 
+main.content h4, 
+main.content h5, 
+main.content h6, 
+main.content blockquote, 
+.navbar h1 {
   font-family: 'Playfair Display', serif;
 }
 
@@ -47,8 +47,6 @@ main.content p:first-of-type::first-letter {
   line-height: 1;
   margin-right: 0.25em;
   padding: 0.1em 0.2em;
-  border: 2px dashed #000;
-  border-radius: 6px;
   text-shadow: 2px 2px 5px rgba(0,0,0,0.2);
   background: linear-gradient(45deg, #ff7aa2, #8e5eff);
   -webkit-background-clip: text;
