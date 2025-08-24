@@ -55,7 +55,7 @@ function forestData(data) {
     let v;
 
     if (!isNaN(rawIcon)) {
-      height = parseInt(rawIcon);
+      height = parseInt(rawIcon) * 2;
       v = "tree-" + rawIcon;
     } else if (typeof rawIcon === "string" && rawIcon in noteLabels) {
       v = rawIcon;
