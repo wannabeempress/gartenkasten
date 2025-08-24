@@ -23,7 +23,7 @@ There is no movie playing in my head (thanks, aphantasia), but words are still m
 
 And I guess because I read, then that's why [[Learn in Public/Think/(1) I am a writer\|(1) I am a writer]]. 
 
-**Part of [[Identities/My Identities\|My Identities]].**
+**Part of [[Learn in Public/Pat Oyson-Matthan\|Pat Oyson-Matthan]].**
 
 **prev**:: [[Learn in Public/Think/(1) I am a writer\|(1) I am a writer]]
 

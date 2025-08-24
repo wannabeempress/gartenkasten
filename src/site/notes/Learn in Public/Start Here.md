@@ -1,5 +1,5 @@
 ---
-{"created":"2025-08-24T15:34","updated":"2025-08-24T15:49","dg-publish":true,"noteIcon":"signpost","dg-path":"Start Here.md","permalink":"/start-here/","dgPassFrontmatter":true}
+{"created":"2025-08-24T15:34","updated":"2025-08-24T16:19","dg-publish":true,"noteIcon":"signpost","dg-path":"Start Here.md","permalink":"/start-here/","dgPassFrontmatter":true}
 ---
 
 ## Start Here 
@@ -50,7 +50,7 @@ Oh, you scrolled down? 😅 Hiiii! I'm Pat Oyson-Matthan. This is my gartenkaste
 
 #### Want to hang out? 🌿 
 
-- Whose garden is this? [**source**:: [[Identities/My Identities\|Pat Oyson-Matthan]]] 💖
+- Whose garden is this? [**source**:: [[Learn in Public/Pat Oyson-Matthan\|Pat Oyson-Matthan]]] 💖
 - You can also find me on my 'polished' [website](https://patsitive.co.nz) 🌟
 - Or please send me an [email](https://patsitive.co.nz/connect) 📨 
 
