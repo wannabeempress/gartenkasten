@@ -35,7 +35,7 @@ To [**supports**:: [[Thinking/Zettels/(1A2) Zettel creation is writing a micro-e
 > - [[Thinking/Zettels/(1A1A1A3A) Digital gardens are not blogs\|(1A1A1A3A) Digital gardens are not blogs]]
 > - [[Thinking/Zettels/(1A1A1B) My Thoughts Are A Cottage Garden\|(1A1A1B) My Thoughts Are A Cottage Garden]]
 > - [[Thinking/Zettels/(1A1A1B1) My Daily Actions And Thoughts Cultivate My Garden Of Identity\|(1A1A1B1) My Daily Actions And Thoughts Cultivate My Garden Of Identity]]
-> - [[Thinking/Zettels/(1A1A1B1A) Interstitial Journalling Can Be Used To Proactively Plan For Upcoming Activities\|(1A1A1B1A) Interstitial Journalling Can Be Used To Proactively Plan For Upcoming Activities]]
+> - [[Thinking/Zettels/(1A1A1B1A) Interstitial journal to proactively plan\|(1A1A1B1A) Interstitial journal to proactively plan]]
 > - [[Thinking/Zettels/(1A1A1B1A1) Your Hustle Time is when you are available to see clients\|(1A1A1B1A1) Your Hustle Time is when you are available to see clients]]
 > - [[Thinking/Zettels/(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time\|(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time]]
 > - [[Thinking/Zettels/(1A1A1B1B1) Operating In Clock Time Vs Event Time\|(1A1A1B1B1) Operating In Clock Time Vs Event Time]]
