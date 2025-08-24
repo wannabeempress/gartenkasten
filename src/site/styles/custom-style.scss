@@ -3,6 +3,12 @@
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
 ***/
 
+/*** ----------
+   FONTS
+   FONTS
+   FONTS 
+***/
+
 body {
   --font-default: "Pixelify Sans", ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
   --font-text: "Pixelify Sans", var(--font-default);
@@ -59,7 +65,25 @@ main.content > p:first-of-type::first-letter {
 }
 
 
-/* Visual garden graph */ 
+/*** --------
+   ICONS
+   ICONS
+   ICONS
+***/
+
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="bee"]::before,
+body.filetree-note-icon .filename[data-note-icon="bee"]::before,
+body.links-note-icon .internal-link[data-note-icon="bee"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="bee"]::before {
+    background-image: url(site/img/bee.svg);
+}
+
+/*** --------
+   VISUAL
+   GARDEN
+   GRAPH
+***/ 
+
   #forest-graph {
     display: flex;
     justify-content: center;
