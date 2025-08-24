@@ -55,8 +55,8 @@ If any of my thoughts inspire you, then much like a physical garden, you can tak
 ### Recent additions — recently modified pages
 
 This place is always changing; the list below highlights the **15 freshest ideas** aka pages I most recently modified. 🍃
-- [[Thinking/Reference/@TheLydiaToddPod_FaithThatTravelsPodcast2024InterstitialJournalingIncrease\|@TheLydiaToddPod_FaithThatTravelsPodcast2024InterstitialJournalingIncrease]]: 1:43 PM - August 24, 2025
-- [[Thinking/Zettels/(1A1A1B1A) Interstitial journal to proactively plan\|(1A1A1B1A) Interstitial journal to proactively plan]]: 1:40 PM - August 24, 2025
+- [[Thinking/Reference/@TheLydiaToddPod2024InterstitialJournalingIncrease\|@TheLydiaToddPod2024InterstitialJournalingIncrease]]: 1:57 PM - August 24, 2025
+- [[Thinking/Zettels/(1A1A1B1A) Interstitial journal to proactively plan\|(1A1A1B1A) Interstitial journal to proactively plan]]: 1:57 PM - August 24, 2025
 - [[Thinking/Zettels/(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time\|(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time]]: 1:05 PM - August 24, 2025
 - [[Thinking/Zettels/(1A1A1B1A1) Your Hustle Time is when you are available to see clients\|(1A1A1B1A1) Your Hustle Time is when you are available to see clients]]: 1:05 PM - August 24, 2025
 - [[Thinking/Zettels/(1A1A1B1) My Daily Actions And Thoughts Cultivate My Garden Of Identity\|(1A1A1B1) My Daily Actions And Thoughts Cultivate My Garden Of Identity]]: 1:05 PM - August 24, 2025

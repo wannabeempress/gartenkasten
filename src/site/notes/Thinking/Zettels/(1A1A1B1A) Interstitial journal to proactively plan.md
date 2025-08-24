@@ -1,5 +1,5 @@
 ---
-{"created":"2025-04-22T11:31","updated":"2025-04-29T11:20","dg-publish":true,"noteIcon":2,"dg-path":"Zettels/(1A1A1B1A) Interstitial journal to proactively plan.md","permalink":"/zettels/1-a1-a1-b1-a-interstitial-journal-to-proactively-plan/","dgPassFrontmatter":true}
+{"created":"2025-04-22T11:31","updated":"2025-08-24T13:40","dg-publish":true,"noteIcon":2,"dg-path":"Zettels/(1A1A1B1A) Interstitial journal to proactively plan.md","permalink":"/zettels/1-a1-a1-b1-a-interstitial-journal-to-proactively-plan/","dgPassFrontmatter":true}
 ---
 
 In keeping an [**Parent**:: [[Interstitial Journaling\|Interstitial Journaling]]] practice, one keeps a running record of daily life by recording logs that state the __current time__ and **description**. 
@@ -8,7 +8,7 @@ I initially believed that this definition meant that interstitial journaling can
 
 > A log might read: `- 10:15 - Took a 20 minute break: Played Idle Iktah`. 
 
-It turns out interstitial journaling can also be used proactively to reflect on your goals, plans and strategies before jumping into upcoming activities ([**source**:: [[Thinking/Reference/@TheLydiaToddPod_FaithThatTravelsPodcast2024InterstitialJournalingIncrease\|@TheLydiaToddPod]]].) 
+It turns out interstitial journaling can also be used proactively to reflect on your goals, plans and strategies before jumping into upcoming activities ([**source**:: [[Thinking/Reference/@TheLydiaToddPod2024InterstitialJournalingIncrease\|@TheLydiaToddPod]]].) 
 
 > Another log in your journal might state: 
 > - `- 10:15 - Finished my break. Time to work on essay prep` or 
