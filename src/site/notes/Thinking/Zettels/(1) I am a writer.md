@@ -1,5 +1,5 @@
 ---
-{"excalidraw-plugin":"parsed","excalidraw-open-md":true,"tags":["excalidraw"],"created":"2025-02-18T08:38","updated":"2025-07-14T09:49","dg-publish":true,"noteIcon":3,"dg-path":"Zettels/(1) I am a writer.md","permalink":"/zettels/1-i-am-a-writer/","dgPassFrontmatter":true}
+{"excalidraw-plugin":"parsed","excalidraw-open-md":true,"tags":["excalidraw"],"created":"2025-02-18T08:38","updated":"2025-07-14T09:49","dg-publish":true,"noteIcon":"flower","dg-path":"Zettels/(1) I am a writer.md","permalink":"/zettels/1-i-am-a-writer/","dgPassFrontmatter":true}
 ---
 
 

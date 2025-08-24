@@ -55,6 +55,9 @@ If any of my thoughts inspire you, then much like a physical garden, you can tak
 ### Recent additions — recently modified pages
 
 This place is always changing; the list below highlights the **15 freshest ideas** aka pages I most recently modified. 🍃
+- [[Thinking/Zettels/(3B3) The Client Has The Answer\|(3B3) The Client Has The Answer]]: 2:09 PM - August 24, 2025
+- [[Thinking/Zettels/(1C) I am a reader\|(1C) I am a reader]]: 2:09 PM - August 24, 2025
+- [[Thinking/Zettels/(1) I am a writer\|(1) I am a writer]]: 2:08 PM - August 24, 2025
 - [[Thinking/Reference/@TheLydiaToddPod2024InterstitialJournalingIncrease\|@TheLydiaToddPod2024InterstitialJournalingIncrease]]: 1:57 PM - August 24, 2025
 - [[Thinking/Zettels/(1A1A1B1A) Interstitial journal to proactively plan\|(1A1A1B1A) Interstitial journal to proactively plan]]: 1:57 PM - August 24, 2025
 - [[Thinking/Zettels/(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time\|(1A1A1B1B) Interstitial Journaling Orients You To Both Event & Clock Time]]: 1:05 PM - August 24, 2025
@@ -67,9 +70,6 @@ This place is always changing; the list below highlights the **15 freshest ideas
 - [[Thinking/Zettels/(5A1A1) POSSE\|(5A1A1) POSSE]]: 6:07 PM - August 08, 2025
 - [[Thinking/Zettels/(5A2B) Implementation Intentions\|(5A2B) Implementation Intentions]]: 5:54 PM - August 08, 2025
 - [[Thinking/Zettels/(3B2B2A1C2A3A1E)WOOP Method\|(3B2B2A1C2A3A1E)WOOP Method]]: 5:54 PM - August 08, 2025
-- [[Thinking/Zettels/(5A1A) Record To Make Findable\|(5A1A) Record To Make Findable]]: 5:53 PM - August 08, 2025
-- [[Thinking/Zettels/(3B7E4) Coaching contextual knowledge\|(3B7E4) Coaching contextual knowledge]]: 5:36 PM - August 08, 2025
-- [[Thinking/Zettels/(3B7E) Coaching knowledge originates from either science or practice\|(3B7E) Coaching knowledge originates from either science or practice]]: 5:35 PM - August 08, 2025
 
 { .block-language-dataview}
 
