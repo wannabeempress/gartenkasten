@@ -61,7 +61,6 @@ function forestData(data) {
       v = rawIcon;
     } else {
       v = "tree-1"; // default if no noteIcon declared
-      height = 1; 
     }
 
     treeCounts[v].count++;
