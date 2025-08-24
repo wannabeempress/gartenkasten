@@ -1,5 +1,5 @@
 ---
-{"created":"2025-02-17T15:36","updated":"2025-05-30T15:09","excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"excalidraw-export-transparent":true,"dg-publish":true,"dg-path":"Zettels/(1B) 'Serious Play' Creates Great Work.md","permalink":"/zettels/1-b-serious-play-creates-great-work/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-02-17T15:36","updated":"2025-05-30T15:09","excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"excalidraw-export-transparent":true,"dg-publish":true,"noteIcon":"flower","dg-path":"Zettels/(1B) 'Serious Play' Creates Great Work.md","permalink":"/zettels/1-b-serious-play-creates-great-work/","dgPassFrontmatter":true}
 ---
 
 
@@ -3549,3 +3549,4 @@ fpUwA1QBlXg+IAnEKvEKMgAJfp4kKNQBCAAjABhXhuwBokL0kL9AAcstMAAoAADSV4QAtR5IXhSgjdnE
 BQvBQu4ABP3MBAGwACIAB+QtQAAFQrDAB4ZzEQrQADFQos8iEACgAA/AGFeBP3NpQrsAF/cQ7V2YAA1AB4ZzgAEBQuBQp4ZzBQupGSxbA7V0IAEYAHubGOQrsZzQAHRQh4rLCAGCAANQvHeEFQqEAApAAMAEmQuFeCE8I8PR2lgpoKJQiNQpNQp21EJeHAAFRQgTJUjUmAAAJeBAAAJeCAAA
 ```
 %%
+

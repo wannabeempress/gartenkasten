@@ -1,5 +1,5 @@
 ---
-{"created":"2025-02-17T15:13","updated":"2025-02-17T15:14","excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"excalidraw-export-transparent":true,"dg-publish":true,"dg-path":"Zettels/(1A) Writers are made through writing and reading.md","permalink":"/zettels/1-a-writers-are-made-through-writing-and-reading/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-02-17T15:13","updated":"2025-02-17T15:14","excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"excalidraw-export-transparent":true,"dg-publish":true,"noteIcon":"flower","dg-path":"Zettels/(1A) Writers are made through writing and reading.md","permalink":"/zettels/1-a-writers-are-made-through-writing-and-reading/","dgPassFrontmatter":true}
 ---
 
 
@@ -974,4 +974,6 @@ s0AEogPeBiQDkB68hgxpKAIwA2AAMAc8GBwAIAIQBtoys42jBTOxshwyHyIbxB9AtcQZOjWCHRQBIAQS
 
 dpoYLAGqGN83ihhcBMgCah4IAf/lpAJKG/gGwAIgBKobQAe6HhFw4AWytuADeh5YchACgAd8Ag/jehtKG7AHLzRUBsgB6AD6G4ADqhhqGPoeah4BKgo2wAA6HGAFbzWKH8AEuhkoBYdJanYIAEYeABR6GhABpAAwBHIbQY1sHkPIKXAwAegDSAbGG4yv7yvTsGgGxhpGGUYc2B8ABpFy5AjUBO52AAPX4QAD1+IAA===
 ```
+
 %%
+
