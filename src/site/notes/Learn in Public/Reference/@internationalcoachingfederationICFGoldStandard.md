@@ -1,5 +1,5 @@
 ---
-{"title":"ICF, the Gold Standard in Coaching | Read About ICF.","authors":"International Coaching Federation","year":null,"type":"webpage","created":"2024-10-28T14:29","updated":"2025-08-24T15:13","aliases":["International Coaching Federation (ICF)"],"dg-publish":true,"noteIcon":"bee","dg-path":"Reference/@internationalcoachingfederationICFGoldStandard.md","permalink":"/reference/internationalcoachingfederation-icf-gold-standard/","dgPassFrontmatter":true}
+{"title":"ICF, the Gold Standard in Coaching | Read About ICF.","authors":"International Coaching Federation","year":null,"type":"webpage","created":"2024-10-28T14:29","updated":"2025-08-24T15:14","aliases":["International Coaching Federation (ICF)"],"dg-publish":true,"noteIcon":"bee","dg-path":"Reference/@internationalcoachingfederationICFGoldStandard.md","permalink":"/reference/internationalcoachingfederation-icf-gold-standard/","dgPassFrontmatter":true}
 ---
 
 

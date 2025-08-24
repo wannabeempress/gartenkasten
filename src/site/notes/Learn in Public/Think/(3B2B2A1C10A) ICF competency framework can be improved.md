@@ -1,5 +1,5 @@
 ---
-{"created":"2025-05-30T17:47","updated":"2025-08-04T11:55","dg-publish":true,"dg-path":"Think/(3B2B2A1C10A) ICF competency framework can be improved.md","permalink":"/think/3-b2-b2-a1-c10-a-icf-competency-framework-can-be-improved/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-05-30T17:47","updated":"2025-08-04T12:04","dg-publish":true,"dg-path":"Think/(3B2B2A1C10A) ICF competency framework can be improved.md","permalink":"/think/3-b2-b2-a1-c10-a-icf-competency-framework-can-be-improved/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 The [[Learn in Public/Think/(3B2B2A1C10) ICF Core Competencies as at 2019\|(3B2B2A1C10) ICF Core Competencies as at 2019]] make sense, especially since these were developed based on research from a global study of professional coaches. These line up with what you would expect from coaching principles and from my personal experience as a coach and coachee. Although I am not ICF-credentialed, I refer to and use these competencies myself. 

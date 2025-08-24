@@ -1,5 +1,5 @@
 ---
-{"created":"2025-08-04T13:04","updated":"2025-08-04T13:20","dg-publish":true,"dg-path":"Think/(15) Reparations are not charity and can be cashed.md","permalink":"/think/15-reparations-are-not-charity-and-can-be-cashed/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-08-04T13:04","updated":"2025-08-04T13:24","dg-publish":true,"dg-path":"Think/(15) Reparations are not charity and can be cashed.md","permalink":"/think/15-reparations-are-not-charity-and-can-be-cashed/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 People harm others, whether intentionally or by accident; this is sadly a fact of life, since we are all meat controlled by billions of electrical impulses and neurons. 

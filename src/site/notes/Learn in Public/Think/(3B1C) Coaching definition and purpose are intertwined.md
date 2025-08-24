@@ -1,5 +1,5 @@
 ---
-{"created":"2025-05-30T12:59","updated":"2025-05-30T15:06","dg-publish":true,"dg-path":"Think/(3B1C) Coaching definition and purpose are intertwined.md","permalink":"/think/3-b1-c-coaching-definition-and-purpose-are-intertwined/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-05-30T12:59","updated":"2025-05-31T10:22","dg-publish":true,"dg-path":"Think/(3B1C) Coaching definition and purpose are intertwined.md","permalink":"/think/3-b1-c-coaching-definition-and-purpose-are-intertwined/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 The [[Learn in Public/Think/(3B) Coaching\|Definition of coaching]] can't seem to be extricated from the [[Learn in Public/Think/(3B1) Purpose of Coaching\|(3B1) Purpose of Coaching]] because [[Learn in Public/Think/(3B8) Coaching is future focussed\|(3B8) Coaching is future focussed]] and as a result how you describe what it is almost always talks about what it is meant to do. 

@@ -1,5 +1,5 @@
 ---
-{"created":"2025-08-18T17:15","updated":"2025-08-20T15:07","dg-publish":true,"dg-path":"Think/(1A1A1B3) 'Women are like your favourite food... you will get sick of them'.md","permalink":"/think/1-a1-a1-b3-women-are-like-your-favourite-food-you-will-get-sick-of-them/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-08-18T17:15","updated":"2025-08-23T17:25","dg-publish":true,"dg-path":"Think/(1A1A1B3) 'Women are like your favourite food... you will get sick of them'.md","permalink":"/think/1-a1-a1-b3-women-are-like-your-favourite-food-you-will-get-sick-of-them/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 As a teenager, my father told me and my then boyfriend that we should not get intimate because:
