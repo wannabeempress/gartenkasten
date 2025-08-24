@@ -1,5 +1,5 @@
 ---
-{"created":"2025-08-24T15:57","updated":"2025-08-24T15:57","dg-publish":true,"noteIcon":"signpost","permalink":"/learn-in-public/recent-plantings/","dgPassFrontmatter":true}
+{"created":"2025-08-24T15:57","updated":"2025-08-24T15:57","dg-publish":true,"noteIcon":"signpost","dg-path":"Recent Plantings.md","permalink":"/recent-plantings/","dgPassFrontmatter":true}
 ---
 
 ## Recent additions 

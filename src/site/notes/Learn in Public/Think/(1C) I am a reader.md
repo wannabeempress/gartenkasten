@@ -1,5 +1,5 @@
 ---
-{"excalidraw-plugin":"parsed","tags":["excalidraw"],"created":"2025-02-18T08:29","updated":"2025-06-17T13:47","dg-publish":true,"excalidraw-open-md":true,"noteIcon":"flower","permalink":"/learn-in-public/think/1-c-i-am-a-reader/","dgPassFrontmatter":true}
+{"excalidraw-plugin":"parsed","tags":["excalidraw"],"created":"2025-02-18T08:29","updated":"2025-06-17T13:47","dg-publish":true,"excalidraw-open-md":true,"noteIcon":"flower","dg-path":"Think/(1C) I am a reader.md","permalink":"/think/1-c-i-am-a-reader/","dgPassFrontmatter":true}
 ---
 
 

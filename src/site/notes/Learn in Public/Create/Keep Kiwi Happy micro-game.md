@@ -1,5 +1,5 @@
 ---
-{"created":"2025-07-09T12:33","updated":"2025-07-10T11:01","dg-publish":true,"noteIcon":"log","permalink":"/learn-in-public/create/keep-kiwi-happy-micro-game/","dgPassFrontmatter":true}
+{"created":"2025-07-09T12:33","updated":"2025-07-10T11:01","dg-publish":true,"noteIcon":"log","dg-path":"Create/Keep Kiwi Happy micro-game.md","permalink":"/create/keep-kiwi-happy-micro-game/","dgPassFrontmatter":true}
 ---
 
 

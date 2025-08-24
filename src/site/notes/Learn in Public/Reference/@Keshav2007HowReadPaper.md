@@ -1,5 +1,5 @@
 ---
-{"updated":"2025-08-04T14:00","type":"journal article","status":"Done","created":"2024-10-28T14:29","dg-publish":true,"noteIcon":"bee","permalink":"/learn-in-public/reference/keshav2007-how-read-paper/","dgPassFrontmatter":true}
+{"updated":"2025-08-04T14:00","type":"journal article","status":"Done","created":"2024-10-28T14:29","dg-publish":true,"noteIcon":"bee","dg-path":"Reference/@Keshav2007HowReadPaper.md","permalink":"/reference/keshav2007-how-read-paper/","dgPassFrontmatter":true}
 ---
 
 # Keshav (2007) How to Read a Paper

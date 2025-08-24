@@ -1,5 +1,5 @@
 ---
-{"created":"2025-07-08T10:36","updated":"2025-07-10T17:36","dg-publish":true,"noteIcon":"log","permalink":"/learn-in-public/create/30-ships-30-days/","dgPassFrontmatter":true}
+{"created":"2025-07-08T10:36","updated":"2025-07-10T17:36","dg-publish":true,"noteIcon":"log","dg-path":"Create/30 Ships, 30 Days.md","permalink":"/create/30-ships-30-days/","dgPassFrontmatter":true}
 ---
 
 # 🛳️✨ 30 Ships, 30 Days

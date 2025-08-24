@@ -1,5 +1,5 @@
 ---
-{"created":"2025-05-29T08:41","updated":"2025-08-24T16:03","dg-publish":true,"noteIcon":"log","aliases":["Who I am - an activity in Inspirational Writing for Academic Publication"],"permalink":"/learn-in-public/create/becoming-a-researcher/","dgPassFrontmatter":true}
+{"created":"2025-05-29T08:41","updated":"2025-08-24T16:03","dg-publish":true,"noteIcon":"log","aliases":["Who I am - an activity in Inspirational Writing for Academic Publication"],"dg-path":"Create/Becoming a researcher.md","permalink":"/create/becoming-a-researcher/","dgPassFrontmatter":true}
 ---
 
 [Becoming a Researcher: A Personal Invocation | by Patricia Oyson | May, 2025 | Medium](https://medium.com/@patricia.oyson/becoming-a-researcher-a-personal-invocation-a24d6639e022)

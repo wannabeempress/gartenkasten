@@ -1,5 +1,5 @@
 ---
-{"created":"2025-02-17T15:13","updated":"2025-02-17T15:14","excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"excalidraw-export-transparent":true,"dg-publish":true,"noteIcon":"flower","permalink":"/learn-in-public/think/1-a-writers-are-made-through-writing-and-reading/","dgPassFrontmatter":true}
+{"created":"2025-02-17T15:13","updated":"2025-02-17T15:14","excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"excalidraw-export-transparent":true,"dg-publish":true,"noteIcon":"flower","dg-path":"Think/(1A) Writers are made through writing and reading.md","permalink":"/think/1-a-writers-are-made-through-writing-and-reading/","dgPassFrontmatter":true}
 ---
 
 

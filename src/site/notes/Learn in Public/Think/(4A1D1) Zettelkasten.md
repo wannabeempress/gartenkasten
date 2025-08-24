@@ -1,5 +1,5 @@
 ---
-{"created":"2025-08-15T12:29","updated":"2025-08-15T12:40","dg-publish":true,"permalink":"/learn-in-public/think/4-a1-d1-zettelkasten/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-08-15T12:29","updated":"2025-08-15T12:40","dg-publish":true,"dg-path":"Think/(4A1D1) Zettelkasten.md","permalink":"/think/4-a1-d1-zettelkasten/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 A zettelkasten is a style of recording ideas to make it easier to create writing output. You do this by recording atomic ideas in singular notes, recording the source of that idea, as well as linking it to relevant ideas. The [**Prev**:: [[Learn in Public/Think/(4A1D) Zettel form realises its purpose\|(4A1D) Zettel form realises its purpose]]], so that new ideas are always being incorporated into one's web of thoughts. 

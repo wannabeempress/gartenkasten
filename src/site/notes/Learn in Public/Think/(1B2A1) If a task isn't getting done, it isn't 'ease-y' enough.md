@@ -1,5 +1,5 @@
 ---
-{"created":"2025-07-02T20:22","updated":"2025-08-24T15:14","dg-publish":true,"noteIcon":2,"permalink":"/learn-in-public/think/1-b2-a1-if-a-task-isn-t-getting-done-it-isn-t-ease-y-enough/","dgPassFrontmatter":true}
+{"created":"2025-07-02T20:22","updated":"2025-08-24T15:14","dg-publish":true,"noteIcon":2,"dg-path":"Think/(1B2A1) If a task isn't getting done, it isn't 'ease-y' enough.md","permalink":"/think/1-b2-a1-if-a-task-isn-t-getting-done-it-isn-t-ease-y-enough/","dgPassFrontmatter":true}
 ---
 
 Completing tasks is a function of corralling your executive function, so that your brain actually lets you do 'the thing'. So if you aren't able to complete an action, then that suggests your executive function skills aren't able to support you in initiating, progressing through and completing 'the thing'. 

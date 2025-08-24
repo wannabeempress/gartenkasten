@@ -1,5 +1,5 @@
 ---
-{"title":"Interstitial journaling: Increase productivity + decrease procrastination","authors":null,"year":2024,"type":"video","created":"2025-08-24T13:17","updated":"2025-08-24T13:48","dg-publish":true,"noteIcon":"bee","permalink":"/learn-in-public/reference/the-lydia-todd-pod2024-interstitial-journaling-increase/","dgPassFrontmatter":true}
+{"title":"Interstitial journaling: Increase productivity + decrease procrastination","authors":null,"year":2024,"type":"video","created":"2025-08-24T13:17","updated":"2025-08-24T13:48","dg-publish":true,"noteIcon":"bee","dg-path":"Reference/@TheLydiaToddPod2024InterstitialJournalingIncrease.md","permalink":"/reference/the-lydia-todd-pod2024-interstitial-journaling-increase/","dgPassFrontmatter":true}
 ---
 
 

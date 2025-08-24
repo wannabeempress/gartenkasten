@@ -1,5 +1,5 @@
 ---
-{"created":"2025-05-30T12:04","updated":"2025-05-30T15:33","dg-publish":true,"permalink":"/learn-in-public/think/10-the-path-to-depth-is-sometimes-iterative/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-05-30T12:04","updated":"2025-05-30T15:33","dg-publish":true,"dg-path":"Think/(10) The path to depth is sometimes iterative....md","permalink":"/think/10-the-path-to-depth-is-sometimes-iterative/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 > The path to depth is sometimes iterative and not the result of major leaps. I call that the Good Life Algorithm

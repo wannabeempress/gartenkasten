@@ -1,5 +1,5 @@
 ---
-{"created":"2025-07-14T09:44","updated":"2025-07-14T09:59","dg-publish":true,"permalink":"/learn-in-public/think/1-a1-d1-a-flow-of-zettelkasten/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-07-14T09:44","updated":"2025-07-14T09:59","dg-publish":true,"dg-path":"Think/(1A1D1A) Flow of zettelkasten.md","permalink":"/think/1-a1-d1-a-flow-of-zettelkasten/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 According to [**source**:: [[Learn in Public/Reference/@zhaoCompassZettelkastenThinking\|@zhaoCompassZettelkastenThinking]]], this goes from:

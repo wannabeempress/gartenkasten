@@ -1,5 +1,5 @@
 ---
-{"created":"2025-08-24T15:50","updated":"2025-08-24T15:56","dg-publish":true,"noteIcon":"signpost","permalink":"/learn-in-public/classic-gartenkasten-paths/","dgPassFrontmatter":true}
+{"created":"2025-08-24T15:50","updated":"2025-08-24T15:56","dg-publish":true,"noteIcon":"signpost","dg-path":"Classic Gartenkasten Paths.md","permalink":"/classic-gartenkasten-paths/","dgPassFrontmatter":true}
 ---
 
 ## Hand-selected spots 

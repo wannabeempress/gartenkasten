@@ -1,5 +1,5 @@
 ---
-{"created":"2025-01-11T13:13","updated":"2025-05-30T14:29","dg-publish":true,"permalink":"/learn-in-public/think/1-a1-a1-b-my-thoughts-are-a-cottage-garden/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-01-11T13:13","updated":"2025-05-30T14:29","dg-publish":true,"dg-path":"Think/(1A1A1B) My Thoughts Are A Cottage Garden.md","permalink":"/think/1-a1-a1-b-my-thoughts-are-a-cottage-garden/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 

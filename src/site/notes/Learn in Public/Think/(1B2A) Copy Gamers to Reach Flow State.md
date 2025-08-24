@@ -1,5 +1,5 @@
 ---
-{"created":"2025-03-30T17:46","updated":"2025-03-30T18:56","dg-publish":true,"permalink":"/learn-in-public/think/1-b2-a-copy-gamers-to-reach-flow-state/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-03-30T17:46","updated":"2025-03-30T18:56","dg-publish":true,"dg-path":"Think/(1B2A) Copy Gamers to Reach Flow State.md","permalink":"/think/1-b2-a-copy-gamers-to-reach-flow-state/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 
