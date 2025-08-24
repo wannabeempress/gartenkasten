@@ -56,7 +56,7 @@ function forestData(data) {
 
     if (/^tree-(\d+)$/.test(rawIcon)) {
       height = parseInt(rawIcon.split("-")[1]) || 2;
-      v = rawIcon;
+      v = "tree-" + rawIcon;
     } else if (typeof rawIcon === "string" && rawIcon in noteLabels) {
       v = rawIcon;
     } else {
