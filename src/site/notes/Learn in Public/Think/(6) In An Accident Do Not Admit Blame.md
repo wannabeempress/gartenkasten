@@ -1,5 +1,5 @@
 ---
-{"created":"2025-04-22T10:35","updated":"2025-07-21T11:39","dg-publish":true,"dg-path":"Think/(6) In An Accident Do Not Admit Blame.md","permalink":"/think/6-in-an-accident-do-not-admit-blame/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-04-22T10:35","updated":"2025-08-25T12:38","dg-publish":true,"dg-permalink":"think/6","dg-path":"Think/(6) In An Accident Do Not Admit Blame.md","permalink":"/think/6/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 > [!danger] DO NOT ADMIT BLAME

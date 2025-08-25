@@ -1,5 +1,5 @@
 ---
-{"created":"2024-10-20T12:29","updated":"2025-05-30T15:10","tags":["excalidraw"],"identity":["Brain","Business Woman"],"excalidraw-plugin":"parsed","excalidraw-open-md":true,"excalidraw-export-transparent":true,"dg-publish":true,"noteIcon":"flower","dg-path":"Think/(5A) Making Something Observable Benefits The Thing.md","permalink":"/think/5-a-making-something-observable-benefits-the-thing/","dgPassFrontmatter":true}
+{"created":"2024-10-20T12:29","updated":"2025-05-30T15:10","tags":["excalidraw"],"identity":["Brain","Business Woman"],"excalidraw-plugin":"parsed","excalidraw-open-md":true,"excalidraw-export-transparent":true,"dg-publish":true,"noteIcon":"flower","dg-permalink":"think/5a","dg-path":"Think/(5A) Making Something Observable Benefits The Thing.md","permalink":"/think/5a/","dgPassFrontmatter":true}
 ---
 
 

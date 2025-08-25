@@ -1,5 +1,5 @@
 ---
-{"created":"2025-04-29T10:25","updated":"2025-04-29T11:20","dg-publish":true,"dg-path":"Think/(1A1A1B1B1) Operating In Clock Time Vs Event Time.md","permalink":"/think/1-a1-a1-b1-b1-operating-in-clock-time-vs-event-time/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-04-29T10:25","updated":"2025-08-25T12:38","dg-publish":true,"dg-permalink":"think/1a1a1b1b1","dg-path":"Think/(1A1A1B1B1) Operating In Clock Time Vs Event Time.md","permalink":"/think/1a1a1b1b1/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 In [[Mind Management Not Time Management\|Mind Management Not Time Management]] I was introduced to the idea of operating in clock time vs event time. 

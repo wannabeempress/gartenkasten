@@ -1,5 +1,5 @@
 ---
-{"created":"2025-04-27T15:02","updated":"2025-08-24T16:19","dg-publish":true,"noteIcon":"butterfly","dg-path":"Think/(1A1A1B1) My Daily Actions And Thoughts Cultivate My Garden Of Identity.md","permalink":"/think/1-a1-a1-b1-my-daily-actions-and-thoughts-cultivate-my-garden-of-identity/","dgPassFrontmatter":true}
+{"created":"2025-04-27T15:02","updated":"2025-08-25T12:38","dg-publish":true,"noteIcon":"butterfly","dg-permalink":"think/1a1a1b1","dg-path":"Think/(1A1A1B1) My Daily Actions And Thoughts Cultivate My Garden Of Identity.md","permalink":"/think/1a1a1b1/","dgPassFrontmatter":true}
 ---
 
 [[Learn in Public/Think/(1A1A1B2) Cultivating A Garden Is Continual Effort\|(1A1A1B2) Cultivating A Garden Is Continual Effort]], so I need to keep planting the seeds of who I want to be and water them, through my thoughts and actions. 

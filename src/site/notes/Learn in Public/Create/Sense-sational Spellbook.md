@@ -1,5 +1,5 @@
 ---
-{"created":"2025-07-08T13:11","updated":"2025-08-03T14:03","dg-publish":true,"noteIcon":"log","dg-path":"Create/Sense-sational Spellbook.md","permalink":"/create/sense-sational-spellbook/","dgPassFrontmatter":true}
+{"created":"2025-07-08T13:11","updated":"2025-07-11T06:40","dg-publish":true,"noteIcon":"log","dg-path":"Create/Sense-sational Spellbook.md","permalink":"/create/sense-sational-spellbook/","dgPassFrontmatter":true}
 ---
 
 

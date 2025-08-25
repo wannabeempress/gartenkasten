@@ -1,5 +1,5 @@
 ---
-{"created":"2025-08-01T15:01","updated":"2025-08-24T15:49","noteIcon":1,"dg-publish":true,"dg-path":"Think/(1A41) Note types in MY zettelkasten.md","permalink":"/think/1-a41-note-types-in-my-zettelkasten/","dgPassFrontmatter":true}
+{"created":"2025-08-01T15:01","updated":"2025-08-25T12:38","noteIcon":1,"dg-publish":true,"dg-permalink":"think/1a41","dg-path":"Think/(1A41) Note types in MY zettelkasten.md","permalink":"/think/1a41/","dgPassFrontmatter":true}
 ---
 
 I previously thought about the [**Prev**:: [[Learn in Public/Think/(1A4) Zettel as micro-essay\|(1A4) Zettel as micro-essay]]], but now I see that I was thinking about two different kinds of notes. Since I see the [[Zettelkasten as conversation partner\|Zettelkasten as conversation partner]], it makes sense that I have shaped the conversation to suit my needs and thinking style. 
@@ -17,7 +17,8 @@ These are the different notes in my [**source**:: [[Learn in Public/Welcome to P
 | 🦋 Butterfly   | **Reflection note** → Notes on self-reflection, self-storying, and transformation, personal takes, memories, queries. <br><br>_Butterfly as metamorphosis._                                                    | /Thinking           |
 | 🪵 Log         | **Creative output**, like a longer-form piece, shipped project, or polished output. <br><br>_The mature tree, now harvested and logged._                                                                       | /Thinking/          |
 | 🚩Signpost     | **Hub/Structure Note** which signals direction, clusters concepts, guides further exploration. <br><br>_Like a signpost in a garden._                                                                          | /Thinking           |
-{ #b16c06}
+{ #b16c06}
+
 
 
 ---

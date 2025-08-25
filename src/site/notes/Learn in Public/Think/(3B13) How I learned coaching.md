@@ -1,5 +1,5 @@
 ---
-{"created":"2025-05-30T13:07","updated":"2025-07-18T12:23","dg-publish":true,"dg-path":"Think/(3B13) How I learned coaching.md","permalink":"/think/3-b13-how-i-learned-coaching/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-05-30T13:07","updated":"2025-08-25T12:38","dg-publish":true,"dg-permalink":"think/3b13","dg-path":"Think/(3B13) How I learned coaching.md","permalink":"/think/3b13/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 I was trained in [[Learn in Public/Think/(3B) Coaching\|(3B) Coaching]] methodology at Ministry of Social Development New Zealand. I also learned through reflective practice when I coached staff in the moment (like how [[Learn in Public/Think/(3B7B) Gallwey Observed That Asking Questions Helped Athletes Solidify Adjustments Compared To Cueing Them\|(3B7B) Gallwey Observed That Asking Questions Helped Athletes Solidify Adjustments Compared To Cueing Them]]) or in formalised coaching sessions as well as in a reflective practice group, which was so handy during the COVID 2020 pandemic. 

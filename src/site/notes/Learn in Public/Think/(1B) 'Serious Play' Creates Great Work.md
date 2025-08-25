@@ -1,5 +1,5 @@
 ---
-{"created":"2025-02-17T15:36","updated":"2025-05-30T15:09","excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"excalidraw-export-transparent":true,"dg-publish":true,"noteIcon":"flower","dg-path":"Think/(1B) 'Serious Play' Creates Great Work.md","permalink":"/think/1-b-serious-play-creates-great-work/","dgPassFrontmatter":true}
+{"created":"2025-02-17T15:36","updated":"2025-05-30T15:09","excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"excalidraw-export-transparent":true,"dg-publish":true,"noteIcon":"flower","dg-permalink":"think/1b","dg-path":"Think/(1B) 'Serious Play' Creates Great Work.md","permalink":"/think/1b/","dgPassFrontmatter":true}
 ---
 
 

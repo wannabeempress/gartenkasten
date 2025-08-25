@@ -1,5 +1,5 @@
 ---
-{"aliases":["Learning In Public","You Should Learn In Public"],"created":"2025-02-27T10:20","updated":"2025-05-30T15:10","dg-publish":true,"dg-path":"Think/(5) Learning In Public Allows You To Grow Faster.md","permalink":"/think/5-learning-in-public-allows-you-to-grow-faster/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"aliases":["Learning In Public","You Should Learn In Public"],"created":"2025-02-27T10:20","updated":"2025-08-25T12:38","dg-publish":true,"dg-permalink":"think/5","dg-path":"Think/(5) Learning In Public Allows You To Grow Faster.md","permalink":"/think/5/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 When you are are vulnerable enough to share your learning publicly, the gains you make will exceed learning by yourself. For example, your public learning benefits from the perspective of others, how you present your learning influences and impacts your learning, (good and bad) pressure increases motivation to learn. 

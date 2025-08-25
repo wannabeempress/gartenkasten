@@ -1,5 +1,5 @@
 ---
-{"created":"2025-02-13T13:41","updated":"2025-05-30T15:14","dg-publish":true,"dg-path":"Think/(5B) I Will Make My Own Learning Observable And Public.md","permalink":"/think/5-b-i-will-make-my-own-learning-observable-and-public/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-02-13T13:41","updated":"2025-08-25T12:38","dg-publish":true,"dg-permalink":"think/5b","dg-path":"Think/(5B) I Will Make My Own Learning Observable And Public.md","permalink":"/think/5b/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 Given my challenges with [[working memory\|working memory]] and my fascination with [[systems thinking\|systems thinking]], it may be beneficial for me to apply this concept: [[Learn in Public/Think/(5A) Making Something Observable Benefits The Thing\|(5A) Making Something Observable Benefits The Thing]]. 

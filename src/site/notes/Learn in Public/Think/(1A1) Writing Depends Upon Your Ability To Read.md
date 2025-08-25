@@ -1,5 +1,5 @@
 ---
-{"created":"2025-02-17T15:28","updated":"2025-03-08T21:54","excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"excalidraw-export-transparent":true,"dg-publish":true,"noteIcon":"flower","dg-path":"Think/(1A1) Writing Depends Upon Your Ability To Read.md","permalink":"/think/1-a1-writing-depends-upon-your-ability-to-read/","dgPassFrontmatter":true}
+{"created":"2025-02-17T15:28","updated":"2025-03-08T21:54","excalidraw-plugin":"parsed","tags":["excalidraw"],"excalidraw-open-md":true,"excalidraw-export-transparent":true,"dg-publish":true,"noteIcon":"flower","dg-permalink":"think/1a1","dg-path":"Think/(1A1) Writing Depends Upon Your Ability To Read.md","permalink":"/think/1a1/","dgPassFrontmatter":true}
 ---
 
 

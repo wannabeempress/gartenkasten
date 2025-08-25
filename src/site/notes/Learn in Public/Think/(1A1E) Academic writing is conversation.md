@@ -1,5 +1,5 @@
 ---
-{"created":"2025-07-18T08:05","updated":"2025-08-25T08:42","dg-publish":true,"noteIcon":2,"dg-path":"Think/(1A1E) Academic writing is conversation.md","permalink":"/think/1-a1-e-academic-writing-is-conversation/","dgPassFrontmatter":true}
+{"created":"2025-07-18T08:05","updated":"2025-08-25T12:38","dg-publish":true,"noteIcon":2,"dg-permalink":"think/1a1e","dg-path":"Think/(1A1E) Academic writing is conversation.md","permalink":"/think/1a1e/","dgPassFrontmatter":true}
 ---
 
 Academia facilitates ongoing conversations to shape and share perspectives ([**source**:: [[Learn in Public/Reference/@Graff2014TheySaySay\|@Graff2014TheySaySay]]]). 

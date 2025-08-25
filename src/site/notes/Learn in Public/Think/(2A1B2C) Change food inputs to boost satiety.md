@@ -1,5 +1,5 @@
 ---
-{"created":"2025-07-13T20:46","updated":"2025-07-25T11:00","dg-publish":true,"dg-path":"Think/(2A1B2C) Change food inputs to boost satiety.md","permalink":"/think/2-a1-b2-c-change-food-inputs-to-boost-satiety/","dgPassFrontmatter":true,"noteIcon":"1"}
+{"created":"2025-07-13T20:46","updated":"2025-08-25T12:38","dg-publish":true,"dg-permalink":"think/2a1b2c","dg-path":"Think/(2A1B2C) Change food inputs to boost satiety.md","permalink":"/think/2a1b2c/","dgPassFrontmatter":true,"noteIcon":"1"}
 ---
 
 I get hungry fast and often, despite eating what seems like a lot of food. There's a lot of 'food noise' that goes on in my head. I would like the noise to quiet down, and to do that, I think I need my stomach to feel full longer (without gorging myself). It's important that I work on my health because you [**Prev**:: [[Learn in Public/Think/(2A1B2) Care For Yourself\|(2A1B2) Care For Yourself]]]. 
