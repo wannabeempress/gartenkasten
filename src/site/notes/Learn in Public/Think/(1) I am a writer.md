@@ -23,9 +23,20 @@ I hope to share something of value. It doesn't need to be perfect. You can rejec
 
 And in doing something badly, maybe I can learn to do it well. Learning is in the doing? [[Learn in Public/Think/(5) Learning In Public Allows You To Grow Faster\|(5) Learning In Public Allows You To Grow Faster]]
 
+
+
 **Part of [[Learn in Public/Pat Oyson-Matthan\|My Identities]]**
 
+<!--
+# Excalidraw Data
 
+## Text Elements
+## Embedded Files
+1d2996f9764e5aebe65659ac0e35514cddccc2c0: [[Resources/icons/icon-pencil-write Pat\|icon-pencil-write Pat]]
+
+abf5c2bc23e5a849b3b37aa3af14c8fdee92647a: [[Resources/icons/icon me self Pat\|icon me self Pat]]
+
+%%
 ## Drawing
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebQBGeISaOiCEfQQOKGZuAG1wMFAwYogSbggAGQB2HlwjAFkAFgBWFOLIWERywn1opH4SzG5nAGZmgAZtcZ4ADir4mfiANjmZ
@@ -110,4 +121,4 @@ AVGKbFYChxRQESxXd0AyUABT+HBAsgoS3ATxOuJ8juQ0hliClC/MCVwh8A9EbgGcG9hWR9wfsewZYhfl
 
 0KoQ3CqAN6Bn4ycAxGQHZVBG6Wc80ANCTIIMuzFrzMFRADpW2xzEmgOADSAyXqyEBQB4ucI0pXYB+IIBsA2QVkGCrgC9L+lYKzQEMremOYD4SKwgIwESw5L8AeSi+L4pN4ks0SxYIBaCAMA+LeRcPDfvJ3ggGBWQaQfFZ61WRb8nMoIOLPisJXEq0E5EcALpUtLMhwRwAMiCADIhAA==
 ```
-%%
+-->

@@ -7,7 +7,7 @@
 This place is always changing; the list below highlights the **15 freshest ideas** aka pages I most recently modified. 🍃
 
 ### Recently modified pages
-- [[Learn in Public/Think/(1) I am a writer\|(1) I am a writer]]: 10:14 PM - August 25, 2025
+- [[Learn in Public/Think/(1) I am a writer\|(1) I am a writer]]: 10:21 PM - August 25, 2025
 - [[Learn in Public/Think/(3B2B2A1C10A) ICF competency framework can be improved\|(3B2B2A1C10A) ICF competency framework can be improved]]: 10:12 PM - August 25, 2025
 - [[Learn in Public/Think/(1A1A) Elements Of Information\|(1A1A) Elements Of Information]]: 3:21 PM - August 25, 2025
 - [[Learn in Public/Think/(1A1A3) Prefer to store useful ideas as idea elements\|(1A1A3) Prefer to store useful ideas as idea elements]]: 3:19 PM - August 25, 2025
