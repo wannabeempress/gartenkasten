@@ -7,7 +7,8 @@
 This place is always changing; the list below highlights the **15 freshest ideas** aka pages I most recently modified. 🍃
 
 ### Recently modified pages
-- [[Learn in Public/Think/(1A1A3) Prefer to store useful ideas by idea elements\|(1A1A3) Prefer to store useful ideas by idea elements]]: 2:27 PM - August 25, 2025
+- [[Learn in Public/Think/(1A1A) Elements Of Information\|(1A1A) Elements Of Information]]: 3:21 PM - August 25, 2025
+- [[Learn in Public/Think/(1A1A3) Prefer to store useful ideas as idea elements\|(1A1A3) Prefer to store useful ideas as idea elements]]: 3:19 PM - August 25, 2025
 - [[Learn in Public/Think/(3B7) Multiple Paths Led To Modern Coaching\|(3B7) Multiple Paths Led To Modern Coaching]]: 1:41 PM - August 25, 2025
 - [[Learn in Public/Think/(9) Referencing practices in coaching vary in density\|(9) Referencing practices in coaching vary in density]]: 12:38 PM - August 25, 2025
 - [[Learn in Public/Think/(5A1A1) POSSE\|(5A1A1) POSSE]]: 12:38 PM - August 25, 2025
@@ -21,7 +22,6 @@ This place is always changing; the list below highlights the **15 freshest ideas
 - [[Learn in Public/Think/(3B7E4) Coaching contextual knowledge\|(3B7E4) Coaching contextual knowledge]]: 12:38 PM - August 25, 2025
 - [[Learn in Public/Think/(4A1D1) Zettelkasten\|(4A1D1) Zettelkasten]]: 12:38 PM - August 25, 2025
 - [[Learn in Public/Think/(3B5B) Coachee Attitude Modulates Coaching Efficacy\|(3B5B) Coachee Attitude Modulates Coaching Efficacy]]: 12:38 PM - August 25, 2025
-- [[Learn in Public/Think/(3B5B2) Effort doesn't always lead to success\|(3B5B2) Effort doesn't always lead to success]]: 12:38 PM - August 25, 2025
 
 { .block-language-dataview}
 
