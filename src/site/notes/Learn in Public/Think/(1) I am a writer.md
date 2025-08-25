@@ -23,7 +23,7 @@ I hope to share something of value. It doesn't need to be perfect. You can rejec
 
 And in doing something badly, maybe I can learn to do it well. Learning is in the doing? [[Learn in Public/Think/(5) Learning In Public Allows You To Grow Faster\|(5) Learning In Public Allows You To Grow Faster]]
 
-**Part of [[Learn in Public/Pat Oyson-Matthan\|Pat Oyson-Matthan]]**
+**Part of [[Learn in Public/Pat Oyson-Matthan\|My Identities]]**
 
 
 ## Drawing
